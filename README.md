@@ -1,2 +1,4 @@
 # FlymeOS6-translate
-Russian translation for Flyme 6
+Multilangual translation for Flyme 6 (Thankfully for the leaked firmware)
+Alan626-Encore96 - Russian translation
+iMarck - Italian translation
