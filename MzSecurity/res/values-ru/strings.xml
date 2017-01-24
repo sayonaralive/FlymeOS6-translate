@@ -378,8 +378,8 @@
     <string name="junk_app_cache_num">Кэш ПО: %1$s</string>
     <string name="junk_clear_mode">Очистка мусора</string>
     <string name="junk_scan_txt">Сканирование: %s</string>
-    <string name="junk_size_can_del">Занято</string>
-    <string name="junk_size_used">Используется</string>
+    <string name="junk_size_can_del">Может быть удалено</string>
+    <string name="junk_size_used">Занято</string>
     <string name="junk_system_cache_num">Системный кэш: %1$s</string>
     <string name="junk_system_num">Ненужных файлов: %1$s</string>
     <string name="junk_timer_clear_mode1">Автоочистка</string>
@@ -730,21 +730,21 @@
     <string name="restore_tittle">Восстановить выбранные сообщения?</string>
     <string name="result_count">результатов</string>
     <string name="rubbish_apk">Новые файлы APK</string>
-    <string name="rubbish_apk_desc">Вышло позже или ещё не установлено</string>
+    <string name="rubbish_apk_desc">Устаревшие и новые версии приложений</string>
     <string name="rubbish_clean">Очистка</string>
     <string name="rubbish_files">Ненужные файлы</string>
     <string name="rubbish_files_desc">Очистка не повлияет на нормальное использование</string>
     <string name="rubbish_memory_item_summary">%1$s процессов и %2$s сервисов</string>
     <string name="rubbish_overapk">Ненужные APK</string>
     <string name="rubbish_overapk_desc">APK-файлы установленного ПО</string>
-    <string name="rubbish_overuninstall">Остатки удалённого ПО</string>
-    <string name="rubbish_overuninstall_desc">Восстановление после очистки невозможно</string>
+    <string name="rubbish_overuninstall">Ост. удалённого ПО</string>
+    <string name="rubbish_overuninstall_desc">Безвозвратное удаление ост. данных</string>
     <string name="rubbish_tmp">Временные файлы</string>
     <string name="rubbish_tmp_desc">Данные приложений могут быть утеряны после очистки</string>
     <string name="rubbish_white_list">Очистка белого списка</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
     <string name="s_mms">Отправить MMS</string>
-    <string name="s_mms_c">отправлять MMS</string>
+    <string name="s_mms_c">Отправлять MMS</string>
     <string name="s_sms">Отправить SMS</string>
     <string name="s_sms_c">Прямая отправка SMS</string>
     <string name="save">Сохранить</string>
@@ -782,7 +782,7 @@
     <string name="short_time_ring">Мошеннический вызов</string>
     <string name="shortcut_managerment">Ярлык</string>
     <string name="shortcut_settings_key">Добавить ярлык на рабочий стол</string>
-    <string name="similar_photo">Одинаковые фото</string>
+    <string name="similar_photo">Похожие фото</string>
     <string name="slide_autorun_hasdata">"Заблокирован автозапуск приложения, освобождено %1$s памяти. 
 Оно не будет работать в фоновом режиме"</string>
     <string name="slide_autorun_nodata">"Заблокирован автозапуск приложения. 
@@ -1076,7 +1076,7 @@
     <string name="unsel_all">Нет</string>
     <string name="update_check">Обновить</string>
     <string name="update_virus_lib_summary">Последнее обновление:</string>
-    <string name="update_virus_lib_title">БД вирусов обновлена</string>
+    <string name="update_virus_lib_title">Обновление БД вирусов</string>
     <string name="usb_install_Entries_allow">Разрешить</string>
     <string name="usb_install_Entries_ask">Запрос</string>
     <string name="usb_install_Entries_deny">Отклонить</string>

@@ -746,7 +746,7 @@
     <string name="s_mms">Send MMS</string>
     <string name="s_mms_c">directly send MMS</string>
     <string name="s_sms">Send SMS</string>
-    <string name="s_sms_c">directly send MMS</string>
+    <string name="s_sms_c">directly send SMS</string>
     <string name="save">Save</string>
     <string name="scan_cloud">Cloud virus scan</string>
     <string name="scan_done">Scan Done</string>
