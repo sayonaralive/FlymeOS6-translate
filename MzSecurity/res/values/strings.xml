@@ -1212,7 +1212,7 @@ It won't run in background."</string>
     <string name="battery_analysis_mode_interval">Time interval</string>
     <string name="battery_analysis_pwl_dur_time">Service wakelock duration:</string>
     <string name="battery_analysis_pwl_name">Name of the service wakelock:</string>
-    <string name="battery_analysis_pwl_num">持有次数:</string>
+    <string name="battery_analysis_pwl_num">Number of Holds:</string>
     <string name="battery_analysis_pwl_repo_name_list">List of package names:</string>
     <string name="battery_analysis_pwl_repo_num">Number of packages:</string>
     <string name="battery_analysis_title">Power consumption statistics</string>
