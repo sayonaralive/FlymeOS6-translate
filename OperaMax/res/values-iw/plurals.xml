@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v2_background_data_usage_this_month">
+        <item quantity="other">‏%1$d אפליקציות השתמשו ב-%2$s ברקע החודש.</item>
+        <item quantity="zero">‏%1$d אפליקציות השתמשו בנתונים ברקע החודש.</item>
+        <item quantity="one">‏אפליקציה %1$d השתמשה ב-%2$s ברקע החודש.</item>
+        <item quantity="two">‏%1$d אפליקציות השתמשו ב-%2$s ברקע החודש.</item>
+        <item quantity="few">‏%1$d אפליקציות השתמשו ב-%2$s ברקע החודש.</item>
+        <item quantity="many">‏%1$d אפליקציות השתמשו ב-%2$s ברקע החודש.</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_this_week">
+        <item quantity="other">‏%1$d אפליקציות השתמשו ב-%2$s ברקע השבוע.</item>
+        <item quantity="zero">‏%1$d אפליקציות השתמשו בנתונים ברקע השבוע.</item>
+        <item quantity="one">‏אפליקציה %1$d השתמשה ב-%2$s ברקע השבוע.</item>
+        <item quantity="two">‏%1$d אפליקציות ב-%2$s ברקע השבוע.</item>
+        <item quantity="few">‏%1$d אפליקציות השתמשו ב-%2$s ברקע השבוע.</item>
+        <item quantity="many">‏%1$d אפליקציות השתמשו ב-%2$s ברקע השבוע.</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_today">
+        <item quantity="other">‏%1$d אפליקציות השתמשו ב-%2$s ברקע היום.</item>
+        <item quantity="zero">‏%1$d אפליקציות השתמשו בנתונים ברקע היום.</item>
+        <item quantity="one">‏אפליקציה %1$d השתמשה ב-%2$s ברקע היום.</item>
+        <item quantity="two">‏%1$d אפליקציות השתמשו ב-%2$s ברקע היום.</item>
+        <item quantity="few">‏%1$d אפליקציות השתמשו ב-%2$s ברקע היום.</item>
+        <item quantity="many">‏%1$d אפליקציות השתמשו ב-%2$s ברקע היום.</item>
+    </plurals>
+    <plurals name="v2_mn_active_passes">
+        <item quantity="other">‏%d שוברים פעילים</item>
+        <item quantity="zero">‏%d שוברים פעילים</item>
+        <item quantity="one">‏שובר פעיל %d</item>
+        <item quantity="two">‏%d שוברים פעילים</item>
+        <item quantity="few">‏%d שוברים פעילים</item>
+        <item quantity="many">‏%d שוברים פעילים</item>
+    </plurals>
+    <plurals name="v2_plurals_days">
+        <item quantity="other">‏%d ימים</item>
+        <item quantity="zero">‏%d ימים</item>
+        <item quantity="one">‏יום %d</item>
+        <item quantity="two">‏%d ימים</item>
+        <item quantity="few">‏%d ימים</item>
+        <item quantity="many">‏%d ימים</item>
+    </plurals>
+    <plurals name="v2_plurals_hours">
+        <item quantity="other">‏%d שעות</item>
+        <item quantity="zero">‏%d שעות</item>
+        <item quantity="one">‏שעה %d</item>
+        <item quantity="two">‏%d שעות</item>
+        <item quantity="few">‏%d שעות</item>
+        <item quantity="many">‏%d שעות</item>
+    </plurals>
+    <plurals name="v2_plurals_minutes">
+        <item quantity="other">‏%d דקות</item>
+        <item quantity="zero">‏%d דקות</item>
+        <item quantity="one">‏דקה %d</item>
+        <item quantity="two">‏%d דקות</item>
+        <item quantity="few">‏%d דקות</item>
+        <item quantity="many">‏%d דקות</item>
+    </plurals>
+    <plurals name="v2_plurals_seconds">
+        <item quantity="other">‏%d שניות</item>
+        <item quantity="zero">‏%d שניות</item>
+        <item quantity="one">‏שנייה %d</item>
+        <item quantity="two">‏%d שניות</item>
+        <item quantity="few">‏%d שניות</item>
+        <item quantity="many">‏%d שניות</item>
+    </plurals>
+    <plurals name="v2_plurals_weeks">
+        <item quantity="other">‏%d שבועות</item>
+        <item quantity="zero">‏%d שבועות</item>
+        <item quantity="one">‏שבוע %d</item>
+        <item quantity="two">‏%d שבועות</item>
+        <item quantity="few">‏%d שבועות</item>
+        <item quantity="many">‏%d שבועות</item>
+    </plurals>
+    <plurals name="v2_timeline_allbackground_data_apps">
+        <item quantity="other">‏%d אפליקציות אחרות</item>
+        <item quantity="zero">‏%d אפליקציות אחרות</item>
+        <item quantity="one">‏אפליקציה %d אחרת</item>
+        <item quantity="two">‏%d אפליקציות אחרות</item>
+        <item quantity="few">‏%d אפליקציות אחרות</item>
+        <item quantity="many">‏%d אפליקציות אחרות</item>
+    </plurals>
+</resources>

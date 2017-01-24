@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>תמיד</item>
+        <item>בעת הצורך</item>
+        <item>כבוי</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>אף פעם</item>
+        <item>רק ברשת אלחוטית</item>
+        <item>תמיד</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>זיהוי אוטומטי</item>
+        <item>לטינית -1 (ISO-8859-1)</item>
+        <item>יוניקוד (UTF-8)</item>
+        <item>סינית (GBK)</item>
+        <item>סינית (Big5)</item>
+        <item>יפנית (ISO-2022-JP)</item>
+        <item>יפנית (SHIFT_JIS)</item>
+        <item>יפנית (EUC-JP)</item>
+        <item>קוריאנית (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>רחוק</item>
+        <item>בינוני</item>
+        <item>סגור</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>דף נוכחי</item>
+        <item>דף ריק</item>
+        <item>דף ברירת מחדל</item>
+        <item>נפוצים ביותר</item>
+        <item>אחר</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>אף פעם</item>
+        <item>רק ברשת אלחוטית</item>
+        <item>תמיד</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>קטן מאוד</item>
+        <item>קטן</item>
+        <item>רגיל</item>
+        <item>גדול</item>
+        <item>גדול במיוחד</item>
+    </string-array>
+    <array name="locale_paks">
+        <item>@raw/he</item>
+        <item>@raw/en_us</item>
+    </array>
+    <string-array name="address_type">
+        <item>Home</item>
+        <item>עבודה</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="bookmark_folder_context_menu">
+        <item>שנה את שם התיקיה</item>
+        <item>מחק את התיקייה</item>
+    </string-array>
+    <string-array name="businesscard_address_type">
+        <item>בית</item>
+        <item>עבודה</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="businesscard_instantmessenger_type">
+        <item>QQ</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>Hangouts</item>
+        <item>ICQ</item>
+    </string-array>
+    <string-array name="businesscard_mail_type">
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="businesscard_phone_type">
+        <item>Home</item>
+        <item>עבודה</item>
+        <item>Mobile</item>
+        <item>Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="mail_type">
+        <item>Personal</item>
+        <item>Work</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>ינו</item>
+        <item>פבר</item>
+        <item>מרץ</item>
+        <item>אפר</item>
+        <item>רשאי</item>
+        <item>יונ</item>
+        <item>יול</item>
+        <item>אוג</item>
+        <item>ספט</item>
+        <item>אוק</item>
+        <item>נוב</item>
+        <item>דצמ</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="phone_type">
+        <item>Home</item>
+        <item>עבודה</item>
+        <item>Mobile</item>
+        <item>Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="pref_homepage_choices2">
+        <item>השתמש בדף הנוכחי</item>
+        <item>מועדפים</item>
+        <item>נפוצים ביותר</item>
+        <item>מותאם אישית</item>
+    </string-array>
+    <string-array name="pref_pic_quality_key">
+        <item>נמוך</item>
+        <item>בינוני</item>
+        <item>גבוה</item>
+    </string-array>
+    <string-array name="pref_set_text_degree_choices">
+        <item>ברירת מחדל</item>
+        <item>בינוני</item>
+        <item>גדול</item>
+    </string-array>
+    <string-array name="pref_toolbar_style_item">
+        <item>סגנון גרפי</item>
+        <item>קלאסי</item>
+    </string-array>
+    <string-array name="pref_topic_news_setting_name">
+        <item>עדכן כברירת מחדל</item>
+        <item>עדכן דרך WLAN בלבד</item>
+        <item>פשוט</item>
+    </string-array>
+    <string-array name="title_bar_share_item">
+        <item>Bluetooth</item>
+        <item>הודעה</item>
+        <item>אימייל</item>
+    </string-array>
+</resources>

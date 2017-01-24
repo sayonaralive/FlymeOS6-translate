@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_readusagestats">לקרוא נתונים סטטיסטיים לשימוש</string>
+    <string name="permdesc_readusagestats">מאפשר ליישום לקרוא נתונים סטטיסטיים של שימוש.</string>
+    <string name="permlab_writeusagestats">לכתוב נתונים סטטיסטיים לשימוש</string>
+    <string name="permdesc_writeusagestats">מאפשר ליישום לכתוב נתונים סטטיסטיים של שימוש.</string>
+</resources>

@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>פחות מדקה מעכשיו</item>
+        <item>בעוד %1$s</item>
+        <item>בעוד %2$s</item>
+        <item>בעוד %1$s %2$s</item>
+        <item>בעוד %3$s</item>
+        <item>בעוד %1$s %3$s</item>
+        <item>בעוד %2$s %3$s</item>
+        <item>בעוד %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="cities_names">
+        <item>"אביג'אן"</item>
+        <item>אקרה</item>
+        <item>אדיס אבבה</item>
+        <item>"אלג'יר"</item>
+        <item>בלנטיר</item>
+        <item>בראזאווייל</item>
+        <item>קהיר</item>
+        <item>קזבלנקה</item>
+        <item>קונאקרי</item>
+        <item>דאקאר</item>
+        <item>דאר א-סאלם</item>
+        <item>"ג'יבוטי"</item>
+        <item>פריטאון</item>
+        <item>גאבורון</item>
+        <item>הארארה</item>
+        <item>יוהנסבורג</item>
+        <item>קמפלה</item>
+        <item>חרטום</item>
+        <item>קיגאלי</item>
+        <item>קינשסה</item>
+        <item>לאגוס</item>
+        <item>מסרו</item>
+        <item>מוגדישו</item>
+        <item>ניירובי</item>
+        <item>סאו תומה</item>
+        <item>טימבקטו</item>
+        <item>טריפולי</item>
+        <item>תוניס</item>
+        <item>"אנקורג'"</item>
+        <item>מנדוסה</item>
+        <item>ארובה</item>
+        <item>אסנסיון</item>
+        <item>ברבדוס</item>
+        <item>בליז</item>
+        <item>בוגוטה</item>
+        <item>בואנוס איירס</item>
+        <item>קנקון</item>
+        <item>קראקאס</item>
+        <item>קיימן</item>
+        <item>שיקאגו</item>
+        <item>קוסטה ריקה</item>
+        <item>קוראסאו</item>
+        <item>דוסון קריק</item>
+        <item>דנוור</item>
+        <item>דטרויט</item>
+        <item>רוזו</item>
+        <item>אדמונטון</item>
+        <item>סאו טומה ופרינסיפה</item>
+        <item>פורטאלזה</item>
+        <item>גרנד טורק</item>
+        <item>גרנדה</item>
+        <item>גואטמלה סיטי</item>
+        <item>גיאנה</item>
+        <item>האליפקס</item>
+        <item>הוואנה</item>
+        <item>אינדיאנאפוליס</item>
+        <item>Knox</item>
+        <item>מרנגו</item>
+        <item>פטרסבורג</item>
+        <item>טל סיטי</item>
+        <item>ויווי</item>
+        <item>ונסן</item>
+        <item>ווינאמק</item>
+        <item>קינגסטון</item>
+        <item>נואסטרה סניורה דה לה פאס</item>
+        <item>לימה</item>
+        <item>"לוס אנג'לס"</item>
+        <item>לואיוויל</item>
+        <item>מנגואה</item>
+        <item>מרטיניק</item>
+        <item>מנדוסה</item>
+        <item>מטלאקאטלה</item>
+        <item>מקסיקו סיטי</item>
+        <item>מונטריי</item>
+        <item>מונטווידאו</item>
+        <item>מונטריאול</item>
+        <item>נסאו</item>
+        <item>ניו יורק</item>
+        <item>באולה</item>
+        <item>מרכז</item>
+        <item>ניו סיילם</item>
+        <item>פנמה</item>
+        <item>פניקס</item>
+        <item>פורט אוף ספיין</item>
+        <item>פורט-או-פרנס</item>
+        <item>סאן חואן</item>
+        <item>סנטו דומינגו</item>
+        <item>סאו פאולו</item>
+        <item>"סנט ג'ונס"</item>
+        <item>סנט קיטס</item>
+        <item>"סנטה לוצ'יה"</item>
+        <item>סנט תומאס</item>
+        <item>טיחואנה</item>
+        <item>טורונטו</item>
+        <item>ונקובר</item>
+        <item>וויניפג</item>
+        <item>הקוטב הדרומי</item>
+        <item>לונגיירבין</item>
+        <item>אלמטי</item>
+        <item>עמאן</item>
+        <item>אנאדיר</item>
+        <item>אקטאו</item>
+        <item>בגדד</item>
+        <item>בחריין</item>
+        <item>באקו</item>
+        <item>בנגקוק</item>
+        <item>ביירות</item>
+        <item>כלכותה</item>
+        <item>דמשק</item>
+        <item>דאקה</item>
+        <item>דובאי</item>
+        <item>עזה</item>
+        <item>חברון</item>
+        <item>"הו צ'י מין"</item>
+        <item>הונג קונג</item>
+        <item>איסטנבול</item>
+        <item>"ג'קרטה"</item>
+        <item>ירושלים</item>
+        <item>קאבול</item>
+        <item>"קראצ'י"</item>
+        <item>קטמנדו</item>
+        <item>קואלה לומפור</item>
+        <item>כווית</item>
+        <item>מקאו</item>
+        <item>מנילה</item>
+        <item>מוסקט</item>
+        <item>פנום פן</item>
+        <item>פיונגיאנג</item>
+        <item>קטאר</item>
+        <item>רנגון</item>
+        <item>ריאד</item>
+        <item>סייגון</item>
+        <item>סיאול</item>
+        <item>שנגחאי</item>
+        <item>סינגפור</item>
+        <item>טאיפה</item>
+        <item>טהראן</item>
+        <item>תל אביב</item>
+        <item>טוקיו</item>
+        <item>אולאנבאטר</item>
+        <item>ברמודה</item>
+        <item>האיים הקנריים</item>
+        <item>קייפ ורדה</item>
+        <item>רייקיאוויק</item>
+        <item>סטנלי</item>
+        <item>אדלייד</item>
+        <item>בריסביין</item>
+        <item>קנברה</item>
+        <item>דרווין</item>
+        <item>מלבורן</item>
+        <item>"ניו סאות' וויילס"</item>
+        <item>"פרת'"</item>
+        <item>קווינסלנד</item>
+        <item>סידני</item>
+        <item>ויקטוריה</item>
+        <item>ניופאונדלנד</item>
+        <item>"ססקצ'ואן"</item>
+        <item>אי הפסחא</item>
+        <item>אמסטרדם</item>
+        <item>אנדורה לה וולה</item>
+        <item>אתונה</item>
+        <item>בלפסט</item>
+        <item>בלגרד</item>
+        <item>ברלין</item>
+        <item>ברטיסלאבה</item>
+        <item>בריסל</item>
+        <item>בוקרשט</item>
+        <item>בודפשט</item>
+        <item>קישינב</item>
+        <item>קופנהגן</item>
+        <item>דבלין</item>
+        <item>גיברלטר</item>
+        <item>הלסינקי</item>
+        <item>דגלאס</item>
+        <item>איסטנבול</item>
+        <item>קייב</item>
+        <item>ליסבון</item>
+        <item>לונדון</item>
+        <item>לוקסמבורג</item>
+        <item>מדריד</item>
+        <item>מלטה</item>
+        <item>מינסק</item>
+        <item>מונקו</item>
+        <item>מוסקבה</item>
+        <item>אוסלו</item>
+        <item>פריס</item>
+        <item>פראג</item>
+        <item>ריגה</item>
+        <item>רומא</item>
+        <item>סן מרינו</item>
+        <item>סרייבו</item>
+        <item>סימפרופול</item>
+        <item>סקופיה</item>
+        <item>סופיה</item>
+        <item>שטוקהולם</item>
+        <item>טאלין</item>
+        <item>הוותיקן</item>
+        <item>וינה</item>
+        <item>וילנא</item>
+        <item>ורשה</item>
+        <item>זאגרב</item>
+        <item>ציריך</item>
+        <item>אנטננריבו</item>
+        <item>האיים המלדיביים</item>
+        <item>מאוריציוס</item>
+        <item>אוקלנד</item>
+        <item>"פיג'י"</item>
+        <item>גואם</item>
+        <item>הונולולו</item>
+        <item>קיריטימטי</item>
+        <item>נומאה</item>
+        <item>סמואה</item>
+        <item>טהיטי</item>
+        <item>אנטיגואה</item>
+        <item>אוסטין</item>
+        <item>בוסטון</item>
+        <item>קלגארי</item>
+        <item>קולומבוס</item>
+        <item>דאלאס</item>
+        <item>נוקסוויל</item>
+        <item>ממפיס</item>
+        <item>מיאמי</item>
+        <item>מיניאפוליס</item>
+        <item>אוטווה</item>
+        <item>פילדלפיה</item>
+        <item>פורטלנד</item>
+        <item>סן דייגו</item>
+        <item>סן פרנסיסקו</item>
+        <item>סולט לייק סיטי</item>
+        <item>סן חוזה</item>
+        <item>סן סלוודור</item>
+        <item>סיאטל</item>
+        <item>סנט לואיס</item>
+        <item>וושינגטון הבירה</item>
+        <item>יוסטון</item>
+        <item>סן אנטוניו</item>
+        <item>"ג'קסונוויל"</item>
+        <item>בולטימור</item>
+        <item>נאשוויל</item>
+        <item>מילווקי</item>
+        <item>אוקלהומה סיטי</item>
+        <item>לאס וגאס</item>
+        <item>אלבקרקי</item>
+        <item>טוסון</item>
+        <item>סקרמנטו</item>
+        <item>אטלנטה</item>
+        <item>קליבלנד</item>
+        <item>ניו-אורלינס</item>
+        <item>טמפה</item>
+        <item>פיטסבורג</item>
+        <item>סינסינטי</item>
+        <item>מאונטן ויו</item>
+        <item>רינו</item>
+        <item>בלאק רוק סיטי</item>
+        <item>דוחה</item>
+        <item>"בייג'ין"</item>
+        <item>מומבאי</item>
+        <item>דלהי</item>
+        <item>אוסקה</item>
+        <item>לאהור</item>
+        <item>צנעא</item>
+        <item>ברצלונה</item>
+        <item>מינכן</item>
+        <item>מילאנו</item>
+        <item>פרנקפורט</item>
+        <item>האנוי</item>
+        <item>אנקרה</item>
+        <item>בנגלור</item>
+        <item>ברזיליה</item>
+        <item>קייפטאון</item>
+        <item>אסלאמאבאד</item>
+        <item>"ריו דה-ז'ניירו"</item>
+        <item>אן-ארבור</item>
+        <item>בולדר</item>
+        <item>"קיימברידג'"</item>
+        <item>קירקלנד</item>
+        <item>מדיסון</item>
+        <item>"גואנגז'ו"</item>
+        <item>היידראבאד</item>
+        <item>רסטון</item>
+        <item>בלו הוריזונטה</item>
+        <item>סנטיאגו</item>
+        <item>מונרוביה</item>
+        <item>קולומבו</item>
+        <item>"צ'יוואווה"</item>
+        <item>סאו טומה ופרינסיפה</item>
+        <item>גורגאון</item>
+        <item>"מנצ'סטר"</item>
+        <item>קייב</item>
+        <item>סנט פטרסבורג</item>
+        <item>קרקוב</item>
+        <item>ורוצלאב</item>
+        <item>המבורג</item>
+        <item>אולו</item>
+        <item>חיפה</item>
+        <item>סאן חואן</item>
+        <item>טגוסיגלפה</item>
+        <item>פרמאריבו</item>
+        <item>קיטו</item>
+    </string-array>
+    <string-array name="clock_fast_set">
+        <item>זהה לזמן המקומי</item>
+        <item>%1$s אחורה</item>
+        <item>%2$s אחורה</item>
+        <item>%1$s %2$s אחורה</item>
+        <item>%3$s אחורה</item>
+        <item>%1$s %3$s אחורה</item>
+        <item>%2$s %3$s אחורה</item>
+        <item>%1$s %2$s אחורה</item>
+    </string-array>
+    <string-array name="clock_slow_set">
+        <item>זהה לזמן המקומי</item>
+        <item>%1$s קדימה</item>
+        <item>%2$s קדימה</item>
+        <item>%1$s %2$s קדימה</item>
+        <item>%3$s קדימה</item>
+        <item>%1$s %3$s קדימה</item>
+        <item>%2$s %3$s קדימה</item>
+        <item>%1$s %2$s קדימה</item>
+    </string-array>
+    <string-array name="coutries_names">
+        <item>חוף השנהב</item>
+        <item>גאנה</item>
+        <item>אתיופיה</item>
+        <item>"אלג'יר"</item>
+        <item>מלאווי</item>
+        <item>קונגו</item>
+        <item>מצרים</item>
+        <item>מָרוֹקוֹ</item>
+        <item>גינאה</item>
+        <item>סנגל</item>
+        <item>טנזניה</item>
+        <item>"ג'יבוטי"</item>
+        <item>סיירה לאון</item>
+        <item>בוטסואנה</item>
+        <item>זימבבואה</item>
+        <item>דרום אפריקה</item>
+        <item>אוגנדה</item>
+        <item>סודן</item>
+        <item>רואנדה</item>
+        <item>הרפובליקה הדמוקרטית של קונגו</item>
+        <item>ניגריה</item>
+        <item>לסוטו</item>
+        <item>סומליה</item>
+        <item>קניה</item>
+        <item>סאו טומה ופרינסיפה</item>
+        <item>מאלי</item>
+        <item>לוב</item>
+        <item>תוניסיה</item>
+        <item>ארצות הברית</item>
+        <item>ארגנטינה</item>
+        <item>ארובה</item>
+        <item>פרגוואי</item>
+        <item>ברבדוס</item>
+        <item>בליז</item>
+        <item>קולומביה</item>
+        <item>ארגנטינה</item>
+        <item>מקסיקו</item>
+        <item>ונצואלה</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>קוסטה ריקה</item>
+        <item>קוראסאו</item>
+        <item>קנדה</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>דומיניקה</item>
+        <item>קנדה</item>
+        <item>ברזיל</item>
+        <item>ברזיל</item>
+        <item>C0</item>
+        <item>גרנדה</item>
+        <item>גואטמלה</item>
+        <item>גיאנה</item>
+        <item>קנדה</item>
+        <item>קובה</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>צרפת</item>
+        <item>ארצות הברית</item>
+        <item>"ג'מייקה"</item>
+        <item>בוליביה</item>
+        <item>פרו</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ניקרגואה</item>
+        <item>מרטיניק</item>
+        <item>ארגנטינה</item>
+        <item>ארצות הברית</item>
+        <item>מקסיקו</item>
+        <item>מקסיקו</item>
+        <item>אורוגוואי</item>
+        <item>קנדה</item>
+        <item>בהאמה</item>
+        <item>ארצות הברית</item>
+        <item>C0</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>פנמה</item>
+        <item>ארצות הברית</item>
+        <item>טרינידד וטובגו</item>
+        <item>האיטי</item>
+        <item>פוארטו ריקו</item>
+        <item>הרפובליקה הדומיניקנית</item>
+        <item>ברזיל</item>
+        <item>קנדה</item>
+        <item>הפדרציה של סנט קיטס ונוויס</item>
+        <item>"סט לוצ'יה"</item>
+        <item>איי הבתולה האמריקאיים</item>
+        <item>מקסיקו</item>
+        <item>קנדה</item>
+        <item>קנדה</item>
+        <item>קנדה</item>
+        <item>C0</item>
+        <item>נורווגיה</item>
+        <item>קזחסטן</item>
+        <item>ירדן</item>
+        <item>רוּסִיָה</item>
+        <item>קזחסטן</item>
+        <item>עיראק</item>
+        <item>בחריין</item>
+        <item>"אזרבייג'ן"</item>
+        <item>תאילנד</item>
+        <item>לבנון</item>
+        <item>הודו</item>
+        <item>סוּריָה</item>
+        <item>בנגלדש</item>
+        <item>איחוד האמירויות הערביות</item>
+        <item>ישראל</item>
+        <item>ישראל</item>
+        <item>וייטנאם</item>
+        <item>סין</item>
+        <item>טורקיה</item>
+        <item>אינדונזיה</item>
+        <item>C0</item>
+        <item>אפגניסטן</item>
+        <item>פקיסטן</item>
+        <item>נפאל</item>
+        <item>מלזיה</item>
+        <item>כווית</item>
+        <item>סין</item>
+        <item>פיליפינים</item>
+        <item>עומאן</item>
+        <item>קמבודיה</item>
+        <item>צפון קוריאה</item>
+        <item>C0</item>
+        <item>מיאנמר</item>
+        <item>ערב הסעודית</item>
+        <item>C0</item>
+        <item>דרום קוריאה</item>
+        <item>סין</item>
+        <item>סינגפור</item>
+        <item>סין</item>
+        <item>איראן</item>
+        <item>ישראל</item>
+        <item>יפן</item>
+        <item>מונגוליה</item>
+        <item>ברמודה</item>
+        <item>סְפָרַד</item>
+        <item>קייפ וורדה</item>
+        <item>איסלנד</item>
+        <item>איי פוקלנד</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>אוסטרליה</item>
+        <item>קנדה</item>
+        <item>קנדה</item>
+        <item>"הרפובליקה של צ'ילה"</item>
+        <item>הולנד</item>
+        <item>אנדורה</item>
+        <item>יוון</item>
+        <item>הממלכה המאוחדת</item>
+        <item>סרביה</item>
+        <item>גרמניה</item>
+        <item>סלובקיה</item>
+        <item>בלגיה</item>
+        <item>רומניה</item>
+        <item>הונגריה</item>
+        <item>מולדובה</item>
+        <item>דנמרק</item>
+        <item>אירלנד</item>
+        <item>גיברלטר</item>
+        <item>פינלנד</item>
+        <item>האי מאן</item>
+        <item>טורקיה</item>
+        <item>אוקראינה</item>
+        <item>פּוֹרטוּגָל</item>
+        <item>הממלכה המאוחדת</item>
+        <item>לוקסמבורג</item>
+        <item>סְפָרַד</item>
+        <item>מלטה</item>
+        <item>בלרוס</item>
+        <item>מונקו</item>
+        <item>רוּסִיָה</item>
+        <item>נורווגיה</item>
+        <item>צרפת</item>
+        <item>"צ'כיה"</item>
+        <item>לטביה</item>
+        <item>איטליה</item>
+        <item>סן מרינו</item>
+        <item>בוסניה והרצגובינה</item>
+        <item>אוקראינה</item>
+        <item>מקדוניה (הרפובליקה היוגוסלבית לשעבר מקדוניה)</item>
+        <item>בולגריה</item>
+        <item>שוודיה</item>
+        <item>אסטוניה</item>
+        <item>הוותיקן</item>
+        <item>אוסטריה</item>
+        <item>ליטא</item>
+        <item>פּוֹלִין</item>
+        <item>קרואטיה</item>
+        <item>שווייץ</item>
+        <item>מדגסקר</item>
+        <item>האיים המלדיביים</item>
+        <item>מאוריציוס</item>
+        <item>ניו זילנד</item>
+        <item>"פיג'י"</item>
+        <item>גואם</item>
+        <item>ארצות הברית</item>
+        <item>קיריבטי</item>
+        <item>קלדוניה החדשה</item>
+        <item>סמואה</item>
+        <item>פולינזיה הצרפתית</item>
+        <item>אנטיגואה וברבודה</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>קנדה</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>קנדה</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>קוסטה ריקה</item>
+        <item>אל סלבדור</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>קטאר</item>
+        <item>סין</item>
+        <item>הודו</item>
+        <item>הודו</item>
+        <item>יפן</item>
+        <item>פקיסטן</item>
+        <item>תֵימָן</item>
+        <item>סְפָרַד</item>
+        <item>גרמניה</item>
+        <item>איטליה</item>
+        <item>גרמניה</item>
+        <item>וייטנאם</item>
+        <item>טורקיה</item>
+        <item>הודו</item>
+        <item>ברזיל</item>
+        <item>דרום אפריקה</item>
+        <item>פקיסטן</item>
+        <item>ברזיל</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>ארצות הברית</item>
+        <item>סין</item>
+        <item>הודו</item>
+        <item>ארצות הברית</item>
+        <item>ברזיל</item>
+        <item>"צ'ילה"</item>
+        <item>ליבריה</item>
+        <item>סרי לנקה</item>
+        <item>מקסיקו</item>
+        <item>ברזיל</item>
+        <item>הודו</item>
+        <item>C0</item>
+        <item>C0</item>
+        <item>רוּסִיָה</item>
+        <item>פּוֹלִין</item>
+        <item>פּוֹלִין</item>
+        <item>גרמניה</item>
+        <item>פינלנד</item>
+        <item>ישראל</item>
+        <item>ארגנטינה</item>
+        <item>הונדורס</item>
+        <item>סורינם</item>
+        <item>אקוודור</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>ינו</item>
+        <item>פבר</item>
+        <item>מרץ</item>
+        <item>אפר</item>
+        <item>רשאי</item>
+        <item>יונ</item>
+        <item>יול</item>
+        <item>אוג</item>
+        <item>ספט</item>
+        <item>אוק</item>
+        <item>נוב</item>
+        <item>דצמ</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+</resources>

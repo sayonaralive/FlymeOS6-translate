@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d ימים לפני כן</item>
+        <item quantity="one">יום אחד לפני</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d שעות לפני כן</item>
+        <item quantity="one">שעה אחת לפני</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d דקות לפני כן</item>
+        <item quantity="one">דקה אחת לפני כן</item>
+    </plurals>
+    <plurals name="fmt_in_num_days">
+        <item quantity="other">לאחר %d ימים</item>
+        <item quantity="one">מחר</item>
+    </plurals>
+    <plurals name="fmt_num_days_ago">
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">אתמול</item>
+    </plurals>
+    <plurals name="numberPickerN">
+        <item quantity="other">לסיים לאחר %d פעמים?</item>
+        <item quantity="one">ארוע חד-פעמי</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">חזרה בפעם %d</item>
+        <item quantity="one">חזרה בפעם %d</item>
+    </plurals>
+    <plurals name="repeatCountN">
+        <item quantity="other">%d פעמים</item>
+        <item quantity="one">פעם אחת</item>
+    </plurals>
+</resources>
