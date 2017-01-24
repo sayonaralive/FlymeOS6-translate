@@ -1162,4 +1162,7 @@
     <string name="msg_accept_all_notify">לאפשר הודעה עבור כל היישומים?</string>
     <string name="msg_reject_all_dialog">לא להרשות הודעות קופצות עבור כל היישומים?</string>
     <string name="pop_msg">חלונות קופצים</string>
+    <string name="safe_scanning_process_on">סורק...</string>
+    <string name="safe_scanning_process_no_risk">לא נמצאו איומים</string>
+    <string name="safe_scanning_process_started">הסריקה החלה</string>
 </resources>
