@@ -602,7 +602,7 @@
     <string name="op_camera">מצלמה</string>
     <string name="op_camera_c">השתמש במצלמה</string>
     <string name="op_getinstallpkg">קבל רשימת יישומים מותקנים</string>
-    <string name="op_imei">גיזה למזהה טלפון</string>
+    <string name="op_imei">גישה למזהה טלפון</string>
     <string name="op_imei_c">קבל את מזהה הטלפון</string>
     <string name="op_phone_state">מצב שיחה</string>
     <string name="op_phone_state_c">קבל את מצב הטלפון</string>

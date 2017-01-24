@@ -196,7 +196,7 @@
     <string name="location_c">אתר את הטלפון דרך רשת או לוויין</string>
     <string name="op_camera">מצלמה</string>
     <string name="op_camera_c">השתמש במצלמה</string>
-    <string name="op_imei">גיזה למזהה טלפון</string>
+    <string name="op_imei">גישה למזהה טלפון</string>
     <string name="op_imei_c">גישה למזהה הטלפון</string>
     <string name="op_setting">שנה הגדרות מערכת</string>
     <string name="op_setting_c">שנה את הגדרות המערכת</string>
