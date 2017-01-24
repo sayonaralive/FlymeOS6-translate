@@ -1050,7 +1050,7 @@
     <string name="type_app_used_app">Частые приложения</string>
     <string name="type_audio">Музыка</string>
     <string name="type_bigfile">Большие файлы</string>
-    <string name="type_other">Мусор и кэши</string>
+    <string name="type_other">Мусор и кэш</string>
     <string name="type_risk">Уязвимые приложения</string>
     <string name="type_risk_pay">Риск скрытых платежей</string>
     <string name="type_risk_stealaccount">Риск взлома аккаунта</string>
