@@ -2,8 +2,8 @@
 <resources>
     <string-array name="availability">
         <item>עסוק</item>
-        <item>זמין</item>
-        <item>זמני</item>
+        <item>פנוי</item>
+        <item>אולי</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>ארוע זה בלבד</item>
@@ -25,7 +25,7 @@
     </string-array>
     <string-array name="gre_festival">
         <item>שנה חדשה</item>
-        <item>וולנטיין</item>
+        <item></item>
         <item>יום האישה</item>
         <item></item>
         <item></item>
@@ -43,9 +43,9 @@
         <item></item>
         <item>יום המורה</item>
         <item></item>
-        <item>ליל כל הקדושים</item>
-        <item>ערב חג המולד</item>
-        <item>חג המולד</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="horoscope_array">
         <item>מזל טלה</item>
@@ -138,7 +138,7 @@
     <string-array name="quick_response_defaults">
         <item>אאחר בכמה דקות</item>
         <item>אהיה שם בעוד 10 דקות בערך.</item>
-        <item>התחילו בלעדיי.</item>
+        <item>תתחילו בלעדיי.</item>
         <item>סליחה, לא אוכל להגיע, נצטרך לקבוע מחדש</item>
         <item>הוסף הודעה משלך...</item>
         <item>ביטול</item>
@@ -146,7 +146,7 @@
     <string-array name="reminder_methods_labels">
         <item>התראה</item>
         <item>אימייל</item>
-        <item>SMS</item>
+        <item>מסרון</item>
         <item>התראה</item>
     </string-array>
     <string-array name="repeats_end_labels">
@@ -165,16 +165,16 @@
         <item>יום שלישי</item>
         <item>יום רביעי</item>
         <item>יום חמישי</item>
-        <item>" יום שישי"</item>
-        <item>יום שבת</item>
+        <item>יום שישי</item>
+        <item>שבת</item>
     </string-array>
     <string-array name="weekarr">
-        <item>S</item>
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>T</item>
-        <item>F</item>
-        <item>S</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ש</item>
     </string-array>
 </resources>

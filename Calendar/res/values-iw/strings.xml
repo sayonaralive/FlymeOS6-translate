@@ -339,7 +339,7 @@
     <string name="pref_title_general_preferences">הגדרות כלליות</string>
     <string name="pref_title_hide_declined">הסתר אירועים שנדחו</string>
     <string name="pref_title_hide_past">הסתר אירועים שהתקיימו</string>
-    <string name="pref_title_holiday_zone">מתחם נופש</string>
+    <string name="pref_title_holiday_zone">חופשים על פי אזור</string>
     <string name="pref_title_horoscope">קבוצת כוכבים</string>
     <string name="pref_title_notice">הגדרות התראה</string>
     <string name="pref_title_recommend">מומלץ</string>
