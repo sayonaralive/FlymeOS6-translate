@@ -423,8 +423,8 @@
     <string name="zone_auto">Автоматический часовой пояс</string>
     <string name="zone_auto_summaryOn">Использовать часовой пояс сети</string>
     <string name="zone_auto_summaryOff">Использовать часовой пояс сети</string>
-    <string name="date_time_24hour_title">24-часовой формат</string>
-    <string name="date_time_24hour">24-часовой формат</string>
+    <string name="date_time_24hour_title">24-часовой формат времени</string>
+    <string name="date_time_24hour">24-часовой формат времени</string>
     <string name="date_time_set_time_title">Время</string>
     <string name="date_time_set_time">Время</string>
     <string name="date_time_set_timezone_title">Часовой пояс</string>
@@ -1884,7 +1884,7 @@
     <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
     <string name="privacy_settings">Восстановление и сброс</string>
     <string name="privacy_settings_title">Восстановление и сброс</string>
-    <string name="backup_section_title">Копирование и восстановление</string>
+    <string name="backup_section_title">Рез. копирование и восстановление</string>
     <string name="personal_data_section_title">Личные данные</string>
     <string name="backup_data_title">Создать резервную копию данных</string>
     <string name="backup_data_summary">Сохранять резервные копии данных приложений, паролей точек доступа Wi-Fi и настроек на серверах Google</string>
