@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">שיר אחד הוסף</item>
+        <item quantity="one">שיר אחד הוסף</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d אלבומים</item>
+        <item quantity="one">אלבום אחד</item>
+    </plurals>
+    <plurals name="artist_count">
+        <item quantity="other">%d אמנים</item>
+        <item quantity="one">אמן אחד</item>
+    </plurals>
+    <plurals name="delete_album_confirm">
+        <item quantity="other">מחק %1$d אלבומים</item>
+        <item quantity="one">מחק אלבום אחד</item>
+    </plurals>
+    <plurals name="delete_artist_confirm">
+        <item quantity="other">מחק %1$d אמנים</item>
+        <item quantity="one">מחק אמן אחד</item>
+    </plurals>
+    <plurals name="delete_song_confirm">
+        <item quantity="other">מחק %1$d שירים</item>
+        <item quantity="one">מחק שיר אחד</item>
+    </plurals>
+    <plurals name="delete_song_from_playlist_prompt">
+        <item quantity="other">הסר %1$d שירים ומחק את הקבצים המקומיים</item>
+        <item quantity="one">מחק שיר והסר קבצים מקומיים</item>
+    </plurals>
+    <plurals name="download_completed_count">
+        <item quantity="other">%d שירים הורדו</item>
+        <item quantity="one">הורדה של שיר אחד</item>
+    </plurals>
+    <plurals name="download_failed_count">
+        <item quantity="other">הורדת %d שירים נכשלה</item>
+        <item quantity="one">הורדת שיר אחד נכשלה</item>
+    </plurals>
+    <plurals name="remove_song">
+        <item quantity="other">הסר %1$d שיר</item>
+        <item quantity="one">הסר שיר אחד</item>
+    </plurals>
+    <plurals name="select_count">
+        <item quantity="other">בחר %d</item>
+        <item quantity="one">בחר אחד</item>
+    </plurals>
+    <plurals name="song_item_count">
+        <item quantity="other">%1$d שירים</item>
+        <item quantity="one">שיר אחד</item>
+    </plurals>
+</resources>

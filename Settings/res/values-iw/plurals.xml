@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">אתה עכשיו %1$d צעד(ים) אחד לפני להיות מפתח.</item>
+        <item quantity="one">אתה עכשיו %1$d צעד(ים) אחד לפני להיות מפתח.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">‏הסיסמא צריכה להכיל %d אותיות לפחות.</item>
+        <item quantity="one">הסיסמא צריכה להכיל אות אחת לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">‏הסיסמא צריכה להכיל %d אותיות קטנות לפחות.</item>
+        <item quantity="one">הסיסמא צריכה להכיל אות קטנה אחת לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">‏הסיסמא צריכה להכיל %d אותיות גדולות לפחות.</item>
+        <item quantity="one">הסיסמא צריכה להכיל אות גדולה אחת לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">‏הסיסמא צריכה להכיל%d ספרות לפחות.</item>
+        <item quantity="one">הסיסמא צריכה להכיל ספרה אחת לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">‏הסיסמא צריכה להכיל %d סמלים מיוחדים לפחות.</item>
+        <item quantity="one">הסיסמא צריכה להכיל סמל מיוחד אחד לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">הסיסמא צריכה להכיל %d סמל אחד לפחות.</item>
+        <item quantity="one">הסיסמא צריכה להכיל תו אחד לפחות שאינו אות.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">קוד ה-PIN של ה-SIM שגוי. יש לך %d ניסיונות</item>
+        <item quantity="one">קוד ה-PIN של ה-SIM שגוי. יש לך %d ניסיונות לפני שתצטרך ליצור קשר עם המפעיל הסלולרי לפתיחת הטלפון</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">היישום %d יכול לקרוא התראות</item>
+        <item quantity="one">היישום %d יכול לקרוא התראות</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">היישום %d מספק תנאים</item>
+        <item quantity="one">היישום %d מספק תנאים</item>
+    </plurals>
+    <plurals name="mz_fp_management_count">
+        <item quantity="other">%1$d טביעות אצבע רשומות</item>
+        <item quantity="one">%1$d טביעות אצבע רשומות</item>
+    </plurals>
+</resources>

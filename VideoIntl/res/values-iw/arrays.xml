@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="experience_list">
+        <item>מבוא מוצר</item>
+        <item>מבוא ל-Flyme</item>
+        <item>השתמש בטיפים</item>
+        <item>נגן וידאו</item>
+    </string-array>
+    <string-array name="labeltype">
+        <item>מוזיקה</item>
+        <item>במאי</item>
+        <item>שחקן</item>
+        <item>סוג</item>
+        <item>אזור</item>
+        <item>משך זמן</item>
+        <item>עדכון</item>
+        <item>פרקים</item>
+        <item>זמר</item>
+        <item>סגנון</item>
+        <item>בית ספר</item>
+        <item>נושא</item>
+        <item>סוג תוכנית</item>
+        <item>סוג אלבום</item>
+        <item>ארגון</item>
+        <item>פרקים</item>
+        <item>מרצה</item>
+        <item>אתלט</item>
+        <item>מקצוע</item>
+        <item>יום הולדת</item>
+        <item>מיקום</item>
+        <item>שם</item>
+        <item>תאריך שחרור</item>
+        <item>אמן קריינות</item>
+        <item>מארח</item>
+        <item>צפה בכל</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>ינו</item>
+        <item>פבר</item>
+        <item>מרץ</item>
+        <item>אפר</item>
+        <item>רשאי</item>
+        <item>יונ</item>
+        <item>יול</item>
+        <item>אוג</item>
+        <item>ספט</item>
+        <item>אוק</item>
+        <item>נוב</item>
+        <item>דצמ</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="popupmenu_info">
+        <item>השמעה בודדת</item>
+        <item>השמעה בברצף</item>
+        <item>השמעה ברצף - הכל</item>
+    </string-array>
+    <string-array name="windowsize_info">
+        <item>התאמה למסך</item>
+        <item>מסך מלא</item>
+        <item>גודל מקורי</item>
+    </string-array>
+</resources>

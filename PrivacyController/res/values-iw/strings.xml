@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mspace_elapsed_time_short_format_h_mm">%1$d:%2$02d</string>
+    <string name="mspace_count_down_ok">אישור</string>
+    <string name="mspace_low_power_exit_childmode">"נעילת סוללה חלשה מאופשרת. יוצא ממצב ילדים עוד %d שנ'."</string>
+    <string name="mspace_anti_time_exit_childmode">"התכונה למניעת התמכרות מופעלת. יוצא ממצב ילדים עוד %d שנ'."</string>
+</resources>
