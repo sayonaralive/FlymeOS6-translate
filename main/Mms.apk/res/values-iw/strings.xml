@@ -349,7 +349,7 @@
     <string name="extra_city_title">בחר עיר</string>
     <string name="favorite_common_from_prefix">מאת</string>
     <string name="favorite_common_me_send_prefix">שלח אל</string>
-    <string name="favorite_page_label">הודעות זרועות כוכבים</string>
+    <string name="favorite_page_label">הודעות שסומנו בכוכב</string>
     <string name="file_no_exsit">הקובץ נמחק</string>
     <string name="file_not_exist">הקובץ נמחק</string>
     <string name="file_not_exist_message">הקובץ המצורף לא קיים עוד. מחק אותו ונסה שוב!</string>
