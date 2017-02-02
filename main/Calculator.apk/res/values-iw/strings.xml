@@ -254,11 +254,11 @@
     <string name="refreshing_rate">עדכון שער חליפין ....</string>
     <string name="repayment_schedule">תזמון החזר</string>
     <string name="result_folder_box_text">תוצאות נוכחיות של תיבת עריכת טקסט</string>
-    <string name="science_tab_name">מתמטיקה</string>
+    <string name="science_tab_name">מדעי</string>
     <string name="search_hit">הזן</string>
     <string name="search_no_result_text">אין תוצאות</string>
     <string name="sign_btn_text">היכנס</string>
-    <string name="simple_tab_name">משותף</string>
+    <string name="simple_tab_name">פשוט</string>
     <string name="simple_turn_upper_title">הפוך לאותיות רישיות</string>
     <string name="square_btn_text">בריבוע</string>
     <string name="square_root_btn_text">שורש ריבועי</string>
