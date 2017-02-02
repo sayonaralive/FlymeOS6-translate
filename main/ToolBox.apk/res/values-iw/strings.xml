@@ -66,10 +66,10 @@
     <string name="decibel_max_text">מקסימום:</string>
     <string name="decibel_min_text">"מינ':"</string>
     <string name="decibel_standard">רמות דציבל</string>
-    <string name="direction_due_east">מז</string>
-    <string name="direction_due_north">צפ</string>
-    <string name="direction_due_south">דר</string>
-    <string name="direction_due_west">מע</string>
+    <string name="direction_due_east">מזרח</string>
+    <string name="direction_due_north">צפון</string>
+    <string name="direction_due_south">דרום</string>
+    <string name="direction_due_west">מערב</string>
     <string name="direction_east">מזרח</string>
     <string name="direction_north">צפון</string>
     <string name="direction_north_east">צ.מזרח</string>
