@@ -3478,7 +3478,7 @@
     <string name="game_mode_dnd_title">נא לא להפריע</string>
     <string name="game_mode_dnd_summary">השבת את כל ההודעות, פרט לשיחות והתראות בזמן משחק</string>
     <string name="game_mode_disable_mback_title">השבתת mBack</string>
-    <string name="game_mode_disable_top_slide_title">השבתת תנועת משיכה מלעטה למטלה</string>
+    <string name="game_mode_disable_top_slide_title">השבתת תנועת משיכה מלמעלה למטה</string>
     <string name="game_mode_disable_bottom_slide_title">השבתת תנועת משיכה מלמטה למעלה</string>
     <string name="notification_manager">ניהול הודעות</string>
     <string name="statusbar_show_number">הצג מספר הודעות חדשות</string>
