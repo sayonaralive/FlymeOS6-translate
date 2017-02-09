@@ -167,7 +167,7 @@
     <string name="download_pause">ההורדה הושהתה</string>
     <string name="download_failed">ההורדה נכשלה</string>
     <string name="canot_download">שירות ההורדות מושבת</string>
-    <string name="wait_download">מחל הורדה</string>
+    <string name="wait_download">ממתין להורדה</string>
     <string name="download_nospace">אין מספיק שטח אחסון</string>
     <string name="not_exist">הקובץ לא קיים</string>
     <string name="clean_immediately">נקה מייד</string>

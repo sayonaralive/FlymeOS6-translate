@@ -188,7 +188,7 @@
     <string name="stop_download">הפסקה</string>
     <string name="go_download">המשך</string>
     <string name="in_download">מוריד</string>
-    <string name="wait_download">מחל הורדה</string>
+    <string name="wait_download">ממתין להורדה</string>
     <string name="delete">מחק</string>
     <string name="deleting">מוחק</string>
     <string name="cancel">ביטול</string>
