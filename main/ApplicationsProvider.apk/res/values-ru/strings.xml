@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_label">Поставщик поиска по приложениям</string>
     <string name="search_label">Приложения</string>
     <string name="application_desc">Приложение</string>
     <string name="settings_description">Названия установленных приложений</string>
