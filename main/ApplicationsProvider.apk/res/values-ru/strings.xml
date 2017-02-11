@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Поставщик поиска</string>
-    <string name="search_label">Прил.</string>
-    <string name="application_desc">Приложения</string>
+    <string name="search_label">Приложения</string>
+    <string name="application_desc">Приложение</string>
     <string name="settings_description">Названия установленных приложений</string>
     <string name="search_empty">Совпадений нет</string>
 </resources>
