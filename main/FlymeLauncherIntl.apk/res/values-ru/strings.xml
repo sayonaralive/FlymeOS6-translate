@@ -43,7 +43,7 @@
     <string name="delete_zone_label_all_apps">Удалить</string>
     <string name="delete_zone_label_all_apps_system_app">Удалить обновление</string>
     <string name="delete_zone_label_workspace">Удалить</string>
-    <string name="dream_name">Лаунчер Rocket</string>
+    <string name="dream_name">Лаунчер</string>
     <string name="external_drop_widget_error">Не удалось добавить элемент на главный экран.</string>
     <string name="external_drop_widget_pick_title">Выберите виджет</string>
     <string name="first_run_cling_create_screens_hint">Создать больше экранов для приложений и папок</string>
@@ -106,9 +106,9 @@
     <string name="app_name">ForceTouch</string>
     <string name="bottom_alignment">Выровнять снизу</string>
     <string name="cling_overview_gathering">"Сделайте щипок двумя пальцами,
-чтобы перемещать значки, менять обои и добавлять виджеты"</string>
+чтобы перемещать значки, изменять обои и добавлять виджеты"</string>
     <string name="cling_overview_longpress">"Нажмите и удерживайте пустую область на главном экране,
-чтобы перемещать значки, менять обои и добавлять виджеты"</string>
+чтобы перемещать значки, изменять обои и добавлять виджеты"</string>
     <string name="cling_search_fling">"Проведите пальцем вверх,
 чтобы открыть окно поиска"</string>
     <string name="default_folder_name">Папка</string>
