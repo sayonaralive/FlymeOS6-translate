@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">Экранов в обзоре: %d</item>
-        <item quantity="one">В обзоре 1 экран</item>
+        <item quantity="other">Недавних приложений: %d</item>
+        <item quantity="one">Недавних приложений: 1</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
