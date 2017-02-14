@@ -121,23 +121,23 @@
         <item>30</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
-        <item>ינו</item>
-        <item>פבר</item>
+        <item>ינואר</item>
+        <item>פברואר</item>
         <item>מרץ</item>
         <item>אפריל</item>
-        <item>רשאי</item>
+        <item>מאי</item>
         <item>יוני</item>
         <item>יולי</item>
-        <item>אוג</item>
-        <item>ספט</item>
-        <item>אוק</item>
-        <item>נוב</item>
-        <item>דצמ</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
     </string-array>
     <string-array name="phone_type">
         <item>בית</item>
         <item>חברה</item>
-        <item>ניידים</item>
+        <item>נייד</item>
         <item>פקס</item>
         <item>זימונית</item>
         <item>אחר</item>
