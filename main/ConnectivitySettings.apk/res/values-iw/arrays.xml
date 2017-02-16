@@ -705,7 +705,7 @@
         <item>אל תאפשר התעוררות</item>
     </string-array>
     <string-array name="app_standby_permission">
-        <item>אפשר ריצה כאשר במצב המתנה</item>
-        <item>אל תאפשר ריצה כאשר במצב המתנה</item>
+        <item>אפשר ריצה במצב המתנה</item>
+        <item>אל תאפשר ריצה במצב המתנה</item>
     </string-array>
 </resources>

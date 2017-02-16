@@ -220,6 +220,7 @@
     <string name="wifi_ip_settings_invalid_dns">‏הקלד כתובת DNS חוקית.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">הקלד אורך לקידומת רשת בין 0 ו-32.</string>
     <string name="wifi_password_error_hint">סיסמא שגויה</string>
+    <string name="has_no_internet_access">לא ניתן לגשת לאינטרנט</string>
     <string name="setup_wizard_next_button_label">הבא</string>
     <string name="setup_wizard_back_button_label">הקודם</string>
     <string name="ok">אישור</string>
@@ -249,7 +250,7 @@
     <string name="wifi_tether_disconnect_btn_txt">התנתק</string>
     <string name="wifi_tether_disconnect_device_message">חסום את המכשיר הבא מפני התחברות לנקודה החמה שלי: %1$s</string>
     <string name="wifi_tether_disconnect_device_title">לחסום מכשיר?</string>
-    <string name="pppoe_setting_title">PPPoE dial-up</string>
+    <string name="pppoe_setting_title">חיוג של PPPoE</string>
     <string name="pppoe_status_title">מצב PPPoE</string>
     <string name="pppoe_status_ip">כתובת IP</string>
     <string name="pppoe_status_gateway">שער</string>
@@ -366,7 +367,7 @@
     <string name="smart_voice_wakeup">התעוררות קול חכמה</string>
     <string name="smart_voice_wakeup_tips">השתמש בפקודות קוליות כדי להפעיל Smart Voice כאשר המסך כבוי</string>
     <string name="smart_touch_title">נגיעה חכמה</string>
-    <string name="smart_touch_tips">תמיכה בהחזרה, הזזת מסך ופעולות מותאמות אישית אחרות.</string>
+    <string name="smart_touch_tips">תמיכה בחזרה לאחור, הזזת מסך ופעולות מותאמות אישית אחרות.</string>
     <string name="scheduled_power_onandoff_title">כיבוי והפעלה מתוזמנים</string>
     <string name="scheduled_power_off">כיבוי מתוזמן</string>
     <string name="scheduled_power_off_time">זמן כיבוי</string>
@@ -1131,7 +1132,7 @@
     <string name="global_data_summary">גישה אמינה לאינטרנט בעת נסיעה לחול</string>
     <string name="change_data_conn_title">החלף כרטיס SIM לשימוש בנתונים</string>
     <string name="change_data_conn_summary" formatted="false">ה-SIM %d מושבת. לאפשר נתונים סלולריים ב-SIM %d?</string>
-    <string name="change_data_conn_yes">הפעל</string>
+    <string name="change_data_conn_yes">כן</string>
     <string name="sim_notification">החלף SIM לשירות נתונים</string>
     <string name="sim_notification_text">אתה משתמש ב- SIM %d עבור נתונים סלולריים, להחליף עכשיו?</string>
     <string name="sim_switch_button">החלף עכשיו</string>
@@ -1153,7 +1154,7 @@
     <string name="rd_notify_gateway_firewall_settings">אנא בדוק את הגדרות חומת האש בשרת שלך</string>
     <string name="rd_notify_outnet_firewall_settings">הגישה לרשת חיצונית מוגבלת</string>
     <string name="rd_notify_appserver_error_endfix">חריגה בשרת</string>
-    <string name="pseudo_base_station">חסימת תחנות בסיס זדוניות</string>
+    <string name="pseudo_base_station">מגן תחנת הבסיס</string>
     <string name="pseudo_base_station_summary">אימות תחנת בסיס לחסימת SMS של הונאות</string>
     <string name="meizu_card">MEIZU SIM וירטואלי</string>
 </resources>

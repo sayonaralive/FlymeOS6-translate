@@ -116,7 +116,7 @@
         <item>לטס (לטביה)</item>
         <item>לסוטו ליטי</item>
         <item>קיפ</item>
-        <item>RMB ימי</item>
+        <item>CNH</item>
         <item>לירה לבנונית</item>
         <item>ליטאס (ליטא)</item>
         <item>דולר ליברי</item>
@@ -237,7 +237,7 @@
         <item>קוסטה ריקה</item>
         <item>קובה</item>
         <item>קייפ ורדה</item>
-        <item>"צ'כוסלובקיה"</item>
+        <item>"צ'כיה וסלובקיה"</item>
         <item>"ג'יבוטי"</item>
         <item>דנמרק</item>
         <item>דומיניקה</item>
@@ -300,7 +300,7 @@
         <item>האיים המלדיביים</item>
         <item>מלאווי</item>
         <item>מקסיקו</item>
-        <item>מקסיקו (קרן הון)</item>
+        <item>מקסיקו</item>
         <item>מלזיה</item>
         <item>הרפובליקה של מוזמביק</item>
         <item>נמיביה</item>
@@ -429,7 +429,7 @@
         <item>גאנה</item>
         <item>קנדה</item>
         <item>קמבודיה</item>
-        <item>"צ'כוסלובקיה"</item>
+        <item>"צ'כיה וסלובקיה"</item>
         <item>זימבבואה</item>
         <item>קטאר</item>
         <item>איי קיימן</item>
@@ -458,7 +458,7 @@
         <item>מונגוליה</item>
         <item>בנגלדש</item>
         <item>פרו</item>
-        <item>בורמה</item>
+        <item>מיאנמר</item>
         <item>מולדובה</item>
         <item>מָרוֹקוֹ</item>
         <item>הרפובליקה של מוזמביק</item>
@@ -622,7 +622,7 @@
         <item>קיאן</item>
     </string-array>
     <string-array name="tab_name_list">
-        <item>החלפה</item>
+        <item>מטבע</item>
         <item>אורך</item>
         <item>אזור</item>
         <item>משקל</item>

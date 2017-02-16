@@ -50,6 +50,7 @@
     <string name="descp_record_shutter">צלם תמונה</string>
     <string name="descp_record_start">התחל להקליט</string>
     <string name="descp_record_stop">עצור הקלטה</string>
+    <string name="descp_scan_question_history">היסטוריית סריקת שאלות</string>
     <string name="descp_setting_back">הקודם</string>
     <string name="descp_smb_back">עבור למצלמה אחורית</string>
     <string name="descp_smb_filter">מסנן</string>
@@ -102,14 +103,14 @@
     <string name="mc_last_refresh_just_now">עכשיו</string>
     <string name="mc_last_refresh_minute">דקות קודם</string>
     <string name="mc_last_refresh_second">שניות קודם</string>
-    <string name="mc_loading_animation_alert">שמור את התמונה</string>
+    <string name="mc_loading_animation_alert">שומר את התמונה</string>
     <string name="mc_loading_view_text">טוען</string>
     <string name="mc_minute">דק</string>
     <string name="mc_monday">"ב'"</string>
     <string name="mc_never">חד פעמית</string>
     <string name="mc_permission_apply">הרשאות יישומים</string>
     <string name="mc_permission_message_content">%1$s בקשות %3$d הרשאות, כולל %2$s</string>
-    <string name="mc_pm_allow_check_app">אפשר</string>
+    <string name="mc_pm_allow_check_app">אישור</string>
     <string name="mc_pm_allow_dialog_push">אפשר דחיפה</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">התקשר</string>
@@ -123,7 +124,7 @@
     <string name="mc_pm_location">אתר</string>
     <string name="mc_pm_network">נתונים סלולריים</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">אסור</string>
+    <string name="mc_pm_not_allow_check_app">יציאה</string>
     <string name="mc_pm_not_allow_dialog_push">השבת</string>
     <string name="mc_pm_online_intenert">אינטרנט</string>
     <string name="mc_pm_open">פתוח</string>
@@ -134,8 +135,8 @@
     <string name="mc_pm_s_mms">שליחת הודעת מולטימדיה</string>
     <string name="mc_pm_s_sms">שליחת הודעה</string>
     <string name="mc_pm_set_bluetooth_on">הפעל Bluetooth</string>
-    <string name="mc_pm_set_gprs_on">פתח נתונים לנייד</string>
-    <string name="mc_pm_set_wifi_on">פתח רשת אלחוטית</string>
+    <string name="mc_pm_set_gprs_on">הפעל רשת סלולרית</string>
+    <string name="mc_pm_set_wifi_on">הפעל WLAN</string>
     <string name="mc_pm_wlan">WLAN</string>
     <string name="mc_praised_message">אוהב</string>
     <string name="mc_pull_refresh">משוך למטה לרענן</string>
@@ -176,9 +177,11 @@
     <string name="mz_address_info_phone">טלפון</string>
     <string name="mz_address_info_title">כותרת</string>
     <string name="mz_address_info_url">אתר אינטרנט</string>
+    <string name="mz_allow">אישור</string>
+    <string name="mz_alway_allow">אפשר תמיד</string>
     <string name="mz_app_center_download">מוריד...</string>
     <string name="mz_bar_code_copy">הועתק</string>
-    <string name="mz_bar_code_hint">לסריקה, כוון את המצלמה לקוד ה-QR או לברקוד</string>
+    <string name="mz_bar_code_hint">לסריקה, כוון את המצלמה לקוד QR או לברקוד</string>
     <string name="mz_bar_code_hint_success">הסריקה הצליחה, מעבד</string>
     <string name="mz_barcode_intent_failed">לא ניתן להפעיל את היישום המבוקש</string>
     <string name="mz_barcode_lingdong">מקור הנתונים: Smart Snap‏ (kuaipai.cn)</string>
@@ -205,9 +208,10 @@
     <string name="mz_cam_mode_night">לילה</string>
     <string name="mz_cam_mode_pano">פנורמה</string>
     <string name="mz_cam_mode_refocus">שדה אור</string>
+    <string name="mz_cam_mode_scan_question">סרוק שאלות</string>
     <string name="mz_cam_mode_slowmotion">הילוך איטי</string>
     <string name="mz_cam_mode_timelapse">צילום מואץ</string>
-    <string name="mz_cam_mode_title">בחירת מצב</string>
+    <string name="mz_cam_mode_title">בחר מצב</string>
     <string name="mz_countdown_10s">10 שנ</string>
     <string name="mz_countdown_3s">3 שנ</string>
     <string name="mz_countdown_5s">5 שנ</string>
@@ -226,7 +230,7 @@
     <string name="mz_fb_manual">מתקדם</string>
     <string name="mz_fb_slime">רזה</string>
     <string name="mz_fb_smart">חכם</string>
-    <string name="mz_fb_smooth">החלקה</string>
+    <string name="mz_fb_smooth">חלק</string>
     <string name="mz_fb_tone">הבהרה</string>
     <string name="mz_filter_10_title">שחר</string>
     <string name="mz_filter_14_title">חולמני</string>
@@ -234,7 +238,7 @@
     <string name="mz_filter_17_title">Tan</string>
     <string name="mz_filter_18_title">שמשי</string>
     <string name="mz_filter_1_title">ורוד</string>
-    <string name="mz_filter_2_title">סקורה</string>
+    <string name="mz_filter_2_title">דובדבן</string>
     <string name="mz_filter_3_title">כחול</string>
     <string name="mz_filter_4_title">סרט</string>
     <string name="mz_filter_5_title">נמרץ</string>
@@ -264,7 +268,7 @@
     <string name="mz_isbn_info_title">פרטי ספר</string>
     <string name="mz_makeup_effect_title_0">ללא</string>
     <string name="mz_makeup_effect_title_1">חם</string>
-    <string name="mz_makeup_effect_title_2">בת השכן</string>
+    <string name="mz_makeup_effect_title_2">טבעי</string>
     <string name="mz_makeup_effect_title_3">לוליטה</string>
     <string name="mz_makeup_effect_title_4">רענן</string>
     <string name="mz_makeup_effect_title_5">מקסים</string>
@@ -285,7 +289,7 @@
     <string name="mz_manual_scenemode_label_party">מסיבה</string>
     <string name="mz_manual_scenemode_label_portrait">דיוקן</string>
     <string name="mz_manual_scenemode_label_sunset">שקיעה</string>
-    <string name="mz_manual_shutter_speed_title">משך חשיפה</string>
+    <string name="mz_manual_shutter_speed_title">זמן חשיפה</string>
     <string name="mz_manual_shutter_speed_toast">החזק את המצלמה יציבה עד לצילום התמונה</string>
     <string name="mz_manual_wb_title">איזון לבן</string>
     <string name="mz_manual_whitebalance_label_auto">אוטומטי</string>
@@ -319,6 +323,36 @@
     <string name="mz_pano_hint_off_center">אינך מזיז את המצלמה בצורה אופקית</string>
     <string name="mz_pano_hint_saving">שומר</string>
     <string name="mz_pano_hint_too_fast">זז מהר מדי</string>
+    <string name="mz_permission_apply">בקשת הרשאה</string>
+    <string name="mz_permission_message_content">%1$s ביקש %3$d הרשאות כדי %2$s.</string>
+    <string name="mz_pm_allow_check_app">אישור</string>
+    <string name="mz_pm_allow_dialog_push">אפשר הודעות בדחיפה</string>
+    <string name="mz_pm_bluetooth">בקרת Bluetooth</string>
+    <string name="mz_pm_call">להתקשר לטלפון</string>
+    <string name="mz_pm_call_log">לקרוא את יומני השיחות</string>
+    <string name="mz_pm_camera">להשתמש במצלמה (לצילום תמונה/וידאו)</string>
+    <string name="mz_pm_close">כבוי</string>
+    <string name="mz_pm_contacts">לקרוא את אנשי הקשר</string>
+    <string name="mz_pm_dialog_push">הודעות מוקפצות בדחיפה</string>
+    <string name="mz_pm_dlg_cancel">ביטול</string>
+    <string name="mz_pm_dlg_ok">אישור</string>
+    <string name="mz_pm_location">לגשת למיקום</string>
+    <string name="mz_pm_network">להשתמש בחיבור נתונים סלולרי</string>
+    <string name="mz_pm_nfc">בקרת NFC</string>
+    <string name="mz_pm_not_allow_check_app">יציאה</string>
+    <string name="mz_pm_not_allow_dialog_push">השבת</string>
+    <string name="mz_pm_online_intenert">לגשת לאינטרנט</string>
+    <string name="mz_pm_open">מופעל</string>
+    <string name="mz_pm_r_mms">לקרוא את הודעות ה-MMS</string>
+    <string name="mz_pm_r_sms">לקרוא את הודעות ה-SMS</string>
+    <string name="mz_pm_recordaudio_local">להקליט שמע/שיחה</string>
+    <string name="mz_pm_recordaudio_phone">להקליט שיחה</string>
+    <string name="mz_pm_s_mms">לשלוח הודעות MMS</string>
+    <string name="mz_pm_s_sms">לשלוח הודעות SMS</string>
+    <string name="mz_pm_set_bluetooth_on">להפעיל Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">להפעיל נתונים סלולריים</string>
+    <string name="mz_pm_set_wifi_on">להפעיל WLAN</string>
+    <string name="mz_pm_wlan">לגשת ל-WLAN</string>
     <string name="mz_product">מוצר</string>
     <string name="mz_product_info_factory">חברה:</string>
     <string name="mz_product_info_origin">מקום המוצא:</string>
@@ -331,6 +365,7 @@
     <string name="mz_recording_save">שומר</string>
     <string name="mz_refocus_hint">החזק את המצלמה יציבה</string>
     <string name="mz_refocus_hint_handling">מעבד...</string>
+    <string name="mz_reject">יציאה</string>
     <string name="mz_setting_backcamera">מצלמה אחורית</string>
     <string name="mz_setting_choose_picsize">בחר גודל תמונה</string>
     <string name="mz_setting_choose_vidsize">בחר גודל וידאו</string>
@@ -345,7 +380,7 @@
     <string name="mz_setting_mirror_title">שיקוף</string>
     <string name="mz_setting_picturesize_title">גודל תמונה</string>
     <string name="mz_setting_recordsize_title">גודל סרטון</string>
-    <string name="mz_setting_storage_title">העדף כרטיס SD</string>
+    <string name="mz_setting_storage_title">העדף כרטיס SD לאחסון</string>
     <string name="mz_setting_timemark_title">חותמת זמן</string>
     <string name="mz_setting_title">הגדרות</string>
     <string name="mz_setting_voice_action_label">אמור \"Paizhao\" או \"Qiezi\"</string>
@@ -374,35 +409,35 @@
     <string name="mz_wifi_encription">סוג הצפנה:</string>
     <string name="mz_wifi_password_pre">סיסמה:</string>
     <string name="mz_wifi_title">שם נקודה חמה</string>
-    <string name="mzuc_cancel">סגור</string>
+    <string name="mzuc_cancel">ביטול</string>
     <string name="mzuc_cancel_download">בטל הורדה</string>
-    <string name="mzuc_cancel_install">בטל התקנה</string>
-    <string name="mzuc_delete">הסרה</string>
+    <string name="mzuc_cancel_install">בטל את ההתקנה</string>
+    <string name="mzuc_delete">מחק</string>
     <string name="mzuc_download">הורדה</string>
     <string name="mzuc_download_fail">ההורדה נכשלה</string>
-    <string name="mzuc_download_finish_install">הורדה הושלמה, לחץ להתקנה</string>
+    <string name="mzuc_download_finish_install">ההורדה הושלמה, הקש כדי להתקין</string>
     <string name="mzuc_download_finish_s" formatted="false">%s %sהורדה הסתיימה</string>
-    <string name="mzuc_download_progress_desc_s" formatted="false">מוריד... %s %s</string>
-    <string name="mzuc_downloading">מוריד...</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">מוריד %s %s</string>
+    <string name="mzuc_downloading">מוריד</string>
     <string name="mzuc_file_size_s">גודל: %s</string>
     <string name="mzuc_found_update_s">נמצא עדכון %s</string>
-    <string name="mzuc_install_cancel_tip">הורדה בוטלה</string>
+    <string name="mzuc_install_cancel_tip">ההורדה בוטלה</string>
     <string name="mzuc_install_fail">ההתקנה נכשלה</string>
     <string name="mzuc_install_immediately">התקן עכשיו</string>
-    <string name="mzuc_install_later">התקן אחר כך</string>
-    <string name="mzuc_installing">מתקין</string>
+    <string name="mzuc_install_later">התקן מאוחר יותר</string>
+    <string name="mzuc_installing">התקנה</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">אישור</string>
     <string name="mzuc_reboot_update_now">התחל מחדש והעדכן</string>
     <string name="mzuc_retry">נסה שוב</string>
-    <string name="mzuc_skip_version">דחה את הגרסה הזו</string>
-    <string name="mzuc_skip_warn_tip">אם תדלג על הגרסה הזו לא תוכל להתקין אותה</string>
+    <string name="mzuc_skip_version">התעלם מגירסה זו</string>
+    <string name="mzuc_skip_warn_tip">אם תדלג על גירסה זו, לא תקבל הנחיה להתקין אותה</string>
     <string name="mzuc_update_finish">העדכון הושלם</string>
     <string name="mzuc_update_immediately">עדכן עכשיו</string>
     <string name="mzuc_update_later">נא להזכיר לי אחר כך</string>
     <string name="mzuc_update_mobile_network">האם להוריד באמצעות נתונים סלולריים?</string>
     <string name="mzuc_update_msg_title_s" formatted="false">%s V%s</string>
-    <string name="mzuc_update_title_s" formatted="false">%s שחרור%s V</string>
+    <string name="mzuc_update_title_s" formatted="false">%s V%s שוחרר</string>
     <string name="mzuc_wait_tip">הרגע</string>
     <string name="mzuc_warn_later">לא עכשיו</string>
     <string name="no_storage">הכנס כרטיס SD כדי להשתמש במצלמה</string>

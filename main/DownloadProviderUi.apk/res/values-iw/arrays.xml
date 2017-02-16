@@ -82,7 +82,7 @@
         <item>5 הורדות</item>
     </string-array>
     <string-array name="delete_limit_option">
-        <item>בו-זמנית</item>
+        <item>מיד</item>
         <item>כל שעה</item>
         <item>כל יום</item>
         <item>כל שבוע</item>

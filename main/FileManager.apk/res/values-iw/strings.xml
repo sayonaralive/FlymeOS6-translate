@@ -20,8 +20,8 @@
     <string name="abc_shareactionprovider_share_with_application">‏שתף עם %s</string>
     <string name="abc_toolbar_collapse_description">כווץ</string>
     <string name="status_bar_notification_info_overflow">‎999+‎</string>
-    <string name="add_fast_folder">הוסף למועדפים שלי</string>
-    <string name="add_fast_folder_fail_tips">נוסף לתיקיות שימושיות</string>
+    <string name="add_fast_folder">הוסף לתיקיות בשימוש נפוץ</string>
+    <string name="add_fast_folder_fail_tips">נוסף לתיקיות בשימוש נפוץ</string>
     <string name="add_fast_folder_success_tips">נוסף בהצלחה</string>
     <string name="alwaysUse">השתמש באפשרות זו כברירת מחדל</string>
     <string name="apk_count">%s חבילות התקנה</string>
@@ -49,8 +49,8 @@
     <string name="close_wifi_share_wifi_name">LAN:</string>
     <string name="cloud_history">היסטוריה</string>
     <string name="cloud_storage_name">כונן בענן</string>
-    <string name="common_folder">תיקיות נפוצות</string>
-    <string name="common_folder_no_result_text">"עדיין אין תיקיות בשימוש נפוץ. הוסף אותן על ידי לחיצה ארוכה על תיקייה ב'כל הקבצים'."</string>
+    <string name="common_folder">תיקיות בשימוש נפוץ</string>
+    <string name="common_folder_no_result_text">"אין עדיין תיקיות בשימוש נפוץ. כדי להוסיף לתיקיות בשימוש נפוץ, לחץ לחיצה ארוכה על תיקייה ב'כל הקבצים'."</string>
     <string name="complete_text">בוצע</string>
     <string name="compress_count">%s קבצים דחוסים</string>
     <string name="compress_display_name">קבצים דחוסים</string>
@@ -108,9 +108,9 @@
     <string name="extract_to_here">פתח כאן</string>
     <string name="extracting">מחלץ</string>
     <string name="fasfolder_count">%s ספריות</string>
-    <string name="fast_folder">תיקיות נפוצות</string>
+    <string name="fast_folder">תיקיות בשימוש נפוץ</string>
     <string name="fastfolder_count">הסר %s ספריות מועדפים</string>
-    <string name="fastfolder_delete">הוסר מהמועדפים</string>
+    <string name="fastfolder_delete">הסר ממועדפים</string>
     <string name="file_count">%s קבצים</string>
     <string name="file_exists">שם הקובץ כבר קיים.</string>
     <string name="file_limit_error">שם הקובץ חורג ממגבלת האורך, קצר את הנתיב</string>
@@ -120,7 +120,8 @@
     <string name="file_refresh_notice_title">רענן</string>
     <string name="file_search_display_name">חפש קבצים</string>
     <string name="file_size">גודל</string>
-    <string name="file_unit">פריט(ים)</string>
+    <string name="file_unit">פריט</string>
+    <string name="file_unit_plural">פריטים</string>
     <string name="files_limit_tip">מותר %s קבצים לכל היותר</string>
     <string name="folder_delete_tips">מחק %s קבצים בתיקייה</string>
     <string name="ftp_anonymous_login">גישה אנונימית</string>
@@ -167,7 +168,8 @@
     <string name="home_setting_security_summary">כאשר הסמל מוסתר, תוכל להקיש פעמיים על המיקום המקורי שלו כדי לעבור לכספת.</string>
     <string name="home_setting_security_title">הסתר סמל אזור מוגן</string>
     <string name="image_info">פרטי התמונה</string>
-    <string name="image_unit">פריט(ים)</string>
+    <string name="image_unit">פריט</string>
+    <string name="image_unit_plural">פריטים</string>
     <string name="in_wifi_share">הגדרות שיתוף</string>
     <string name="invalid_ip">כתובת IP לא חוקית</string>
     <string name="ip_address_hint">IP</string>
@@ -298,6 +300,7 @@
     <string name="minute_before">לפני %s דקות</string>
     <string name="mkdir_dialog_title">תיקיה חדשה</string>
     <string name="modify_time_title">השתנו:  </string>
+    <string name="more">עוד</string>
     <string name="more_item_label">עוד</string>
     <string name="move2safe_success">הועבר אל \"%s\"</string>
     <string name="move_to_here">העבר לכאן</string>
@@ -408,7 +411,7 @@
     <string name="rename_title_text">שינוי שם</string>
     <string name="renaming">משנה שם</string>
     <string name="resolution">רזולוציה</string>
-    <string name="samba">שכנים ברשת</string>
+    <string name="samba">מכשירים בקרבת מקום</string>
     <string name="samba_connect_retry">נסה שוב</string>
     <string name="samba_device_bottom_menu">מנהל שולחן עבודה</string>
     <string name="samba_no_wlan_tips">הרשת מנותקת, נא להתחבר מחדש</string>

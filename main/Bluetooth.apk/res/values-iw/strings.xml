@@ -201,7 +201,7 @@
     <string name="upload_success">%1$s נשלחו</string>
     <string name="inbound_history_title">רשומות קבלה</string>
     <string name="outbound_history_title">רשומות שליחה</string>
-    <string name="no_transfers">אין תיעוד של העברה</string>
+    <string name="no_transfers">אין היסטוריית העברה</string>
     <string name="transfer_clear_dlg_msg">כל הפריטים הרשומים יוסרו</string>
     <string name="outbound_noti_title">שיתוף Bluetooth: נשלחו קבצים</string>
     <string name="inbound_noti_title">שיתוף Bluetooth: התקבלו קבצים</string>

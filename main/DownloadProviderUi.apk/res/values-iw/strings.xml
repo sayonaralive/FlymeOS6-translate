@@ -132,13 +132,13 @@
     <string name="app_label">הורדה</string>
     <string name="download_title_sorted_by_date">הורדות - ממוינות לפי תאריך</string>
     <string name="download_title_sorted_by_size">הורדות - ממוינות לפי גודל</string>
-    <string name="no_downloads">אין הורדות.</string>
+    <string name="no_downloads">אין היסטוריית הורדה</string>
     <string name="missing_title">&lt;לא ידוע></string>
     <string name="button_sort_by_size">מיון לפי גודל</string>
     <string name="button_sort_by_date">מיון לפי תאריך</string>
     <string name="download_queued">בתור</string>
     <string name="download_running">מוריד</string>
-    <string name="download_success">הושלם</string>
+    <string name="download_success">בוצע</string>
     <string name="download_error">ההורדה נכשלה</string>
     <string name="dialog_title_not_available">ההורדה נכשלה</string>
     <string name="dialog_failed_body">האם ברצונך להוריד את הקובץ שוב מאוחר יותר או למחוק אותו מהתור?</string>
@@ -188,7 +188,7 @@
     <string name="stop_download">הפסקה</string>
     <string name="go_download">המשך</string>
     <string name="in_download">מוריד</string>
-    <string name="wait_download">ממתין להורדה</string>
+    <string name="wait_download">מחל הורדה</string>
     <string name="delete">מחק</string>
     <string name="deleting">מוחק</string>
     <string name="cancel">ביטול</string>
@@ -211,7 +211,7 @@
     <string name="clean_immediately">נקה מייד</string>
     <string name="clean_space_info">הורדת קובץ מעבר לשטח האחסון הזמין</string>
     <string name="default_path_to_save">ספריית הורדות</string>
-    <string name="max_tasks">כמות הורדות מירבית</string>
+    <string name="max_tasks">מספר מקסימלי של הורדות במקביל</string>
     <string name="only_wifi">הורד באמצעות WLAN בלבד</string>
     <string name="disk_to_save">דיסק</string>
     <string name="delete_limit">מחק היסטוריית הורדות</string>

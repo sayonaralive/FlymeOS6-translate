@@ -20,6 +20,8 @@
     <string name="abc_shareactionprovider_share_with_application">‏שתף עם %s</string>
     <string name="abc_toolbar_collapse_description">כווץ</string>
     <string name="status_bar_notification_info_overflow">‎999+‎</string>
+    <string name="abandon_alarm">לבטל את השינויים שביצעת להתראה?</string>
+    <string name="abandon_change">בטל שינויים</string>
     <string name="action_bar_multi_choice_title_select_alarm">בחר התראה</string>
     <string name="action_bar_multi_choice_title_select_clock">בחר שעון</string>
     <string name="alarm_alert_dismiss_now_text">בטל כעת</string>
@@ -31,7 +33,7 @@
     <string name="alarm_delay_notify">הזכר מאוחר יותר</string>
     <string name="alarm_delete">מחק</string>
     <string name="alarm_dismiss">התעלם</string>
-    <string name="alarm_dismissed">בוטל</string>
+    <string name="alarm_dismissed">כבוי</string>
     <string name="alarm_missed_notify_text">%s הוחמץ</string>
     <string name="alarm_repeat">חוזר</string>
     <string name="alarm_repeat_type_custom">מותאם אישית</string>
@@ -184,35 +186,35 @@
     <string name="mz_network_unavailable_hint">רשת לא זמינה, בדוק הגדרות רשת</string>
     <string name="mz_wif_setting_dialog_message">אין חיבור לרשת. אנא בדוק את הגדרות הרשת.</string>
     <string name="mz_wif_setting_dialog_set">הגדר</string>
-    <string name="mzuc_cancel">סגור</string>
+    <string name="mzuc_cancel">ביטול</string>
     <string name="mzuc_cancel_download">בטל הורדה</string>
-    <string name="mzuc_cancel_install">בטל התקנה</string>
-    <string name="mzuc_delete">הסרה</string>
+    <string name="mzuc_cancel_install">בטל את ההתקנה</string>
+    <string name="mzuc_delete">מחק</string>
     <string name="mzuc_download">הורדה</string>
     <string name="mzuc_download_fail">ההורדה נכשלה</string>
-    <string name="mzuc_download_finish_install">הורדה הושלמה, לחץ להתקנה</string>
+    <string name="mzuc_download_finish_install">ההורדה הושלמה, הקש כדי להתקין</string>
     <string name="mzuc_download_finish_s" formatted="false">%s %sהורדה הסתיימה</string>
-    <string name="mzuc_download_progress_desc_s" formatted="false">מוריד... %s %s</string>
-    <string name="mzuc_downloading">מוריד...</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">מוריד %s %s</string>
+    <string name="mzuc_downloading">מוריד</string>
     <string name="mzuc_file_size_s">גודל: %s</string>
     <string name="mzuc_found_update_s">נמצא עדכון %s</string>
-    <string name="mzuc_install_cancel_tip">הורדה בוטלה</string>
+    <string name="mzuc_install_cancel_tip">ההורדה בוטלה</string>
     <string name="mzuc_install_fail">ההתקנה נכשלה</string>
     <string name="mzuc_install_immediately">התקן עכשיו</string>
-    <string name="mzuc_install_later">התקן אחר כך</string>
-    <string name="mzuc_installing">מתקין</string>
+    <string name="mzuc_install_later">התקן מאוחר יותר</string>
+    <string name="mzuc_installing">התקנה</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">אישור</string>
     <string name="mzuc_reboot_update_now">התחל מחדש והעדכן</string>
     <string name="mzuc_retry">נסה שוב</string>
-    <string name="mzuc_skip_version">דחה את הגרסה הזו</string>
-    <string name="mzuc_skip_warn_tip">אם תדלג על הגרסה הזו לא תוכל להתקין אותה</string>
+    <string name="mzuc_skip_version">התעלם מגירסה זו</string>
+    <string name="mzuc_skip_warn_tip">אם תדלג על גירסה זו, לא תקבל הנחיה להתקין אותה</string>
     <string name="mzuc_update_finish">העדכון הושלם</string>
     <string name="mzuc_update_immediately">עדכן עכשיו</string>
     <string name="mzuc_update_later">נא להזכיר לי אחר כך</string>
     <string name="mzuc_update_mobile_network">האם להוריד באמצעות נתונים סלולריים?</string>
     <string name="mzuc_update_msg_title_s" formatted="false">%s V%s</string>
-    <string name="mzuc_update_title_s" formatted="false">%s שחרור%s V</string>
+    <string name="mzuc_update_title_s" formatted="false">%s V%s שוחרר</string>
     <string name="mzuc_wait_tip">הרגע</string>
     <string name="mzuc_warn_later">לא עכשיו</string>
     <string name="never">חד פעמית</string>
