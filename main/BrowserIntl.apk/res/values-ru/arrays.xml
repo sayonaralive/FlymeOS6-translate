@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Всегда</item>
+        <item>По требованию</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Автоматическое обнаружение</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Китайская (GBK)</item>
+        <item>Китайская (Big5)</item>
+        <item>Японская (ISO-2022-JP)</item>
+        <item>Японская (SHIFT_JIS)</item>
+        <item>Японская (EUC-JP)</item>
+        <item>Корейская (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Мелкий</item>
+        <item>Среднее</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Текущая страница</item>
+        <item>Пустая страница</item>
+        <item>Страница по умолчанию</item>
+        <item>Наиболее посещаемые</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Никогда</item>
+        <item>Только Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Очень мелкий</item>
+        <item>Мелкий</item>
+        <item>Нормальный</item>
+        <item>Крупный</item>
+        <item>Очень крупный</item>
+    </string-array>
+    <array name="locale_paks">
+        <item>@raw/ru</item>
+        <item>@raw/en_us</item>
+    </array>
+    <string-array name="address_type">
+        <item>Дом</item>
+        <item>Компания</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="bookmark_folder_context_menu">
+        <item>Переименовать папку</item>
+        <item>Удалить папку</item>
+    </string-array>
+    <string-array name="businesscard_address_type">
+        <item>Дом</item>
+        <item>Работа</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="businesscard_instantmessenger_type">
+        <item>QQ</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>Hangouts</item>
+        <item>ICQ</item>
+    </string-array>
+    <string-array name="businesscard_mail_type">
+        <item>Личная</item>
+        <item>Работа</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="businesscard_phone_type">
+        <item>Дом</item>
+        <item>Работа</item>
+        <item>Мобильный</item>
+        <item>Факс</item>
+        <item>Пейджер</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="mail_type">
+        <item>Личная</item>
+        <item>Работа</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="phone_type">
+        <item>Домашний</item>
+        <item>Компания</item>
+        <item>Мобильный</item>
+        <item>Факс</item>
+        <item>Пейджер</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="pref_homepage_choices2">
+        <item>Использовать текущую страницу</item>
+        <item>Избранное</item>
+        <item>Наиболее посещаемые</item>
+        <item>Настройка пользователя</item>
+    </string-array>
+    <string-array name="pref_pic_quality_key">
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
+    </string-array>
+    <string-array name="pref_set_text_degree_choices">
+        <item>По умолчанию</item>
+        <item>Среднее</item>
+        <item>Крупный</item>
+    </string-array>
+    <string-array name="pref_toolbar_style_item">
+        <item>Графический стиль</item>
+        <item>Классический</item>
+    </string-array>
+    <string-array name="pref_topic_news_setting_name">
+        <item>Обновление по умолчанию</item>
+        <item>Обновление только по Wi-Fi</item>
+        <item>Простой</item>
+    </string-array>
+    <string-array name="title_bar_share_item">
+        <item>Bluetooth</item>
+        <item>Сообщения</item>
+        <item>Эл. почта</item>
+    </string-array>
+</resources>

@@ -183,7 +183,6 @@
         <item>Начинайте без меня.</item>
         <item>К сожалению, у меня не получается. Мы должны перенести.</item>
         <item>Написать своё…</item>
-        <item>Отмена</item>
     </string-array>
     <string-array name="reminder_methods_labels">
         <item>Уведомления</item>

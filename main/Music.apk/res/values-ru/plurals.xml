@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Трек добавлен в</item>
+        <item quantity="one">Трек добавлен в</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="artist_count">
+        <item quantity="other">%d исполнителей</item>
+        <item quantity="one">1 исполнитель</item>
+    </plurals>
+    <plurals name="delete_album_confirm">
+        <item quantity="other">Удалить альбомы: %1$d</item>
+        <item quantity="one">Удалить 1 альбом</item>
+    </plurals>
+    <plurals name="delete_artist_confirm">
+        <item quantity="other">Удалить исполнителей: %1$d</item>
+        <item quantity="one">Удалить 1 исполнителя</item>
+    </plurals>
+    <plurals name="delete_song_confirm">
+        <item quantity="other">Удалить треки: %1$d</item>
+        <item quantity="one">Удалить 1 трек</item>
+    </plurals>
+    <plurals name="delete_song_from_playlist_prompt">
+        <item quantity="other">Удалить треки и локальные файлы: %1$d</item>
+        <item quantity="one">Удалить 1 трек и локальный файл</item>
+    </plurals>
+    <plurals name="download_completed_count">
+        <item quantity="other">%d треков загружено</item>
+        <item quantity="one">1 трек загружен</item>
+    </plurals>
+    <plurals name="download_failed_count">
+        <item quantity="other">%d треков не удалось загрузить</item>
+        <item quantity="one">Ошибка загрузки 1 трека</item>
+    </plurals>
+    <plurals name="remove_song">
+        <item quantity="other">Удалить треки: %1$d</item>
+        <item quantity="one">Удалить 1 трек</item>
+    </plurals>
+    <plurals name="select_count">
+        <item quantity="other">выбрать %d</item>
+        <item quantity="one">выбран 1</item>
+    </plurals>
+    <plurals name="song_item_count">
+        <item quantity="other">%1$d треков</item>
+        <item quantity="one">1 трек</item>
+    </plurals>
+</resources>

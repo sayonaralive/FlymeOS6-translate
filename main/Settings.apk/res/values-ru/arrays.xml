@@ -61,49 +61,49 @@
         <item>Африка</item>
         <item>Азия</item>
         <item>Австралия</item>
-        <item>Тихий океан</item>
+        <item>Тихоокеанское</item>
         <item>Все</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минуту</item>
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>30 минут</item>
+        <item>15 с</item>
+        <item>30 с</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+        <item>30 мин</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минута</item>
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>30 минут</item>
+        <item>15 с</item>
+        <item>30 с</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+        <item>30 мин</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
-        <item>5 секунд</item>
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минута</item>
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>30 минут</item>
+        <item>5 с</item>
+        <item>15 с</item>
+        <item>30 с</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+        <item>30 мин</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Мелкий</item>
-        <item>Обычный</item>
+        <item>Нормальный</item>
         <item>Крупный</item>
-        <item>Огромный</item>
+        <item>Очень крупный</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>
         <item>Медленная</item>
-        <item>Нормальная</item>
+        <item>Нормальный</item>
         <item>Быстрая</item>
         <item>Беглая</item>
         <item>Очень быстрая</item>
@@ -114,7 +114,7 @@
     <string-array name="tts_pitch_entries">
         <item>Очень низкий</item>
         <item>Низкий</item>
-        <item>Обычный</item>
+        <item>Нормальный</item>
         <item>Высокий</item>
         <item>Очень высокий</item>
     </string-array>
@@ -122,7 +122,7 @@
         <item></item>
         <item>Поиск…</item>
         <item>Подключение…</item>
-        <item>Аутентификация…</item>
+        <item>Аутентификация...</item>
         <item>Получение IP-адреса…</item>
         <item>Подключено</item>
         <item>Приостановлено</item>
@@ -135,12 +135,12 @@
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Поиск…</item>
-        <item>Соединение с %1$s…</item>
-        <item>Аутентификация с %1$s…</item>
-        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключение к %1$s...</item>
+        <item>Аутентификация через %1$s...</item>
+        <item>Получение IP-адреса от %1$s...</item>
         <item>Подключено к %1$s</item>
         <item>Приостановлено</item>
-        <item>Отключение от %1$s…</item>
+        <item>Отключение от %1$s...</item>
         <item>Отключено</item>
         <item>Ошибка</item>
         <item>Заблокировано</item>
@@ -153,7 +153,7 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Push-кнопка</item>
+        <item>Кнопка</item>
         <item>PIN-код с обнаруженного устройства</item>
         <item>PIN-код этого устройства</item>
     </string-array>
@@ -165,9 +165,9 @@
         <item>Вне диапазона</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>1 час</item>
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>1 ч</item>
         <item>Без тайм-аута</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -233,10 +233,21 @@
         <item>CHAP</item>
         <item>PAP или CHAP</item>
     </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Не указано</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Нет</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Внутренняя память устройства</item>
@@ -350,7 +361,7 @@
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
-        <item>Средняя</item>
+        <item>Среднее</item>
         <item>Большая</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
@@ -423,7 +434,7 @@
         <item>Всегда использовать проверку HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Анимация выкл.</item>
+        <item>Без анимации</item>
         <item>Скорость 0,5x</item>
         <item>Скорость 1x</item>
         <item>Скорость 1.5x</item>
@@ -432,7 +443,7 @@
         <item>Скорость 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Анимация выкл.</item>
+        <item>Без анимации</item>
         <item>Скорость 0,5x</item>
         <item>Скорость 1x</item>
         <item>Скорость 1.5x</item>
@@ -441,7 +452,7 @@
         <item>Скорость 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Анимация выкл.</item>
+        <item>Без анимации</item>
         <item>Скорость 0,5x</item>
         <item>Скорость 1x</item>
         <item>Скорость 1.5x</item>
@@ -483,7 +494,7 @@
     <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>
         <item>Без фоновых процессов</item>
-        <item>Не более одного процесса</item>
+        <item>Не более 1 процесса</item>
         <item>Не более 2 процессов</item>
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
@@ -498,10 +509,10 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Отключено</item>
-        <item>Инициализация…</item>
-        <item>Подключение…</item>
+        <item>Инициализация...</item>
+        <item>Подключение...</item>
         <item>Подключено</item>
-        <item>Время ожидания истекло</item>
+        <item>Тайм-аут</item>
         <item>Ошибка</item>
         <item>Переподключение...</item>
     </string-array>
@@ -649,7 +660,7 @@
     </string-array>
     <string-array name="blur_effect_entries">
         <item>Высокий</item>
-        <item>Средний</item>
+        <item>Среднее</item>
         <item>Низкий</item>
     </string-array>
     <string-array name="entries_meizu_app_font_size">
@@ -670,28 +681,28 @@
     </string-array>
     <string-array name="preferred_network_mode_choices_simple_mrvl">
         <item>Только 2G</item>
-        <item>Приоритет - 3G</item>
-        <item>Приоритет - 4G</item>
+        <item>Приоритет 3G</item>
+        <item>Приоритет 4G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl">
         <item>2G только</item>
-        <item>Приоритет 3G</item>
-        <item>Только 3G</item>
+        <item>3G-приоритет</item>
+        <item>3G только</item>
         <item>Приоритет 4G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_3g">
-        <item>Только 2G</item>
-        <item>Приоритет - 3G</item>
-        <item>Только 3G</item>
+        <item>2G только</item>
+        <item>Приоритет 3G</item>
+        <item>3G только</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_cdma">
-        <item>Приоритет - 3G</item>
-        <item>Только 3G</item>
-        <item>Приоритет - 4G</item>
+        <item>Приоритет 3G</item>
+        <item>3G только</item>
+        <item>Приоритет 4G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_cdma_3g">
         <item>Приоритет 3G</item>
-        <item>Только 3G</item>
+        <item>3G только</item>
     </string-array>
     <string-array name="preferred_network_mode_options_cmcc">
         <item>4G/3G/2G</item>
@@ -718,7 +729,7 @@
         <item>Дома и в роуминге</item>
     </string-array>
     <string-array name="window_animation_scale_entries_flyme">
-        <item>Анимация выкл.</item>
+        <item>Без анимации</item>
         <item>Скорость 0.5x</item>
         <item>Скорость 0.75x</item>
         <item>Скорость 1x</item>
@@ -728,7 +739,7 @@
         <item>Скорость 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries_flyme">
-        <item>Анимация выкл.</item>
+        <item>Без анимации</item>
         <item>Скорость 0.5x</item>
         <item>Скорость 0.75x</item>
         <item>Скорость 1x</item>
@@ -738,7 +749,7 @@
         <item>Скорость 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries_flyme">
-        <item>Анимация выкл.</item>
+        <item>Без анимации</item>
         <item>Скорость 0,5x</item>
         <item>Скорость 0,75x</item>
         <item>Скорость 1x</item>

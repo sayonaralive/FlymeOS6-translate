@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%2$s предоставляет %1$d результаты</item>
+        <item quantity="one">%2$s предоставляет %1$d результаты</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Удалить сообщения?</item>
+        <item quantity="one">Удалить сообщение?</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Удалено</item>
+        <item quantity="one">Удалено</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">Перемещено %1$d писем для %2$s</item>
+        <item quantity="one">Перемещено %1$d писем для %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d Б</item>
+        <item quantity="one">%d Б</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d ГБ</item>
+        <item quantity="one">%d ГБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d КБ</item>
+        <item quantity="one">%d КБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d МБ</item>
+        <item quantity="one">%d МБ</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Выделенные %d письма</item>
+        <item quantity="one">Выделенные %d письма</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">%1$d вложений</item>
+        <item quantity="one">%1$d вложений</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Переместить сообщение</item>
+        <item quantity="one">Переместить сообщение</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">В %d аккаунтах</item>
+        <item quantity="few">В %d аккаунтах</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d новых писем (%2$s)</item>
+        <item quantity="one">%1$d новых писем (%2$s)</item>
+        <item quantity="few">%1$d новых писем (%2$s)</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%1$d аккаунтов</item>
+        <item quantity="one">%1$d аккаунтов</item>
+    </plurals>
+    <plurals name="picker_combined_view_account_count">
+        <item quantity="other">Аккаунтов: %d</item>
+        <item quantity="one">Аккаунтов: %d</item>
+    </plurals>
+    <plurals name="message_copied_toast">
+        <item quantity="other">Скопировано %1$d писем для %2$s</item>
+        <item quantity="one">Перемещено %1$d писем для %2$s</item>
+    </plurals>
+    <plurals name="message_remind_day_hours_time">
+        <item quantity="other">Напомнить через %1$d д. %2$d ч.</item>
+        <item quantity="one">Напомнить через %1$d д. %2$d ч.</item>
+    </plurals>
+    <plurals name="message_remind_day_one_hour_time">
+        <item quantity="other">Напомнить через %1$d д. %2$d ч.</item>
+        <item quantity="one">Напомнить через %1$d д. %2$d ч.</item>
+    </plurals>
+    <plurals name="message_remind_day_time">
+        <item quantity="other">Напомнить через %1$d д.</item>
+        <item quantity="one">Напомнить через %1$d д.</item>
+    </plurals>
+    <plurals name="message_remind_hour_minutes_time">
+        <item quantity="other">Напомнить через %1$d ч. %2$d м.</item>
+        <item quantity="one">Напомнить через %1$d ч. %2$d м.</item>
+    </plurals>
+    <plurals name="message_remind_hour_one_minute_time">
+        <item quantity="other">Напомнить через %1$d ч. %2$d м.</item>
+        <item quantity="one">Напомнить через %1$d ч. %2$d м.</item>
+    </plurals>
+    <plurals name="message_remind_hour_time">
+        <item quantity="other">Напомнить через %1$d ч.</item>
+        <item quantity="one">Напомнить через %1$d ч.</item>
+    </plurals>
+    <plurals name="message_remind_minute_time">
+        <item quantity="other">Напомнить через %1$d мин.</item>
+        <item quantity="one">Напомнить через %1$d мин.</item>
+    </plurals>
+    <plurals name="unread_message">
+        <item quantity="other">%d</item>
+    </plurals>
+    <plurals name="vip_count">
+        <item quantity="other">Контактов: %d</item>
+    </plurals>
+</resources>

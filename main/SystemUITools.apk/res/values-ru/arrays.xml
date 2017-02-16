@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="luckymoney_sound_name">
-        <item>Звук 1</item>
-        <item>Звук 2</item>
-        <item>Звук 3</item>
-        <item>Звук 4</item>
-        <item>Звук 5</item>
-        <item>Звук 6</item>
-        <item>Звук 7</item>
-        <item>Без звука</item>
-    </string-array>
-    <string-array name="mc_custom_time_picker_lunar_month">
-        <item>Январь</item>
-        <item>Февраль</item>
-        <item>Март</item>
-        <item>Апрель</item>
-        <item>Май</item>
-        <item>Июнь</item>
-        <item>Июль</item>
-        <item>Август</item>
-        <item>Сентябрь</item>
-        <item>Октябрь</item>
-        <item>Ноябрь</item>
-        <item>Декабрь</item>
-    </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
@@ -55,5 +31,26 @@
         <item>28</item>
         <item>29</item>
         <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="luckymoney_sound_name">
+        <item>Звук 1</item>
+        <item>Звук 2</item>
+        <item>Золото</item>
+        <item>Звук 7</item>
+        <item>Без звука</item>
     </string-array>
 </resources>

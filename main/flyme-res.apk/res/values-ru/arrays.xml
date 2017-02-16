@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="system_ringtone_name_list">
-        <item>Piano</item>
-        <item>Digital</item>
+        <item>Фортепиано</item>
+        <item>Цифровой</item>
         <item>Flyme</item>
-        <item>Music box</item>
-        <item>Technology</item>
-        <item>Guitar</item>
-        <item>Marimba</item>
-        <item>Mischief</item>
-        <item>Crystal</item>
-        <item>Progress</item>
-        <item>The kittens</item>
-        <item>Morning song</item>
-        <item>Call of love</item>
-        <item>Tumbler</item>
-        <item>The Travel begins</item>
-        <item>New life</item>
-        <item>Heartbeat</item>
-        <item>East ville memory</item>
-        <item>Waltz</item>
-        <item>The cantor</item>
-        <item>Passion</item>
-        <item>Journey</item>
-        <item>Game</item>
-        <item>Rain dance</item>
-        <item>Twilight dance</item>
-        <item>Foredawn</item>
-        <item>Home</item>
-        <item>Blues</item>
-        <item>Dash</item>
-        <item>Machinery ringtone</item>
-        <item>Telephone</item>
-        <item>Beeper</item>
-        <item>After school</item>
-        <item>Mario</item>
-        <item>Nighty-night</item>
-        <item>Soaring</item>
-        <item>Childhood</item>
-        <item>Morning run</item>
-        <item>Sweetheart</item>
-        <item>Curtain call</item>
-        <item>Triumph</item>
-        <item>Reminder</item>
-        <item>Doorbell</item>
-        <item>Promotion</item>
-        <item>Little_Crystal</item>
-        <item>Arrival</item>
-        <item>Cleverer</item>
-        <item>Agile</item>
-        <item>Red wine cork</item>
-        <item>Tapping</item>
-        <item>Drop</item>
-        <item>Link</item>
-        <item>Spinning</item>
-        <item>Gift</item>
-        <item>Blow</item>
-        <item>Pure</item>
-        <item>Beating</item>
-        <item>Naughty</item>
-        <item>Chocolate</item>
-        <item>Code word</item>
-        <item>Corner</item>
-        <item>Empire</item>
-        <item>Jump</item>
-        <item>Laputa</item>
-        <item>Meteor</item>
-        <item>Ripples</item>
-        <item>Shining</item>
-        <item>Silent night</item>
-        <item>The north star</item>
-        <item>Time Tunnel</item>
+        <item>Музыкальная шкатулка</item>
+        <item>Технология</item>
+        <item>Гитара</item>
+        <item>Маримба</item>
+        <item>Проказа</item>
+        <item>Кристалл</item>
+        <item>Прогресс</item>
+        <item>Котята</item>
+        <item>Утренняя песня</item>
+        <item>Зов любви</item>
+        <item>Тумблер</item>
+        <item>Путешествие начинается</item>
+        <item>Новая жизнь</item>
+        <item>Сердцебиение</item>
+        <item>Иствиллские воспоминания</item>
+        <item>Вальс</item>
+        <item>Кантор</item>
+        <item>Страсть</item>
+        <item>Путешествие</item>
+        <item>Игра</item>
+        <item>Танец дождя</item>
+        <item>Сумеречный танец</item>
+        <item>Перед закатом</item>
+        <item>Дом</item>
+        <item>Блюз</item>
+        <item>Всплеск</item>
+        <item>Старый телефон</item>
+        <item>Телефон</item>
+        <item>Пейджер</item>
+        <item>После школы</item>
+        <item>Марио</item>
+        <item>Спокойной ночи</item>
+        <item>Парение</item>
+        <item>Детство</item>
+        <item>Утренняя пробежка</item>
+        <item>Любовь</item>
+        <item>Выход на поклон</item>
+        <item>Триумф</item>
+        <item>Напоминание</item>
+        <item>Дверной звонок</item>
+        <item>Поощрение</item>
+        <item>Маленький кристалл</item>
+        <item>Прибытие</item>
+        <item>Умный</item>
+        <item>Подвижный</item>
+        <item>Винная пробка</item>
+        <item>Стук</item>
+        <item>Капля</item>
+        <item>Узы</item>
+        <item>Вращение</item>
+        <item>Подарок</item>
+        <item>Удар</item>
+        <item>Чистота</item>
+        <item>Ударные</item>
+        <item>Шалость</item>
+        <item>Шоколад</item>
+        <item>Кодовое слово</item>
+        <item>Угол</item>
+        <item>Империя</item>
+        <item>Прыжок</item>
+        <item>Лапута</item>
+        <item>Метеор</item>
+        <item>Рябь</item>
+        <item>Сияние</item>
+        <item>Тихая ночь</item>
+        <item>Северная звезда</item>
+        <item>Туннель времени</item>
     </string-array>
     <string-array name="urlspan_tel_dialog_title">
         <item>Набрать номер</item>
         <item>Отправить сообщение</item>
         <item>Копировать</item>
-        <item>Новый контакт</item>
+        <item>Добавить в контакт</item>
     </string-array>
     <string-array name="urlspan_email_dialog_title">
         <item>Отправить письмо</item>
         <item>Копировать</item>
-        <item>Новый контакт</item>
+        <item>Добавить в контакт</item>
     </string-array>
     <string-array name="urlspan_date_dialog_title">
         <item>Новое событие</item>
