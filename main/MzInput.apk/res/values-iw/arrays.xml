@@ -33,18 +33,18 @@
         <item>30</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
-        <item>ינו</item>
-        <item>פבר</item>
+	<item>ינואר</item>
+        <item>פברואר</item>
         <item>מרץ</item>
-        <item>אפר</item>
-        <item>רשאי</item>
-        <item>יונ</item>
-        <item>יול</item>
-        <item>אוג</item>
-        <item>ספט</item>
-        <item>אוק</item>
-        <item>נוב</item>
-        <item>דצמ</item>
+        <item>אפריל</item>
+        <item>מאי</item>
+        <item>יוני</item>
+        <item>יולי</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
     </string-array>
     <string-array name="mc_custom_weekday">
         <item>ראשון</item>
