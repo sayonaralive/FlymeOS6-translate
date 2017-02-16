@@ -13,7 +13,7 @@
         <item quantity="one">דקה אחת לפני כן</item>
     </plurals>
     <plurals name="fmt_in_num_days">
-        <item quantity="other">לאחר %d ימים</item>
+        <item quantity="other">אחרי %d ימים</item>
         <item quantity="one">מחר</item>
     </plurals>
     <plurals name="fmt_num_days_ago">

@@ -641,7 +641,7 @@
     <string name="op_camera_c">השתמש במצלמה</string>
     <string name="op_getinstallpkg">קבל רשימת יישומים מותקנים</string>
     <string name="op_getinstallpkg_c">קבל רשימה של יישומים מותקנים</string>
-    <string name="op_imei">גיזה למזהה טלפון</string>
+    <string name="op_imei">גישה למזהה טלפון</string>
     <string name="op_imei_c">לגשת למזהה הטלפון</string>
     <string name="op_phone_state">מצב שיחה</string>
     <string name="op_phone_state_c">לקרוא את מצב הטלפון</string>
@@ -1208,4 +1208,7 @@
     <string name="mc_pattern_minute_before">דקות עברו</string>
     <string name="mc_pattern_today">היום</string>
     <string name="mc_pattern_yesterday">אתמול</string>
+	<string name="safe_scanning_process_on">סורק...</string>
+    <string name="safe_scanning_process_no_risk">לא נמצאו איומים</string>
+    <string name="safe_scanning_process_started">הסריקה החלה</string>
 </resources>
