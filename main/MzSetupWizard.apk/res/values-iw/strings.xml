@@ -33,7 +33,7 @@
     <string name="alwaysUse">השתמש באפשרות זו כברירת מחדל</string>
     <string name="app_name">אשף התחלה</string>
     <string name="autoUpdateDec">עדכן יישומים אוטומטית מחנות היישומים כאשר מחובר דרך WLAN</string>
-    <string name="autoUpdateTittle">עדכון יישומים</string>
+    <string name="autoUpdateTittle">"יישומי סנכרון אוטו'"</string>
     <string name="available_via_passpoint">זמין דרך %1$s</string>
     <string name="cancel">ביטול</string>
     <string name="choose_country_or_region">בחירת מדינה או מחוז</string>
@@ -263,27 +263,27 @@
  חידוש הצהרת פרטיות 
 
  בקנה אחד עם המוצרים, שירותים, והחוק, הצהרת הפרטיות תהיה כפופה לשינויים או שניתנת לשינוי בכל עת, שינוי יפורסם מייד ברגע שזה קורה. אתה יכול להמשיך לגלוש באתר האינטרנט או להשתמש במוצרים ושירותי Meizu לאחר שינויים כאמור לעיל או שינויים, אשר ייחשבו כמי שקבלו את השינויים או השינויים שלנו להצהרת הפרטיות."</string>
-    <string name="desc_update">התחבר לאינטרנט כדי לבדוק עדכונים</string>
-    <string name="desktopBackupInfo" formatted="false">(הגיבוי מגיע מאת %s %s).</string>
+    <string name="desc_update">היכנס לאינטרנט ובדוק אם יש עדכונים</string>
+    <string name="desktopBackupInfo" formatted="false">(גיבוי מ- %s %s).</string>
     <string name="disConnetted">מנותק</string>
     <string name="disConnetting">מכבה…</string>
     <string name="disagree">לא מסכים</string>
     <string name="fingerprint_continue">התחל</string>
     <string name="fingerprint_summary">השתמש בטביעת אצבע כדי לפתוח את נעילת המסך, לבצע תשלומים, ולאבטח יישומים וקבצים</string>
-    <string name="fingerprint_title">רשום את טביעת האצבע</string>
+    <string name="fingerprint_title">רשום טביעת אצבע</string>
     <string name="flymeAccount">היכנס ל-Flyme</string>
     <string name="flymeMessage">תקשורת Flyeme</string>
-    <string name="flymeUseAgreement">(הצהרת שימוש ב-Flyme)</string>
-    <string name="flymeUseWarningTittle">הצהרת שימוש ב-Flyme</string>
+    <string name="flymeUseAgreement">תנאי השימוש של Flyme</string>
+    <string name="flymeUseWarningTittle">תנאי השימוש של Flyme</string>
     <string name="ignore">דלג</string>
-    <string name="invite_title">חשבון Flyme מספק אבטחה, גיבוי ושירותים אחרים:</string>
-    <string name="joinImprovementProgram">נתוני שימוש יאספו כדי לשפר את המוצר בלבד, נתונים אישיים ומידע פרטי לא יאספו</string>
+    <string name="invite_title">חשבון Meizu מספק אבטחה, גיבוי ושירותים אחרים:</string>
+    <string name="joinImprovementProgram">איסוף נתוני שימוש לצורך שיפור המוצר. לא ייאספו נתונים אישיים.</string>
     <string name="joinProgram">"הצטרף ל'תוכנית לשיפור חוויית המשתמש'"</string>
     <string name="loading">טוען</string>
-    <string name="locationService">שירות מיקום</string>
+    <string name="locationService">שירותי מיקום</string>
     <string name="login">כניסה</string>
-    <string name="login_flyme_account">היכנס לחשבון Flyme</string>
-    <string name="mc_allow">אפשר</string>
+    <string name="login_flyme_account">היכנס לחשבון Meizu</string>
+    <string name="mc_allow">אישור</string>
     <string name="mc_alway_allow">אפשר תמיד</string>
     <string name="mc_cancel">ביטול</string>
     <string name="mc_cancel_button_text">ביטול</string>
@@ -315,14 +315,14 @@
     <string name="mc_last_refresh_just_now">עכשיו</string>
     <string name="mc_last_refresh_minute">דקות קודם</string>
     <string name="mc_last_refresh_second">שניות קודם</string>
-    <string name="mc_loading_animation_alert">שמור את התמונה</string>
+    <string name="mc_loading_animation_alert">שומר את התמונה</string>
     <string name="mc_loading_view_text">טוען</string>
     <string name="mc_minute">דק</string>
     <string name="mc_monday">"ב'"</string>
     <string name="mc_never">חד פעמית</string>
     <string name="mc_permission_apply">הרשאות יישומים</string>
     <string name="mc_permission_message_content">%1$s בקשות %3$d הרשאות, כולל %2$s</string>
-    <string name="mc_pm_allow_check_app">אפשר</string>
+    <string name="mc_pm_allow_check_app">אישור</string>
     <string name="mc_pm_allow_dialog_push">אפשר דחיפה</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">התקשר</string>
@@ -334,9 +334,9 @@
     <string name="mc_pm_dlg_cancel">ביטול</string>
     <string name="mc_pm_dlg_ok">אישור</string>
     <string name="mc_pm_location">אתר</string>
-    <string name="mc_pm_network">אינטרנט סלולרי</string>
+    <string name="mc_pm_network">נתונים סלולריים</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">אסור</string>
+    <string name="mc_pm_not_allow_check_app">יציאה</string>
     <string name="mc_pm_not_allow_dialog_push">השבת</string>
     <string name="mc_pm_online_intenert">אינטרנט</string>
     <string name="mc_pm_open">פתוח</string>
@@ -347,12 +347,12 @@
     <string name="mc_pm_s_mms">שליחת הודעת מולטימדיה</string>
     <string name="mc_pm_s_sms">שליחת הודעה</string>
     <string name="mc_pm_set_bluetooth_on">הפעל Bluetooth</string>
-    <string name="mc_pm_set_gprs_on">פתח נתונים לנייד</string>
-    <string name="mc_pm_set_wifi_on">פתח רשת אלחוטית</string>
+    <string name="mc_pm_set_gprs_on">הפעל רשת סלולרית</string>
+    <string name="mc_pm_set_wifi_on">הפעל WLAN</string>
     <string name="mc_pm_wlan">WLAN</string>
     <string name="mc_praised_message">אוהב</string>
     <string name="mc_pull_refresh">משוך למטה לרענן</string>
-    <string name="mc_reject">דחה</string>
+    <string name="mc_reject">יציאה</string>
     <string name="mc_saturday">"ש'"</string>
     <string name="mc_search">חפש</string>
     <string name="mc_search_button_text">חפש</string>
@@ -374,14 +374,16 @@
     <string name="mc_weekend">סוף שבוע</string>
     <string name="mc_working_day">ימי שבוע</string>
     <string name="mc_yes">אישור</string>
-    <string name="mobile_data_summary">יש להכניס כרטיס SIM כדי להמשיך</string>
+    <string name="mobile_data_summary">הכנס כרטיס SIM כדי להמשיך</string>
     <string name="mobile_data_title">נתונים סלולריים</string>
     <string name="more_item_label">עוד</string>
     <string name="more_region">ארצות ואזורים נוספים</string>
     <string name="mz_action_bar_multi_choice_cancel">ביטול</string>
     <string name="mz_action_bar_multi_choice_select_all">הכל</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">ללא</string>
-    <string name="mz_action_bar_multi_choice_title">%d פריטים שנבחרו</string>
+    <string name="mz_action_bar_multi_choice_title">%d פריט(ים) נבחרו</string>
+    <string name="mz_allow">אישור</string>
+    <string name="mz_alway_allow">אפשר תמיד</string>
     <string name="mz_date_time_day">יום</string>
     <string name="mz_date_time_hour">שעות</string>
     <string name="mz_date_time_min">"דק'"</string>
@@ -389,17 +391,48 @@
     <string name="mz_date_time_sec">שניות</string>
     <string name="mz_date_time_year">שנים</string>
     <string name="mz_network_unavailable_hint">רשת לא זמינה, בדוק הגדרות רשת</string>
+    <string name="mz_permission_apply">בקשת הרשאה</string>
+    <string name="mz_permission_message_content">%1$s ביקש %3$d הרשאות כדי %2$s.</string>
+    <string name="mz_pm_allow_check_app">אישור</string>
+    <string name="mz_pm_allow_dialog_push">אפשר הודעות בדחיפה</string>
+    <string name="mz_pm_bluetooth">בקרת Bluetooth</string>
+    <string name="mz_pm_call">להתקשר לטלפון</string>
+    <string name="mz_pm_call_log">לקרוא את יומני השיחות</string>
+    <string name="mz_pm_camera">להשתמש במצלמה (לצילום תמונה/וידאו)</string>
+    <string name="mz_pm_close">כבוי</string>
+    <string name="mz_pm_contacts">לקרוא את אנשי הקשר</string>
+    <string name="mz_pm_dialog_push">הודעות מוקפצות בדחיפה</string>
+    <string name="mz_pm_dlg_cancel">ביטול</string>
+    <string name="mz_pm_dlg_ok">אישור</string>
+    <string name="mz_pm_location">לגשת למיקום</string>
+    <string name="mz_pm_network">להשתמש בחיבור נתונים סלולרי</string>
+    <string name="mz_pm_nfc">בקרת NFC</string>
+    <string name="mz_pm_not_allow_check_app">יציאה</string>
+    <string name="mz_pm_not_allow_dialog_push">השבת</string>
+    <string name="mz_pm_online_intenert">לגשת לאינטרנט</string>
+    <string name="mz_pm_open">מופעל</string>
+    <string name="mz_pm_r_mms">לקרוא את הודעות ה-MMS</string>
+    <string name="mz_pm_r_sms">לקרוא את הודעות ה-SMS</string>
+    <string name="mz_pm_recordaudio_local">להקליט שמע/שיחה</string>
+    <string name="mz_pm_recordaudio_phone">להקליט שיחה</string>
+    <string name="mz_pm_s_mms">לשלוח הודעות MMS</string>
+    <string name="mz_pm_s_sms">לשלוח הודעות SMS</string>
+    <string name="mz_pm_set_bluetooth_on">להפעיל Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">להפעיל נתונים סלולריים</string>
+    <string name="mz_pm_set_wifi_on">להפעיל WLAN</string>
+    <string name="mz_pm_wlan">לגשת ל-WLAN</string>
+    <string name="mz_reject">יציאה</string>
     <string name="mz_wif_setting_dialog_message">אין חיבור לרשת. אנא בדוק את הגדרות הרשת.</string>
     <string name="mz_wif_setting_dialog_set">הגדר</string>
     <string name="noActiveNetworkTip">אין חיבור רשת, בדוק את הגדרות הרשת</string>
     <string name="no_availible_WLAN">אין רשת WLAN זמינה. תוכל להיכנס באמצעות שימוש בנתונים סלולריים.</string>
     <string name="no_avialible_network">אין רשת זמינה. ניתן לסיים את מדריך האתחול כעת ולהיכנס אחר כש להגדרות כדי לקבל גישה לכל שירותי Flyme כאשר הטלפון מחובר לרשת.</string>
     <string name="ok">אישור</string>
-    <string name="open_wifi_confirm_message">ניתן להפעיל חיבור WLAN כדי להתחבר לחשבון Flyme</string>
+    <string name="open_wifi_confirm_message">ניתן להפעיל WLAN כדי להיכנס לחשבון Meizu.</string>
     <string name="open_wifi_confirm_title">הפעל WLAN?</string>
     <string name="please_select_phase2">אימות שלב 2</string>
     <string name="protocol_title">תנאי השימוש</string>
-    <string name="readAndAccept">קרא וקבל (הצהרת שימוש ב-Flyme)</string>
+    <string name="readAndAccept">קראתי את תנאי השימוש של Flyme ואני מסכים להם</string>
     <string name="recommend_summary1">"אתר את הטלפון האבוד שלך, צלם תמונות מרחוק
 נעל את המכשיר כדי להגן על הפרטיות שלך"</string>
     <string name="recommend_summary1_pad">"התחבר בנגיעה
@@ -413,10 +446,10 @@
 לעולם לא תאבד אף איש קשר או תמונה"</string>
     <string name="recommend_summary3_pad">"שמור רישומים, הערות ולוחות שנה
 אל תאבד את הנתונים שלך שוב לעולם"</string>
-    <string name="recommend_title1">אבטחה טובה יותר באמצעות חשבון Flyme</string>
-    <string name="recommend_title1_pad">גישה מלאה עם שבון פליים</string>
-    <string name="recommend_title2">זכויות נוספות עם חשבון Flyme</string>
-    <string name="recommend_title3">שימוש קל יותר באמצעות חשבון Flyme</string>
+    <string name="recommend_title1">היכנס לחשבון לאבטחה חזקה יותר</string>
+    <string name="recommend_title1_pad">גישה מלאה באמצעות חשבון Meizu</string>
+    <string name="recommend_title2">הטבות והרשאות נוספות</string>
+    <string name="recommend_title3">שימוש קל יותר באמצעות חשבון Meizu</string>
     <string name="refresh_network">רענן</string>
     <string name="register">הרשם</string>
     <string name="reset">אתחל אשף התחלה</string>
@@ -424,24 +457,25 @@
     <string name="restoreDesktopDec">סנכרון אוטומטי של יישומים ופריסות של המפעיל דרך WLAN</string>
     <string name="saved_network">נשמר על ידי %1$s</string>
     <string name="setup">היכנס אל אשף ההתקנה</string>
-    <string name="setupUseSyncAndPush">תוכל להשתמש בחשבון Flyme כדי לסנכרון הנתונים ולקבל הודעות בדחיפה, סנכרון ודחיפה יעלו שימוש בנתונים</string>
+    <string name="setupUseSyncAndPush">"ניתן להשתמש בחשבון Meizu כדי לסנכרן נתונים ולקבל הודעות בדחיפה.
+סנכרון וקבלת הודעות בדחיפה יצרכו נתונים סלולריים."</string>
     <string name="setup_finish">מזל טוב! ההגדרה הושלמה.</string>
     <string name="setup_network">הגדר רשת</string>
     <string name="simCardOne">סים 1</string>
     <string name="simCardTwo">סים 2</string>
     <string name="skip">דלג</string>
-    <string name="skip_network_dialog_msg">הגדרות רשת שלא הושלמו ישפיעו על עדכון מערכת ועל תפקוד מוצא הטלפון ותכונות אחרות.</string>
+    <string name="skip_network_dialog_msg">"הגדרת רשת לא מלאה תשפיע על עדכון המערכת ועל פעולת 'מאתר הטלפון' ותכונות אחרות."</string>
     <string name="skip_network_dialog_msg_pad">עדכון המערכת ותכונות רבות נוספות עשויים שלא לפעול כראוי כאשר מדלגים על הגדרת הרשת</string>
     <string name="skip_register_account_dlg_msg">עם הכניסה ניתן להפעיל גיבוי תמונות לענן, מאתר הטלפון ועוד תכונות חשובות, והכל בחינם, לדלג?</string>
-    <string name="skip_register_account_dlg_msg_pad">תכונות שקשורות לחשבון של יישומים מסוימים עשויות שלא לפעול כראוי כאשר מדלגים על הגדרת חשבון ה-Flyme</string>
-    <string name="start_use">התחל להשתמש</string>
+    <string name="skip_register_account_dlg_msg_pad">תכונות שקשורות לחשבון ביישומים מסוימים עלולות שלא לפעול כהלכה אם תדלג על ההגדרות של חשבון Meizu.</string>
+    <string name="start_use">תחילת העבודה</string>
     <string name="syncData">סנכרון וגיבוי</string>
     <string name="title_IP">הצהרה על זכויות קניין רוחני</string>
     <string name="title_find_phone">מציאת טלפון</string>
     <string name="title_privacy">הצהרת פרטיות</string>
     <string name="title_update">עדכון השרות</string>
-    <string name="useFlymeToSync">"תוכל לסנכרן את הנתונים האישיים שלך 
-באמצעות החשבון Flyme שלך"</string>
+    <string name="useFlymeToSync">"ניתן לסנכרן את הנתונים האישיים 
+באמצעות חשבון Meizu"</string>
     <string name="useNewUserGuide">השתמש במדריך למתחילים</string>
     <string name="useNewUserGuideTip">מסייע לך להכיר מגוון תכונות מהר יותר</string>
     <string name="userWaringTip">"תודה על בחירתך במערכת ההפעלה Flyme . כדי להעשיר את החוויה שלך עם מערכת ההפעלה Flyme ושרותיה, נבקש ממך לקרוא הודעה זו בזהירות לפני השימוש. 
@@ -477,11 +511,11 @@
 3. שרות ההודעות החכם המאפשר לך יותר שירותים מקומיים יאפשר בצורה אוטומטית את המיקום שלך כאשר המכשיר פעיל. 
 
 זוהי אחריות שלך לשלם על חבילת הגלישה, חיבור הנתונים, תקשורת והודעות, כמו כן תשלומים נוספים הנדרשים מהמפעיל הסלולארי כתוצאה מהשימוש שלך במערכת והשירותים של מערכת ההפעלה Flyme. אם תרשם לשירותים נוספים הדורשים תשלום נוסף למפעיל הסלולארי שלך, יש להתייעץ עם המפעיל הסלולארי שלך על חיובים אלו. שרותי המיקום של מערכת ההפעלה Flyme ייתכן וישמרו את נתוני המיקום שלך ויספקו אותם לשירותי המערכת או יישומי צד-שלישי. לכן, כדי להגן על המידע האישי שלך, אנו מציעים שתשים תשומת לב מיוחדת אילו יישומי צד שלישי מקבלים אישור גישה לנתוני המיקום שלך."</string>
-    <string name="userWaringTipForPad">"תודה שבחרתם ב-Flyme JDtab בשילוב עם מערכת ההפעלה Flyme Tablet (להלן \"Flyme\"). כדי לשפר את חווית השימוש שלכם בשירותים מבוססי-אינטרנט, היישום Flyme יתחבר לאינטרנט ויאפשר הפעלת שירותי מיקום בעת הצורך, לרבות במקרים הבאים:         
-1. לדיוק רב יותר בשירותים, שרותי הענן, חשבון הענן, ה-mPay, מרכז האירועים, מרכז החשבון, כלי ממשק המשתמש ומנהל הטאבלט יגשו למיקומך כשהמכשיר מחובר לאינטרנט.         
-2. היישומים והשירותים הבאים יכולים לתפקד כראוי רק כאשר הם מחוברים לאינטרנט: שירותי ענן, חשבון ענן, סנכרון ענן, שירותי תשלום לנייד, mPay, מזג האוויר, אלבום ענן, מרכז המשתמש, מרכז החשבון, מרכז האירועים, חנות היישומים, מרכז המשחקים, מנהל הטאבלט, מתקין החבילות, סרטונים, מוסיקה, שירותי מדיה, שירותי מסגרת המערכת, וכלי ממשק המשתמש של המערכת.          
+    <string name="userWaringTipForPad">"תודה שבחרת ב-Flyme JDtab בשילוב עם מערכת ההפעלה Flyme Tablet (להלן \"Flyme\"). כדי לשפר את חווית השימוש שלכם בשירותים מבוססי-אינטרנט, היישום Flyme יתחבר לאינטרנט ויאפשר הפעלת שירותי מיקום בעת הצורך, לרבות במקרים הבאים: 
+1. לדיוק רב יותר בשירותים, שרותי דחיפה, Cloud Account‏, mPay‏, Event Center‏, Account Center‏, System UI Tools ו-Tablet Manager ייגשו למיקומך כשהמכשיר מחובר לאינטרנט. 
+2. היישומים והשירותים הבאים יפעלו כהלכה רק כאשר הם מחוברים לאינטרנט: שירותי דחיפה, Cloud Account‏, Cloud Sync‏, שירותי תשלום סלולריים, mPay‏, Weather‏, Cloud Album‏, User Center‏, Account Center‏, Event Center‏, App Store‏, Game Center‏, Tablet Manager‏, Package Installer‏, Videos‏, Music‏, שירותי מדיה, שירותי מסגרת מערכת ו-System UI tools 
 
-. פרטי המיקום שלך עשוי להיות מתועדים על ידי שירותי המיקום של Flyme ולהיות מסופקים לשירותי Flyme או יישומי צד שלישי אחרים. לפיכך, כדי להגן על המידע הפרטי שלך, אנו מציעים לך לנקוט בזהירות כאשר יישום צד שלישי כלשהו מבקש הרשאה לגשת לפרטי המיקום שלך."</string>
+ ייתכן שפרטי המיקום שלך יתועדו על ידי שירותי המיקום של Flyme ויסופקו לשירותי Flyme אחרים או ליישומי צד שלישי. לכן, כדי להגן את המידע האישי שלך, אנו מציעים שתנקוט בשיקול דעת כאשר יישום של צד שלישי מבקש הרשאה לגשת לשירותי המיקום שלך."</string>
     <string name="userWaringTipYunos">"תודה שבחרת ב-Flyme בשיתוף YunOS. על מנת לשפר את החוויה שלך ב-Flyme, אנו מבקשים ממך לקרוא הודעה זו בזהירות לפני השימוש
 
  חלק מהשרותים ש-Flyme מציעה דורשים חיבור נתונים ושירותי מיקום על מנת לעבוד כיאות, כולל:
