@@ -4,14 +4,6 @@
         <item>גיבוי</item>
         <item>שחזור</item>
     </string-array>
-    <string-array name="DATE_FORMAT">
-        <item>שנה</item>
-        <item>חודש</item>
-        <item>תאריך</item>
-        <item>שעה</item>
-        <item>דקה</item>
-        <item>שנייה</item>
-    </string-array>
     <string-array name="DATE_FORMAT_TITLE">
         <item>דקות</item>
         <item>שעות</item>

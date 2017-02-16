@@ -46,4 +46,13 @@
         <item>נובמבר</item>
         <item>דצמבר</item>
     </string-array>
-</resources>
+    <string-array name="mc_custom_weekday">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+	</resources>
