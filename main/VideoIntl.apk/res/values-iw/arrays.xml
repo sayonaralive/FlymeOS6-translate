@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="decodemode">
+        <item>פיענוח חומרה (שימוש מופחת בסוללה)</item>
+        <item>פיענוח תוכנה (חלק יותר)</item>
+    </string-array>
     <string-array name="experience_list">
         <item>מבוא מוצר</item>
         <item>מבוא ל-Flyme</item>

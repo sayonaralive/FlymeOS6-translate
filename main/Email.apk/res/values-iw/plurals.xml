@@ -66,32 +66,32 @@
         <item quantity="one">הועבר %1$d הודעה(ות) ל %2$s</item>
     </plurals>
     <plurals name="message_remind_day_hours_time">
-        <item quantity="other">הזכר עוד %1$d ימים %2$d שעות</item>
-        <item quantity="one">הזכר עוד %1$d ימים %2$d שעות</item>
+        <item quantity="other">הזכר בעוד יום %1$d ו-%2$d שעות</item>
+        <item quantity="one">הזכר בעוד יום %1$d ו-%2$d שעות</item>
     </plurals>
     <plurals name="message_remind_day_one_hour_time">
-        <item quantity="other">הזכר עוד %1$d ימים %2$d שעות</item>
-        <item quantity="one">הזכר עוד %1$d ימים %2$d שעות</item>
+        <item quantity="other">הזכר בעוד יום %1$d ושעה %2$d</item>
+        <item quantity="one">הזכר בעוד יום %1$d ושעה %2$d</item>
     </plurals>
     <plurals name="message_remind_day_time">
-        <item quantity="other">הזכר עוד %1$d ימים</item>
-        <item quantity="one">הזכר עוד %1$d ימים</item>
+        <item quantity="other">הזכר בעוד יום %1$d</item>
+        <item quantity="one">הזכר בעוד יום %1$d</item>
     </plurals>
     <plurals name="message_remind_hour_minutes_time">
-        <item quantity="other">הזכר עוד %1$d שעות %2$d דקות</item>
-        <item quantity="one">הזכר עוד %1$d שעות %2$d דקות</item>
+        <item quantity="other">הזכר בעוד שעה %1$d ו-%2$d דקות</item>
+        <item quantity="one">הזכר בעוד שעה %1$d ו-%2$d דקות</item>
     </plurals>
     <plurals name="message_remind_hour_one_minute_time">
-        <item quantity="other">הזכר עוד %1$d שעות %2$d דקות</item>
-        <item quantity="one">הזכר עוד %1$d שעות %2$d דקות</item>
+        <item quantity="other">הזכר בעוד שעה %1$d ודקה %2$d</item>
+        <item quantity="one">הזכר בעוד שעה %1$d ודקה %2$d</item>
     </plurals>
     <plurals name="message_remind_hour_time">
-        <item quantity="other">הזכר עוד %1$d שעות</item>
-        <item quantity="one">הזכר עוד %1$d שעות</item>
+        <item quantity="other">הזכר בעוד שעה %1$d</item>
+        <item quantity="one">הזכר בעוד שעה %1$d</item>
     </plurals>
     <plurals name="message_remind_minute_time">
-        <item quantity="other">הזכר עוד %1$d דקות</item>
-        <item quantity="one">הזכר עוד %1$d דקות</item>
+        <item quantity="other">הזכר בעוד דקה %1$d</item>
+        <item quantity="one">הזכר בעוד דקה %1$d</item>
     </plurals>
     <plurals name="unread_message">
         <item quantity="other">%d</item>

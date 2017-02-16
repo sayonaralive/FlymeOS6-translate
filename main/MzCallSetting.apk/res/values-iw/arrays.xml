@@ -46,8 +46,17 @@
         <item>נובמבר</item>
         <item>דצמבר</item>
     </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
     <string-array name="record_object_array">
         <item>כל השיחות</item>
-        <item>בחר אנשי קשר</item>
+        <item>בחר איש קשר</item>
     </string-array>
 </resources>

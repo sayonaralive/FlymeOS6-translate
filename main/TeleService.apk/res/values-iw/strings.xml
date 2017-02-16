@@ -429,7 +429,7 @@
     <string name="voice_command_notification_ticker" formatted="false">ניתן לומר %s או %s כדי לענות לשיחב נכנסת או להתעלם ממנה</string>
     <string name="voice_command_notification_title">שליטה קולית</string>
     <string name="voice_command_notification_message">שליטה קולית מופעלת בטלפון</string>
-    <string name="callFailed_simError">אין SIM או שגיאת SIM</string>
+    <string name="callFailed_simError">אין כרטיס SIM או שגיאה</string>
     <string name="callFailed_simError_cdma">אין UIM/SIM או שגיאת UIM/SIM</string>
     <string name="callFailed_simError_slotNumber">אין SIM או שגיאת SIM %s</string>
     <string name="callFailed_cdma_notEmergency">שיחות חירום בלבד</string>
@@ -510,11 +510,11 @@
     <string name="emergency_calls_reference">מספרים לשיחות חירום</string>
     <string name="auto_record_summary">השמע כאשר שיחה לא נענתה</string>
     <string name="voice_email_closed">מושבת</string>
-    <string name="toast_set_voicemail_fail">ההגדרה נכשלה</string>
+    <string name="toast_set_voicemail_fail">שגיאה בהגדרה</string>
     <string name="lable_not_available">STK לא מותקן</string>
     <string name="button_ends_call_prerefence_title">לחץ על לחצן ההפעלה כדי לסיים שיחה</string>
-    <string name="app_name_sim1">סים 1 -</string>
-    <string name="app_name_sim2">סים 2 -</string>
+    <string name="app_name_sim1">כרטיס 1 -</string>
+    <string name="app_name_sim2">כרטיס 2 -</string>
     <string name="card_name_no_sim">אין כרטיס SIM</string>
     <string name="sim1_callforwarding">העברת שיחות (SIM 1)</string>
     <string name="sim2_callforwarding">העברת שיחות (SIM 2)</string>
@@ -545,15 +545,15 @@
     <string name="preference_sim_contacts_title">אנשי קשר בסים</string>
     <string name="preference_contacts_accounts_title">חשבונות ברירת מחדל</string>
     <string name="preference_import_contacts_from_otherphone_title">יבא מטלפון אחר</string>
-    <string name="sim_1">סים 1 -</string>
-    <string name="sim_2">סים 2 -</string>
-    <string name="label_for_flyme_call_default">שיחת אינטרנט</string>
+    <string name="sim_1">כרטיס 1 -</string>
+    <string name="sim_2">כרטיס 2 -</string>
+    <string name="label_for_flyme_call_default">שיחת SIP</string>
     <string name="mz_call_setting">הגדרות</string>
     <string name="ecc_police">משטרה: 100</string>
     <string name="ecc_fire">אש: 119</string>
     <string name="ecc_ambulance">אמבולנס: 120</string>
     <string name="ecc_traffic">תעבורה: 122</string>
-    <string name="sim_label_as_postfix">SIM %d</string>
+    <string name="sim_label_as_postfix">(כרטיס%d)</string>
     <string name="accessibility_call_muted">שיחה הושתקה.</string>
     <string name="accessibility_speakerphone_enabled">רמקול מופעל.</string>
     <string name="add_sip_account">הוסף חשבון</string>
@@ -706,7 +706,7 @@
     <string name="sim2_more_info">עוד(סים2)</string>
     <string name="expand_option_title">עוד</string>
     <string name="button_fdn_summary">התקשר רק למספר מסוים</string>
-    <string name="multi_card_title">SIM כפול</string>
+    <string name="multi_card_title">כרטיס SIM כפול</string>
     <string name="sim_call_default_summary">הגדרות רשת ברירת מחדל</string>
     <string name="cdma_callforword_turn_on">הפעל</string>
     <string name="cdma_callforword_turn_off">כבה</string>
@@ -718,6 +718,7 @@
     <string name="volte_ss_no_data_tips">אנא אפשר חיבור נתונים</string>
     <string name="incall_error_in_callback">לא יכול להוסיף שיחה חדשה בקו מיוחד</string>
     <string name="mz_dial_emergency_error">החיוג נכשל. %s אינו מספר חירום.</string>
+    <string name="mz_block_ussd_in_call">השתמש בפקודה USSD לאחר סיום השיחה.</string>
     <string name="phoneAppLabel">טלפון</string>
     <string name="emergencyDialerIconLabel">חייגן חירום</string>
     <string name="phoneIconLabel">טלפון</string>
@@ -747,7 +748,7 @@
     <string name="voicemail">תא קולי</string>
     <string name="voicemail_abbreviated">דואר קולי:</string>
     <string name="networks">בחירת מפעיל</string>
-    <string name="call_settings">הגדרות שיחה</string>
+    <string name="call_settings">הגדרת שיחה</string>
     <string name="additional_gsm_call_settings">הגדרות נוספות</string>
     <string name="sum_gsm_call_settings">הגדרות שיחה נוספות של GSM בלבד</string>
     <string name="additional_cdma_call_settings">הגדרות שיחה נוספות של CDMA</string>

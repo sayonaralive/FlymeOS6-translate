@@ -177,18 +177,18 @@
     <string name="logcat_reject_level_prevent_all">סירוב</string>
     <string name="show_sf_fps_summary">הצגת קצב מסגרות זמן אמת וערך נוכחי</string>
     <string name="show_sf_fps">הצגת FPS וזרם חשמלי</string>
-    <string name="memory_monitor_title">מוניטור שימוש בזיכרון RAM בזמן אמת</string>
+    <string name="memory_monitor_title">מנטר זיכרון בזמן אמת</string>
     <string name="capture_performance_log_tip">לחץ על לחצני ההפעלה והעוצמה כדי ללכוד יומנים הקשורים בביצועים כמו מידע Systrace ולשמור במחיצה /sdcard/PerformanceLog/</string>
     <string name="capture_performance_log">הרכשת ימני הביצועים</string>
-    <string name="debug_performance_time">מידע נרכש</string>
+    <string name="debug_performance_time">משך זמן הרישום</string>
     <string name="wukong_monitor_title">מנטר הביצועים</string>
-    <string name="wukong_monitor_switch">"הצג את 'מנטר הביצועים'"</string>
-    <string name="wukong_monitor_switch_summary">מנטר הביצועים מסייע לבדוק את מצב הטלפון בכל עת.</string>
+    <string name="wukong_monitor_switch">הצג את \"מנטר הביצועים\"</string>
+    <string name="wukong_monitor_switch_summary">מנטר הביצועים מאפשר לבדוק את מצב הטלפון בכל עת.</string>
     <string name="wukong_monitor_interval">מרווח רענון</string>
     <string name="wukong_monitor_temp_switch">"הצגת טמפ' CPU ולוח ראשי"</string>
     <string name="wukong_monitor_cpu_switch">הצגת מידע CPU ותהליכים</string>
     <string name="wukong_monitor_mem_switch">הצגת שימוש בזיכרון</string>
-    <string name="wukong_monitor_io_switch">הצג מצב קלט/פלט</string>
+    <string name="wukong_monitor_io_switch">הצג I/O</string>
     <string name="wukong_monitor_vm_switch">הצגת זיכון ווירטואלי</string>
     <string name="wukong_monitor_frag_switch">הצגת פיצול זיכרון</string>
     <string name="wukong_monitor_freq_switch">הצגת תדרי GPU וגם CPU</string>
@@ -196,10 +196,10 @@
     <string name="wukong_monitor_mem">הצגת PSS של תהליכים</string>
     <string name="wukong_monitor_pid">הצג PID של תהליכים</string>
     <string name="wukong_monitor_cpuset">הצג cpuset</string>
-    <string name="wukong_monitor_mode">מצב מוניטור</string>
+    <string name="wukong_monitor_mode">מצב \"מנטר\"</string>
     <string name="wukong_monitor_mode_process">תהליכים</string>
     <string name="wukong_monitor_mode_thread">הליכי משנה</string>
-    <string name="wukong_monitor_options">שליטה באפשרויות המוינטור</string>
+    <string name="wukong_monitor_options">אפשרויות \"מנטר\"</string>
     <string name="monitor_cpu_options">אפשרויות ניטור CPU</string>
     <string name="wukong_monitor_help">עזרה</string>
 </resources>

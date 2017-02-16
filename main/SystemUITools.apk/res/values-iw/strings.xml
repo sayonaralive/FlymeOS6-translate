@@ -146,7 +146,7 @@
     <string name="screenshot_text_save">שמור</string>
     <string name="screenshot_text_load">טוען...</string>
     <string name="screenshot_text_commit">בוצע</string>
-    <string name="screenshot_text_scrolltocapture">גרור את הידית למעלה או למטה לצילום מסך ארוך</string>
+    <string name="screenshot_text_scrolltocapture">גרור נקודות אחיזה לחיתוך כדי לצלם צילום מוארך של המסך</string>
     <string name="screenshot_text_noscroll">לא ניתן לצלם את המסך לאורך במסך הנוכחי.</string>
     <string name="screenshot_text_nomore">אין עוד תוכן</string>
     <string name="screenshot_text_startscrollcapture">צלם תמונת מסך ארוכה</string>

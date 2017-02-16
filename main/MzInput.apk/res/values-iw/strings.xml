@@ -213,35 +213,35 @@
     <string name="mz_network_unavailable_hint">רשת לא זמינה, בדוק הגדרות רשת</string>
     <string name="mz_wif_setting_dialog_message">אין חיבור לרשת. אנא בדוק את הגדרות הרשת.</string>
     <string name="mz_wif_setting_dialog_set">הגדר</string>
-    <string name="mzuc_cancel">סגור</string>
+    <string name="mzuc_cancel">ביטול</string>
     <string name="mzuc_cancel_download">בטל הורדה</string>
-    <string name="mzuc_cancel_install">בטל התקנה</string>
-    <string name="mzuc_delete">הסרה</string>
+    <string name="mzuc_cancel_install">בטל את ההתקנה</string>
+    <string name="mzuc_delete">מחק</string>
     <string name="mzuc_download">הורדה</string>
     <string name="mzuc_download_fail">ההורדה נכשלה</string>
-    <string name="mzuc_download_finish_install">הורדה הושלמה, לחץ להתקנה</string>
+    <string name="mzuc_download_finish_install">ההורדה הושלמה, הקש כדי להתקין</string>
     <string name="mzuc_download_finish_s" formatted="false">%s %sהורדה הסתיימה</string>
-    <string name="mzuc_download_progress_desc_s" formatted="false">מוריד... %s %s</string>
-    <string name="mzuc_downloading">מוריד...</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">מוריד %s %s</string>
+    <string name="mzuc_downloading">מוריד</string>
     <string name="mzuc_file_size_s">גודל: %s</string>
     <string name="mzuc_found_update_s">נמצא עדכון %s</string>
-    <string name="mzuc_install_cancel_tip">הורדה בוטלה</string>
+    <string name="mzuc_install_cancel_tip">ההורדה בוטלה</string>
     <string name="mzuc_install_fail">ההתקנה נכשלה</string>
     <string name="mzuc_install_immediately">התקן עכשיו</string>
-    <string name="mzuc_install_later">התקן אחר כך</string>
-    <string name="mzuc_installing">מתקין</string>
+    <string name="mzuc_install_later">התקן מאוחר יותר</string>
+    <string name="mzuc_installing">התקנה</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">אישור</string>
     <string name="mzuc_reboot_update_now">התחל מחדש והעדכן</string>
     <string name="mzuc_retry">נסה שוב</string>
-    <string name="mzuc_skip_version">דחה את הגרסה הזו</string>
-    <string name="mzuc_skip_warn_tip">אם תדלג על הגרסה הזו לא תוכל להתקין אותה</string>
+    <string name="mzuc_skip_version">התעלם מגירסה זו</string>
+    <string name="mzuc_skip_warn_tip">אם תדלג על גירסה זו, לא תקבל הנחיה להתקין אותה</string>
     <string name="mzuc_update_finish">העדכון הושלם</string>
     <string name="mzuc_update_immediately">עדכן עכשיו</string>
     <string name="mzuc_update_later">נא להזכיר לי אחר כך</string>
     <string name="mzuc_update_mobile_network">האם להוריד באמצעות נתונים סלולריים?</string>
     <string name="mzuc_update_msg_title_s" formatted="false">%s V%s</string>
-    <string name="mzuc_update_title_s" formatted="false">%s שחרור%s V</string>
+    <string name="mzuc_update_title_s" formatted="false">%s V%s שוחרר</string>
     <string name="mzuc_wait_tip">הרגע</string>
     <string name="mzuc_warn_later">לא עכשיו</string>
     <string name="panel_name_default">ברירת מחדל</string>
@@ -251,19 +251,19 @@
     <string name="panel_name_fr_azerty">AZERTY</string>
     <string name="panel_name_symbol_bottom_layout_back">הקודם</string>
     <string name="panel_name_symbol_chinese">CN</string>
-    <string name="panel_name_symbol_common_use">מועדף</string>
+    <string name="panel_name_symbol_common_use">אחרון</string>
     <string name="panel_name_symbol_emoction">פרצופים</string>
     <string name="panel_name_symbol_emoji">"אימוג'י"</string>
     <string name="panel_name_symbol_english">HE</string>
     <string name="panel_name_symbol_math">מתמטיקה</string>
     <string name="panel_name_symbol_num">מס.</string>
-    <string name="panel_name_symbol_special">מיוחד</string>
+    <string name="panel_name_symbol_special">תו</string>
     <string name="panel_name_zh_bihua">Wubihua</string>
     <string name="panel_name_zh_cangjie">Changjie</string>
     <string name="panel_name_zh_hw">כתב יד</string>
     <string name="panel_name_zh_hw_full">מסך מלא</string>
     <string name="panel_name_zh_quick">מהיר</string>
-    <string name="panel_name_zh_qwerty">מקלדת פיניין מהירה</string>
+    <string name="panel_name_zh_qwerty">לוח מקשים QWERTY ב-pinyin</string>
     <string name="panel_name_zh_t9">T9 pinyin</string>
     <string name="panel_name_zh_wubi">Wubi</string>
     <string name="permision_dialog_message">לשיטת הקלט של המערכת נחוצים גישה לאינטרנט, קריאה של אנשי הקשר שלך וכן שימוש במיקרופון על מנת ליצור אוצר מילים בהתאמה אישית ולספק תמיכה בקלט קולי.</string>
@@ -310,7 +310,7 @@
     <string name="setting_toast_clean_fail">המחיקה של מילון המשתמש נכשלה</string>
     <string name="setting_toast_clean_success">מחיקת מילון משתמש הצליחה</string>
     <string name="setting_toast_update_fail">עדכון אוצר המילים הפופולרי נכשל</string>
-    <string name="setting_toast_update_newest">הצעות המילון שלך עדכניות</string>
+    <string name="setting_toast_update_newest">אוצר המילים הפופולריות שלך עדכני.</string>
     <string name="shortcuts_dictionary">מיון קיצורי דרך</string>
     <string name="shortcuts_dictionary_add">הוסף</string>
     <string name="shortcuts_dictionary_add_success">נוסף בהצלחה</string>
@@ -324,14 +324,14 @@
     <string name="shortcuts_dictionary_empty_page_add">לחץ כדי להוסיף</string>
     <string name="shortcuts_dictionary_empty_page_hint">צור קיצורי דרך למשפטים נפוצים</string>
     <string name="shortcuts_dictionary_empty_page_hint1">הקש</string>
-    <string name="shortcuts_dictionary_empty_page_hint2">הוסף או ערוך של ביטוי</string>
+    <string name="shortcuts_dictionary_empty_page_hint2">להוסיף ביטויים או לערוך אותם</string>
     <string name="shortcuts_dictionary_empty_page_hint3">הקלד את ההודעות שלך בדרך מהירה יותר</string>
     <string name="shortcuts_dictionary_full_hint">מילון קיצורי הדרך מלא</string>
     <string name="shortcuts_dictionary_manager">נהל</string>
     <string name="shortcuts_dictionary_modify">שנה</string>
     <string name="shortcuts_dictionary_save">שמור</string>
     <string name="shy_emoticons">ביישן</string>
-    <string name="skb_key_cancel_voice">בטל קלט</string>
+    <string name="skb_key_cancel_voice">ביטול</string>
     <string name="skb_key_delete_voice">מחק</string>
     <string name="speechless_emoticons">ללא מילים</string>
     <string name="voice_enter_name_idle">הזן</string>

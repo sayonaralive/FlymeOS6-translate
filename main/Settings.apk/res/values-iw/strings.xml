@@ -143,7 +143,7 @@
     <string name="device_info_default">לא ידוע</string>
     <string name="show_dev_on">אתה כעת מפתח!</string>
     <string name="show_dev_already">הפעולה אינה נדרשת שכן אתה במצב מפתח.</string>
-    <string name="header_category_wireless_networks">רשתות וחיבור</string>
+    <string name="header_category_wireless_networks">רשתות וחיבורים</string>
     <string name="header_category_connections">קשרים</string>
     <string name="header_category_device">מכשיר</string>
     <string name="header_category_personal">אישי</string>
@@ -1473,7 +1473,7 @@
     <string name="confirm_enable_oem_unlock_text">אזהרה: תכונות הגנת מכשיר לא יפעלו במכשיר הזה כשההגדרה הזו פועלת.</string>
     <string name="wifi_display_certification">הרשאת תצוגה אלחוטית</string>
     <string name="wifi_verbose_logging">אפשר רישום מפורט של WLAN</string>
-    <string name="wifi_aggressive_handover">מעבר אגרסיבי מ-WLAN לסלולרי</string>
+    <string name="wifi_aggressive_handover">מעבר פעיל מ-WLAN לסלולרי</string>
     <string name="wifi_allow_scan_with_traffic">אפשר תמיד סריקות נדידה של WLAN</string>
     <string name="wifi_display_certification_summary">הצג את אפשרויות הרשאת התצוגה האלחוטית</string>
     <string name="wifi_verbose_logging_summary">העלה את רמת הרישום של ה-WLAN, הצג לפי SSID RSSI ב-WLAN Picker</string>
@@ -2026,7 +2026,7 @@
     <string name="show_touches">הצגת נגיעות</string>
     <string name="show_touches_summary">הצג משוב חזותי עבור נגיעות</string>
     <string name="show_screen_updates">הצג עדכונים על פני השטח</string>
-    <string name="show_screen_updates_summary">הבהב את כל שטחי החלון כשהם מתעדכנים</string>
+    <string name="show_screen_updates_summary">הבהב את כל משטחי החלון כשהם מתעדכנים</string>
     <string name="show_hw_screen_updates">הצג עדכוני תצוגה של GPU</string>
     <string name="show_hw_screen_updates_summary">הבהב את התצוגות בחלון בעת ציור באמצעות ה-GPU</string>
     <string name="show_hw_layers_updates">הצג עדכוני שכבות חומרה</string>
@@ -2669,10 +2669,10 @@
     <string name="wifi_priority_label">עדיפות גבוהה</string>
     <string name="wifi_priority_settings_label">הגדרות עדיפות</string>
     <string name="wifi_configured_ap_list">רשתות שנשמרו</string>
-    <string name="msg_wlan_signal_found">נמצא אות ה-WLAN‏ %s, האם ברצונך להשתמש ברשת זו? הפעולה תנתק אותך מחיבור הנתונים שבו אתה משתמש כעת</string>
+    <string name="msg_wlan_signal_found">נמצא אות WLAN %s. האם ברצונך להשתמש ברשת זו? הפעולה תנתק אותך מהרשת הסלולרית הנוכחית שבה אתה משתמש.</string>
     <string name="wifi_security_cmcc">שיטת הצפנה</string>
     <string name="wifi_channel">ערוץ WLAN מועדף</string>
-    <string name="msg_wlan_signal_found_manul">נמצא אות WLAN, האם ברצונך להשתמש בחיבור WLAN?</string>
+    <string name="msg_wlan_signal_found_manul">נמצא אות WLAN. האם ברצונך להשתמש ב-WLAN?</string>
     <string name="configed_access_points">נקודה אמינה</string>
     <string name="new_access_points">רשתות לא ידועות</string>
     <string name="msg_wlan_disconnect_notify">ה-WLAN מנותק, לעבור לחיבור נתונים?</string>
@@ -2683,7 +2683,7 @@
     <string name="wlan_cmcc_connect_notif_message">השבת התראת WLAN על חיבור לרשת CMCC</string>
     <string name="wifi_cmcc_connect_prompt">מחובר לרשת WLAN של China Mobile. המשך השימוש יוביל לעלויות שימוש ב-WLAN</string>
     <string name="wifi_cmcc_connect_prompt_title">הזכר</string>
-    <string name="wifi_signal_found_msg">אות ה-WLAN הנוכחי אינו יציב. להחליף לרשת אחרת?</string>
+    <string name="wifi_signal_found_msg">רשת ה-WLAN הנוכחית אינה יציבה. האם ברצונך לעבור לרשת אחרת?</string>
     <string name="wlan_reselect_notif_title">התראה כאשר מחליפים בין רשתות</string>
     <string name="wlan_reselect_notif_message">התראה כאשר מחליפים בין רשתות</string>
     <string name="wifi_gprs_selector_title">בחר רשת</string>
@@ -2781,7 +2781,7 @@
     <string name="mz_fp_summary">קורא טביעות האצבע יכול לשמש לפתיחת המכשיר, להצפנה והכנסת סיסמאות</string>
     <string name="mz_fp_flyme_account_payment">" ושלם בחשבון Meizu"</string>
     <string name="mz_fp_add_tip_continue_press_move">הזז את האצבע קלות כדי ללכוד את קצות האצבעות</string>
-    <string name="mz_fp_verify_failed">טביעות האצבעות לא תואמות</string>
+    <string name="mz_fp_verify_failed">טביעת האצבע לא תואמת</string>
     <string name="mz_fp_save_fpname_failed">שמירה נכשלה</string>
     <string name="mz_fp_have_selected">%d פריט(ים) נבחרו</string>
     <string name="mz_fp_unselect_all">ללא</string>
@@ -2873,7 +2873,7 @@
     <string name="custom_command_title">פקודה מותאמת אישית</string>
     <string name="custom_command_summary">לא מוגדר</string>
     <string name="smart_touch_title">נגיעה חכמה</string>
-    <string name="smart_touch_tips">תמיכה בהחזרה, הזזת מסך ופעולות מותאמות אישית אחרות.</string>
+    <string name="smart_touch_tips">תמיכה בחזרה לאחור, הזזת מסך ופעולות מותאמות אישית אחרות.</string>
     <string name="smart_touch_switch_title">נגיעה חכמה</string>
     <string name="smart_touch_category_title">תכונות</string>
     <string name="smart_touch_behavior_click_title">לחיצה</string>
@@ -2922,7 +2922,7 @@
     <string name="sensor_adjust_title">כיוונון חיישן קרבה</string>
     <string name="sensor_adjust_title_summary">כיול חיישן קרבה</string>
     <string name="dlg_sensor_adjust_title">כיוונון חיישן קרבה</string>
-    <string name="dlg_sensor_adjust_title_summary">כייל באיזור סגור, בלי אור חזק או פריטים אחרים המכסים את חזית הטלפון.</string>
+    <string name="dlg_sensor_adjust_title_summary">כייל באיזור סגור, הרחק מתאורה חזקה או מפריטים אחרים שמכסים את חזית הטלפון.</string>
     <string name="gsensor_calibrate_text">"חיישן האצה וג'ירוסקופ"</string>
     <string name="gensor_calibrate_tip_text">הנח את הטלפון על משטח ישר.</string>
     <string name="earpod_adjust">כיול בקרת אוזניות</string>
@@ -3030,7 +3030,7 @@
     <string name="app_force_wakeup_rank">זמן אכיפת עירור של יישומים</string>
     <string name="app_force_wakeup_summary">%1$s עירור: %2$d פעמים</string>
     <string name="app_force_wakeup_frequency">%d פעמים בשעה</string>
-    <string name="battery_usage_statistics">סטטיסטיקת צריכה</string>
+    <string name="battery_usage_statistics">נתונים סטטיסטיים של צריכת חשמל</string>
     <string name="system_sleep_wakeup_time">זמן להפעלת מסך כאשר הוא כבוי</string>
     <string name="system_sleep_wakeup_times">תדירות ההתעוררות כאשר המסך כבוי</string>
     <string name="wakup_frequency">תדירות ההתעוררות</string>
@@ -3038,14 +3038,14 @@
     <string name="wifi_data_usage">השתמש בחיבור נתונים</string>
     <string name="gps_used_time">זמן שימוש ב-GPS</string>
     <string name="battery_usage_permission">הרשאות</string>
-    <string name="battery_usage_permission_standby">זכויות הפעלה בזמן המתנה</string>
+    <string name="battery_usage_permission_standby">הרשאה לרוץ ברקע</string>
     <string name="battery_usage_permission_wakeup">הרשאות הפעלת מסך</string>
     <string name="normal_screen_on_time">זמן שהמסך נשאר פעיל נקבע באופן רגיל</string>
     <string name="app_force_screen_on_title">זמן שהמסך נשאר פעיל נקבע על ידי יישומים</string>
     <string name="app_force_screen_on_summary">מכיל ניווט במפה, דפדוף בווידאו, תוספי משחקים וכדומה.</string>
     <string name="app_force_screen_on_rank">דירוג של יישומים היכולים להפעיל מסך</string>
     <string name="durationHourMinuteSecond">%1$d שע %2$d דק %3$d שנ</string>
-    <string name="power_usage_percent">יחס צריכת החשמל:%s</string>
+    <string name="power_usage_percent">יחס צריכת חשמל: %s</string>
     <string name="counts">%d פעמים</string>
     <string name="radio_weak_time">זמן אות חלש</string>
     <string name="mobile_network_usage_time">זמן שימוש ברשת סלולרית</string>
@@ -3109,7 +3109,7 @@
     <string name="setting_input_traditional_ch">סינית מסורתית</string>
     <string name="setting_input_simplified_ch">סינית פשוטה</string>
     <string name="keyboard_other_settings_category">מקלדות אחרות</string>
-    <string name="input_third_protocol_hint">מקלדת הצד שלישי יכולה לגשת לכל המידע המוקלד שלך. אנא קרא בקפידה את פרוטוקול שירות המפתח ואת מדיניות הפרטיות.</string>
+    <string name="input_third_protocol_hint">שיטות קלט של צד שלישי יכולות לגשת לכל הנתונים שהוקלדו. קרא בקפידה את פרוטוקול השירות ואת מדיניות הפרטיות של מפתח הצד השלישי.</string>
     <string name="device_admin_permission">תן את ההרשאות הבאות</string>
     <string name="ignore">התעלם</string>
     <string name="third_inputmethod_tip">מקלדת צד שלישי יכולה לגשת לכל הנתונים שהוקלדו. אנא קרא את פרוטוקול שירות המפתח של הצד השלישי והפרטיות בזהירות</string>
@@ -3117,7 +3117,7 @@
     <string name="mxdemo_not_allow_format">עיצוב אינו מורשה במכשיר הדמייה</string>
     <string name="show_hide_files">הצג \"כספת\" במחשב</string>
     <string name="backup_phone_data">גיבוי נתונים בטלפון</string>
-    <string name="erase_btn">הפעל איפוס</string>
+    <string name="erase_btn">התחל בשחזור</string>
     <string name="reset_phone">נקה מידע של הטלפון</string>
     <string name="reset_phone_dlg_title">איפוס להגדרות היצרן</string>
     <string name="reset_phone_dlg_message">איפוס מלא להגדרות היצרן יביא למחיקת כל הנתונים (כולל תמונות וסרטונים), מומלץ להשתמש בזהירות!</string>
@@ -3333,8 +3333,8 @@
     <string name="do_not_disturb_exit_dialog_msg">לבטל מצב DND?</string>
     <string name="pref_title_manage_white_list">רשימה לבנה של שיחות נכנסות</string>
     <string name="pref_white_list_title">רשימה לבנה</string>
-    <string name="add_white_list">הוסף רשימה לבנה</string>
-    <string name="white_list_empty">אין אנשי קשר.</string>
+    <string name="add_white_list">הוספת איש קשר</string>
+    <string name="white_list_empty">אין אנשי קשר</string>
     <string name="missing_name">(ללא שם)</string>
     <string name="custom_settings_title">התאמה אישית</string>
     <string name="gallery_wallpaper">טפט הגלריה</string>
@@ -3468,17 +3468,17 @@
     <string name="classic_mode_classic_big_icon">סמלים גדולים קלאסיים</string>
     <string name="touch_event">גע באירוע</string>
     <string name="change_data_conn_title">החלפת סים נתונים</string>
-    <string name="change_data_conn_summary" formatted="false">כרטיס הסים %d מושבת. האם להגדיר במקומו ככרטיס סים המיועד לנתונים את כרטיס סים %d?</string>
-    <string name="change_data_conn_yes">הפעלה</string>
+    <string name="change_data_conn_summary" formatted="false">SIM %d מושבת. לאפשר נתונים סלולריים ב-SIM %d?</string>
+    <string name="change_data_conn_yes">כן</string>
     <string name="game_mode_title">מצב משחק</string>
-    <string name="game_mode_summary">מזהה את המשחק שמופעל ומשפר את חווית המשתמש</string>
+    <string name="game_mode_summary">זהה מתי משחק פועל ומטב את חוויית המשתמש</string>
     <string name="game_mode_category">אפשרויות מיטוב</string>
     <string name="game_mode_game_accelerate_title">האצת משחק</string>
     <string name="game_mode_game_accelerate_summary">שיפור ביצועי מערכת למשחקים</string>
     <string name="game_mode_dnd_title">נא לא להפריע</string>
     <string name="game_mode_dnd_summary">השבת את כל ההודעות, פרט לשיחות והתראות בזמן משחק</string>
     <string name="game_mode_disable_mback_title">השבתת mBack</string>
-    <string name="game_mode_disable_top_slide_title">השבתת תנועת משיכה מלמעלה למטה</string>
+    <string name="game_mode_disable_top_slide_title">השבתת תנועת משיכה מלעטה למטלה</string>
     <string name="game_mode_disable_bottom_slide_title">השבתת תנועת משיכה מלמטה למעלה</string>
     <string name="notification_manager">ניהול הודעות</string>
     <string name="statusbar_show_number">הצג מספר הודעות חדשות</string>
@@ -3490,7 +3490,7 @@
     <string name="phone_pwd_category">סיסמת משתמש עבור</string>
     <string name="password_and_fingerprint">סיסמה וטביעות אצבעות</string>
     <string name="other_password">סיסמאות אחרות</string>
-    <string name="use_fingprint">טביעות אצבעות של משתמש</string>
+    <string name="use_fingprint">השתמש בטביעות אצבע</string>
     <string name="phone_pwd_summary_no_fp">השתמש לביטול נעילת המסך</string>
     <string name="game_mode_free_mem_title">האצת הטלפון בהפעלת משחרים</string>
     <string name="force_touch_title">מגע בתלת מימד</string>
@@ -3509,13 +3509,13 @@
     <string name="header_category_lab">מעבדה</string>
     <string name="vertify_pwd_or_fingerprint">אנא אמת טביעת אצבע או סיסמה</string>
     <string name="drive_mode_msg_reply_edit">הודעה מותאמת אישית</string>
-    <string name="reset_default_app_title">איפוס לברירת מחדל של היישום</string>
-    <string name="reset_default_app_confirm_title">אפס את כל הגדרות היישומים לברירת המחדל</string>
+    <string name="reset_default_app_title">שחזר הגדרות ברירת מחדל</string>
+    <string name="reset_default_app_confirm_title">לאפס את כל הגדרות היישומים לברירת המחדל?</string>
     <string name="reset_default_app_button_title">אפס</string>
     <string name="memory_category_internal">אחסון פנימי</string>
     <string name="memory_category_other">אחר</string>
     <string name="change_phone_helper_title">כלי הגירה</string>
-    <string name="secrets_space_guide">מדריך אזור פרטי</string>
+    <string name="secrets_space_guide">מדריך לאזור הפרטי</string>
     <string name="secrets_space_title">מצב פרטיות</string>
     <string name="secrets_space_enable_summary">כאשר אפשרות זו מופעלת, הטלפון יעבור למצב פרטיות באופן אוטומטי.</string>
     <string name="secrets_space_finerprint">טביעת אצבע עבור מצב פרטיות</string>
@@ -3531,11 +3531,11 @@
     <string name="secrets_space_category_other">אחר</string>
     <string name="secrets_space_secrets_camera">מצלמה פרטית</string>
     <string name="secrets_space_secrets_camera_summary">תמונות שצולמו זמינות רק במצב פרטיות.</string>
-    <string name="secrets_space_clean_use">גלישה בסתר</string>
+    <string name="secrets_space_clean_use">מצב גלישה בסתר</string>
     <string name="secrets_space_clean_use_summary">ניתן לגשת להיסטוריית הדפדפן רק במצב פרטיות.</string>
     <string name="secrets_space_clean_data">ניהול נתונים</string>
     <string name="secrets_space_clean_data_summary">ניהול נתונים פרטיים</string>
-    <string name="secrets_space_clean_data_dialog_title">נהל את כל הנתונים באזור פרטי</string>
+    <string name="secrets_space_clean_data_dialog_title">נהל את כל הנתונים באזור הפרטי</string>
     <string name="secrets_space_clean_data_title">מחק הכל</string>
     <string name="secrets_space_export_data_title">ייצא הכל</string>
     <string name="secrets_space_app_add_title">הגדר יישומים פרטיים</string>
@@ -3596,8 +3596,9 @@
 2. הגדר נעילה במצב סוללה חלשה.
 3. הגדר יישומים הניתנים לגישה."</string>
     <string name="children_mode_setup_wizard_1">הגדר סיסמת אזור למניעת שימוש לא מורשה על ידי הילדים</string>
-    <string name="children_mode_setup_wizard_2">הגדר יישומים נגישים וסנכרן לאזור הילדים</string>
-    <string name="children_mode_setup_wizard_3">הפעל מניעת התמכרות כדי להגן על עיני הילדים</string>
+    <string name="children_mode_setup_wizard_2">הקצה וסנכרן יישומים שנגישים לאזור הילדים</string>
+    <string name="children_mode_setup_wizard_3">"אפשר את תכונת מניעת ההתמכרות להגנה על עיני 
+ילדים מפני זמן מסך רב מדי"</string>
     <string name="children_mode_setup_wizard_4">הגן על הטלפון באמצעות נעילת סוללה חלשה</string>
     <string name="children_mode_setup_wizard_5">מזל טוב! אתה מוכן כעת.</string>
     <string name="children_mode_setup_wizard_5_summary">באפשרותך להגדיר יותר אפשרויות ב\"הגדרות\".</string>
@@ -3609,7 +3610,7 @@
     <string name="children_mode_setup">הגדרות אזור הילדים</string>
     <string name="children_mode_anti_sms_cost">מנע תשלומים ב-SMS</string>
     <string name="children_mode_anti_addiction">מניעת התמכרות</string>
-    <string name="children_mode_anti_addiction_duration">פסק זמן למניעת התמכרות</string>
+    <string name="children_mode_anti_addiction_duration">הגבלת זמן למניעת התמכרות</string>
     <string name="children_mode_low_power">נעילת סוללה חלשה</string>
     <string name="children_mode_visitted_app">אפליקציות נגישות</string>
     <string name="children_mode_visitted_app_setup">הגדר יישומים נגישים</string>
@@ -3618,7 +3619,7 @@
     <string name="children_mode_other">אחר</string>
     <string name="children_mode_launcher_icon">קיצור דרך למסך הבית</string>
     <string name="children_mode_change_password">שנה סיסמה</string>
-    <string name="children_mode_time_duration_never">לעולם לא</string>
+    <string name="children_mode_time_duration_never">ללא</string>
     <string name="children_mode_minutes">%d דקות</string>
     <string name="children_mode_hours">%d שעות</string>
     <string name="children_mode_start_use">השתמש כעת</string>
@@ -3639,16 +3640,18 @@
     <string name="flyme_avatar_summary">החלף אוואטארים של אנשי קשר באוואטארים בסגנון Flyme</string>
     <string name="mode_standard">סגנון רגיל</string>
     <string name="mode_classic">סגנון קלאסי</string>
+    <string name="mode_standard_launcher">סמלים רגילים</string>
+    <string name="mode_classic_launcher">סמלים גדולים קלאסיים</string>
     <string name="multi_task_title">פתח את מנהל המשימות</string>
     <string name="multi_task_dtu_title">החלק למעלה מהקצה התחתון</string>
     <string name="multi_task_rtl_title">החלק שמאלה מהקצה הימני</string>
     <string name="multi_task_ltr_title">החלק מהקצה השמאלי ימינה</string>
     <string name="secrets_space_manage_data_option">אפשרויות</string>
-    <string name="secrets_space_clear_data_summary">מחק את כל הנתונים באזור פרטי</string>
-    <string name="secrets_space_export_data_summary">ייצא את כל הנתונים הפרטיים לשטח הכללי</string>
+    <string name="secrets_space_clear_data_summary">מחק את כל הנתונים באזור הפרטי</string>
+    <string name="secrets_space_export_data_summary">ייצא את כל הנתונים הפרטיים לאזור הכללי</string>
     <string name="secrets_space_clear_data_dialog_summary">למחוק את כל הנתונים הפרטיים, כולל יישומים פרטיים, אנשי קשר, תמונות וסרטונים?</string>
     <string name="secrets_space_clear_data_dialog_ok">מחק</string>
-    <string name="secrets_space_export_data_dialog_summary">לייצא את כל הנתונים הפרטיים, כולל יישומים פרטיים, אנשי קשר, תמונות וסרטונים לשטח הכללי?</string>
+    <string name="secrets_space_export_data_dialog_summary">לייצא את כל הנתונים הפרטיים, כולל יישומים פרטיים, אנשי קשר, תמונות וסרטונים לאזור הכללי?</string>
     <string name="secrets_space_export_data_dialog_ok">ייצוא</string>
     <string name="settings_permission_dialog_msg">להגדרות נדרשת גישה לרשת כדי לקבל מידע על היסטוריית שירותים.</string>
     <string name="mz_timezone_pacific_majuro">איי מרשל</string>

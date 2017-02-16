@@ -210,6 +210,7 @@
     <string name="disconnect_message_sim_off">כרטיס ה-SIM אינו מופעל. לא ניתן לחייג.</string>
     <string name="bt_ok">אישור</string>
     <string name="conference_reach_max_tip">המערכת הגיעה למגבלת מספר המשתתפים</string>
+    <string name="speaker_for_game_tip">רמקול מופעל</string>
     <string name="phoneAppLabel">טלפון</string>
     <string name="unknown">לא ידוע</string>
     <string name="private_num">מספר פרטי</string>
