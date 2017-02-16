@@ -129,7 +129,7 @@ to open search screen"</string>
     <string name="iconarrange_alignment_tips">Shake the phone to align icons</string>
     <string name="iconarrange_click_tips">Tap to select apps</string>
     <string name="iconarrange_drag_overcount">Cannot select anymore</string>
-    <string name="iconarrange_drag_tips">Drag to the screen thumbnail</string>
+    <string name="iconarrange_drag_tips">Drag icon to screen thumbnail</string>
     <string name="iconarrange_tips">Tap to select app</string>
     <string name="life_folder">Life</string>
     <string name="lifecenter_update_msg">Life has been updated. Reload?</string>

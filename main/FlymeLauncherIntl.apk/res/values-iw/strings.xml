@@ -177,10 +177,10 @@
     <string name="system_tools">כלי Flyme</string>
     <string name="tools_folder">כלים</string>
     <string name="top_alignment">ישר לחלק העליון</string>
-    <string name="uninstall">הסר התקנה</string>
+    <string name="uninstall">"הסר התקנה: "</string>
     <string name="uninstall_notice">נקה אוטומטית שאריות של קבצים לאחר הסרת התקנה</string>
     <string name="uninstall_title">הסר את התקנת היישום</string>
-    <string name="uninstallcache">נקה קבצים שיוריים</string>
+    <string name="uninstallcache">"ניקוי שאריות קבצים: "</string>
     <string name="widgets_tab_label_click">לחץ לחיצה ארוכה כדי להוסיף ווידגט</string>
     <string name="zhengli">סדר סמלים</string>
 </resources>

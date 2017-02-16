@@ -286,7 +286,7 @@
     <string name="wifi_tether_subtext">" %1$s шифрование"</string>
     <string name="wlan_tether_no_encypt">Открытая</string>
     <string name="obtain_device_info_txt">Получение информации об устройстве...</string>
-    <string name="wifi_tether">Мобильная точка доступ</string>
+    <string name="wifi_tether">Мобильная точка доступа</string>
     <string name="wifi_setting_sleep_policy_sum">Отключать модуль Wi-Fi для энергосбережения</string>
     <string name="cert_issued_to">Владелец:</string>
     <string name="cert_serial">Серийный номер:</string>
@@ -788,7 +788,7 @@
     <string name="usb_mtp_summary">Позволяет передавать файлы мультимедиа в ОС Windows или использовать для этого Android File Transfer в ОС Mac</string>
     <string name="usb_ptp_title">Камера (PTP)</string>
     <string name="usb_ptp_summary">Позволяет передавать фотографии с помощью программного обеспечения камеры на ПК</string>
-    <string name="apn_settings">очки доступа (APN)</string>
+    <string name="apn_settings">Точки доступа (APN)</string>
     <string name="apn_edit">Изменить точку доступа</string>
     <string name="apn_not_set">Не задано</string>
     <string name="apn_name">Имя</string>

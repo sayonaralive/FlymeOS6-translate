@@ -43,7 +43,7 @@
     <string name="delete_zone_label_all_apps">Удалить</string>
     <string name="delete_zone_label_all_apps_system_app">Удалить обновление</string>
     <string name="delete_zone_label_workspace">Удалить</string>
-    <string name="dream_name">Лаунчер</string>
+    <string name="dream_name">Лаунчер Rocket</string>
     <string name="external_drop_widget_error">Не удалось добавить элемент на главный экран.</string>
     <string name="external_drop_widget_pick_title">Выберите виджет</string>
     <string name="first_run_cling_create_screens_hint">Создать больше экранов для приложений и папок</string>
@@ -106,9 +106,9 @@
     <string name="app_name">ForceTouch</string>
     <string name="bottom_alignment">Выровнять снизу</string>
     <string name="cling_overview_gathering">"Сделайте щипок двумя пальцами,
-чтобы перемещать значки, изменять обои и добавлять виджеты"</string>
+чтобы перемещать значки, менять обои и добавлять виджеты"</string>
     <string name="cling_overview_longpress">"Нажмите и удерживайте пустую область на главном экране,
-чтобы перемещать значки, изменять обои и добавлять виджеты"</string>
+чтобы перемещать значки, менять обои и добавлять виджеты"</string>
     <string name="cling_search_fling">"Проведите пальцем вверх,
 чтобы открыть окно поиска"</string>
     <string name="default_folder_name">Папка</string>
@@ -167,20 +167,20 @@
     <string name="pull_to_mark_unread">Потянуть вниз для отметки непрочитанным</string>
     <string name="read_folder">Чтение</string>
     <string name="recommend">Приложения для связи</string>
-    <string name="recreation_folder">Развлечения</string>
+    <string name="recreation_folder">Отдых</string>
     <string name="restor_text">Нельзя переместить значок сейчас</string>
     <string name="restore_button_text">ОК</string>
     <string name="set_wallpaper">Нажмите для установки обоев</string>
     <string name="share">Передать</string>
     <string name="shopping_folder">Шоппинг</string>
-    <string name="social_network_folder">Соц. сети</string>
+    <string name="social_network_folder">Социальная сеть</string>
     <string name="system_tools">Инструменты Flyme</string>
     <string name="tools_folder">Разное</string>
     <string name="top_alignment">Выровнять сверху</string>
     <string name="uninstall">"Удаление: "</string>
     <string name="uninstall_notice">Автоочистка от остаточных файлов после удаления</string>
     <string name="uninstall_title">Удалить приложение</string>
-    <string name="uninstallcache">"Ост. файлы: "</string>
+    <string name="uninstallcache">"Ост.файлы: "</string>
     <string name="widgets_tab_label_click">Нажмите для добавления виджета</string>
     <string name="zhengli">Упорядочить</string>
 </resources>
