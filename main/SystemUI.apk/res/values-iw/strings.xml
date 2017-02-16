@@ -293,7 +293,7 @@
     <string name="battery_saver_start_action">הפעל חיסכון בסוללה</string>
     <string name="status_bar_settings_settings_button">הגדרות</string>
     <string name="status_bar_settings_wifi_button">WLAN</string>
-    <string name="status_bar_settings_airplane">מטוס</string>
+    <string name="status_bar_settings_airplane">מצב טיסה</string>
     <string name="status_bar_settings_auto_rotation">סיבוב מסך אוטומטי</string>
     <string name="status_bar_settings_mute_label">השתק</string>
     <string name="status_bar_settings_auto_brightness_label">אוטומטי</string>

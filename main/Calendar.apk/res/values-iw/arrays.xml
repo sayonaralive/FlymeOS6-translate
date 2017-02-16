@@ -2,8 +2,8 @@
 <resources>
     <string-array name="availability">
         <item>עסוק</item>
-        <item>פנוי</item>
-        <item>אולי</item>
+        <item>זמין</item>
+        <item>לא סופי</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>ארוע זה בלבד</item>
@@ -11,7 +11,7 @@
         <item>ביטול</item>
     </string-array>
     <string-array name="delay_labels">
-        <item>אין נודניק</item>
+        <item>לא להזכיר</item>
         <item>התראה בעוד 10 דקות</item>
         <item>התראה בעוד 30 דקות</item>
         <item>התראה בעוד שעה אחת</item>
@@ -128,10 +128,10 @@
         <item>10 דקות לפני כן</item>
         <item>30 דקות לפני כן</item>
         <item>שעה אחת לפני</item>
-        <item>יום אחד מראש</item>
+        <item>יום אחד לפני</item>
     </string-array>
     <string-array name="pref_week_start_labels">
-        <item>אזור ברירת מחדל</item>
+        <item>ברירת מחדל אזורית</item>
         <item>יום ראשון</item>
         <item>יום שני</item>
     </string-array>
