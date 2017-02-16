@@ -64,7 +64,7 @@
     <string name="mc_pm_set_wifi_on">פתח רשת אלחוטית</string>
     <string name="mc_pm_wlan">רשת אלחוטית</string>
     <string name="mc_praised_message">אהבתי</string>
-    <string name="mc_pull_refresh">משוך למטה לרענן</string>
+    <string name="mc_pull_refresh">משוך למטה לרענון</string>
     <string name="mc_reject">דחה</string>
     <string name="mc_saturday">"ש'"</string>
     <string name="mc_search">חפש</string>
@@ -125,7 +125,7 @@
     <string name="status_bar_settings_accelerator">חיישן תאוצה</string>
     <string name="status_bar_settings_screenrecord">הקלטת מסך</string>
     <string name="quick_settings_bluetooth_devices_label">Bluetooth %d</string>
-    <string name="qs_tiles_edit_tips_text">גרור למעלה כדי להציג</string>
+    <string name="qs_tiles_edit_tips_text">גרור כלפי מעלה כדי להוסיף</string>
     <string name="mobile_data_disabled_message">נתונים סלולריים לא מוכנים. נסה שוב מאוחר יותר.</string>
     <string name="flash_light_disabled">סגור את המצלמה או הפנס קודם</string>
     <string name="tile_powersave_standard">חכם</string>
@@ -161,7 +161,7 @@
     <string name="multi_choose_app">בחר יישום</string>
     <string name="multi_activity_lable">חלונות מרובים</string>
     <string name="recents_close_all_title">סגור הכל</string>
-    <string name="recents_close_all_mem">%1$d MB פונו</string>
+    <string name="recents_close_all_mem">פינוי של ‎%1$dMB</string>
     <string name="recents_close_all_mem_nothing">אין מה למחוק</string>
     <string name="recents_start_multi">ריבוי</string>
     <string name="recents_extend_lock">נעל</string>
@@ -181,7 +181,7 @@
     <string name="priority_display">תצוגה מועדפת</string>
     <string name="intercepted_notification">הודעות לא חשובות</string>
     <string name="filter_notification_tips">הודעות לא חשובות נמצאות כאן</string>
-    <string name="qs_tile_config_cue_line_text">גרור למעלה כדי להציג</string>
+    <string name="qs_tile_config_cue_line_text">גרור כלפי מעלה כדי להוסיף</string>
     <string name="qs_tile_config_title">ניהול מתגים</string>
     <string name="filter_notification_manage">נהל</string>
     <string name="external_storage_mounted_title">הסר בביטחה התקן חיצוני</string>
@@ -200,7 +200,7 @@
     <string name="usb_debugging_title">לאפשר איתור באגים של USB?</string>
     <string name="usb_debugging_message">טביעת האצבע של מקש RSA של מחשב זה היא: %1$s</string>
     <string name="mz_screenshot_saved_title">צילום מסך</string>
-    <string name="mz_screenshot_saved_text">לחץ להצגת פרטי התמונה</string>
+    <string name="mz_screenshot_saved_text">הקש כדי להציג פרטים</string>
     <string name="usb_debugging_always">אפשר תמיד למחשב זה לאתר באגים</string>
     <string name="location_is_in_using">שימוש ב-GPS ברקע</string>
     <string name="location_kill_process">סגור יישומים</string>
@@ -694,7 +694,7 @@
     <string name="keyguard_palm_rejection_text">אין לכסות את החלק העליון של הטלפון בעת ביטול נעילת המכשיר</string>
     <string name="keyguard_palm_rejection_exit">ליציאה לחץ פעמיים על לחצן עוצמת השמע</string>
     <string name="enter_tccm_pwd_tips">הזן קוד נעילה</string>
-    <string name="keyguard_fingerprint_not_match">טביעות האצבעות אינן תואמות</string>
+    <string name="keyguard_fingerprint_not_match">טביעת האצבע לא תואמת</string>
     <string name="keyguard_palm_rejection_title">דחיית כף יד</string>
     <string name="gemini_enter_pin">הזן PIN של SIM‏ %d</string>
     <string name="gemini_enter_puk">הזן PUK של SIM‏ %d</string>
