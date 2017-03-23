@@ -3,7 +3,7 @@
     <string-array name="emailAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
-        <item>Другое</item>
+        <item>Другой</item>
         <item>Настройка пользователя</item>
     </string-array>
     <string-array name="imProtocols">
@@ -18,7 +18,7 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Рабочий</item>
-        <item>Другое</item>
+        <item>Другой</item>
         <item>Настройка пользователя</item>
     </string-array>
     <string-array name="phoneTypes">
@@ -28,13 +28,13 @@
         <item>Рабочий факс</item>
         <item>Домашний факс</item>
         <item>Пейджер</item>
-        <item>Другое</item>
+        <item>Другой</item>
         <item>Настройка пользователя</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
-        <item>Другое</item>
+        <item>Другой</item>
         <item>Настройка пользователя</item>
     </string-array>
     <string-array name="imAddressTypes">

@@ -167,20 +167,20 @@
     <string name="pull_to_mark_unread">Потянуть вниз для отметки непрочитанным</string>
     <string name="read_folder">Чтение</string>
     <string name="recommend">Приложения для связи</string>
-    <string name="recreation_folder">Развлечения</string>
+    <string name="recreation_folder">Отдых</string>
     <string name="restor_text">Нельзя переместить значок сейчас</string>
     <string name="restore_button_text">ОК</string>
     <string name="set_wallpaper">Нажмите для установки обоев</string>
     <string name="share">Передать</string>
     <string name="shopping_folder">Шоппинг</string>
-    <string name="social_network_folder">Соц. сети</string>
+    <string name="social_network_folder">Социальная сеть</string>
     <string name="system_tools">Инструменты Flyme</string>
     <string name="tools_folder">Разное</string>
     <string name="top_alignment">Выровнять сверху</string>
-    <string name="uninstall">"Удаление: "</string>
+    <string name="uninstall">Удаление</string>
     <string name="uninstall_notice">Автоочистка от остаточных файлов после удаления</string>
     <string name="uninstall_title">Удалить приложение</string>
-    <string name="uninstallcache">"Ост. файлы: "</string>
+    <string name="uninstallcache">Удалить остаточные файлы</string>
     <string name="widgets_tab_label_click">Нажмите для добавления виджета</string>
     <string name="zhengli">Упорядочить</string>
 </resources>

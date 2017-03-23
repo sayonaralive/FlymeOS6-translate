@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ACTION_MODE">
-        <item>Резервное копирование</item>
-        <item>Восстановить</item>
+        <item>Копирование</item>
+        <item>Восстановление</item>
     </string-array>
     <string-array name="DATE_FORMAT_TITLE">
-        <item>мин</item>
-        <item>ч</item>
-        <item>дн.</item>
+        <item>м.</item>
+        <item>ч.</item>
+        <item>д.</item>
         <item>г.</item>
     </string-array>
     <string-array name="item_system_setting">
@@ -73,7 +73,7 @@
         <item>Сб</item>
     </string-array>
     <string-array name="sd_select_item">
-        <item>Внутренняя память по умолчанию</item>
-        <item>SD-карта</item>
+        <item>Внутренняя память</item>
+        <item>Карта памяти</item>
     </string-array>
 </resources>

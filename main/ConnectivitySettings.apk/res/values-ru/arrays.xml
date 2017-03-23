@@ -89,38 +89,38 @@
         <item>Африка</item>
         <item>Азия</item>
         <item>Австралия</item>
-        <item>Тихоокеанское</item>
+        <item>Тихий океан</item>
         <item>Все</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 с</item>
-        <item>30 с</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>10 мин</item>
-        <item>30 мин</item>
+        <item>15 с.</item>
+        <item>30 с.</item>
+        <item>1 м.</item>
+        <item>2 м.</item>
+        <item>5 м.</item>
+        <item>10 м.</item>
+        <item>30 м.</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
-        <item>15 с</item>
-        <item>30 с</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>10 мин</item>
-        <item>30 мин</item>
+        <item>15 с.</item>
+        <item>30 с.</item>
+        <item>1 м.</item>
+        <item>2 м.</item>
+        <item>5 м.</item>
+        <item>10 м.</item>
+        <item>30 м.</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
-        <item>5 с</item>
-        <item>15 с</item>
-        <item>30 с</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>10 мин</item>
-        <item>30 мин</item>
+        <item>5 с.</item>
+        <item>15 с.</item>
+        <item>30 с.</item>
+        <item>1 м.</item>
+        <item>2 м.</item>
+        <item>5 м.</item>
+        <item>10 м.</item>
+        <item>30 м.</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Мелкий</item>
@@ -131,7 +131,7 @@
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>
         <item>Медленная</item>
-        <item>Нормальный</item>
+        <item>Нормальная</item>
         <item>Быстрая</item>
         <item>Беглая</item>
         <item>Очень быстрая</item>
@@ -165,9 +165,9 @@
         <item>Вне диапазона</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>1 ч</item>
+        <item>2 м.</item>
+        <item>5 м.</item>
+        <item>1 ч.</item>
         <item>Без тайм-аута</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -282,7 +282,7 @@
         <item>Получение экстренных SMS</item>
         <item>Получение MMS</item>
         <item>Получение WAP-уведомлений</item>
-        <item>Отправить SMS</item>
+        <item>Отправка SMS</item>
         <item>Чтение SMS со смарт-карты</item>
         <item>Запись SMS на смарт-карту</item>
         <item>Изменение настроек</item>
@@ -293,22 +293,22 @@
         <item>Воспр. аудио</item>
         <item>Чтение буфера обмена</item>
         <item>Правка буфера обмена</item>
-        <item>кнопки мультимедиа</item>
-        <item>аудиофокус</item>
+        <item>Кнопки мультимедиа</item>
+        <item>Аудиофокус</item>
         <item>Общая громкость</item>
         <item>Громкость голоса</item>
-        <item>громкость звонка</item>
-        <item>громкость мультимедиа</item>
-        <item>громкость сигнала</item>
-        <item>громкость уведомлений</item>
-        <item>громкость Bluetooth-устройств</item>
-        <item>не отключать</item>
-        <item>отслеживать местоположение</item>
-        <item>контролировать использование энергии при определении местоположения</item>
-        <item>посмотреть статистику использования</item>
-        <item>включить/отключить микрофон</item>
-        <item>трансляция контента</item>
-        <item>активация VPN</item>
+        <item>Громкость звонка</item>
+        <item>Громкость мультимедиа</item>
+        <item>Громкость сигнала</item>
+        <item>Громкость уведомлений</item>
+        <item>Громкость Bluetooth-устройств</item>
+        <item>Не отключать</item>
+        <item>Отслеживать местоположение</item>
+        <item>Контролировать использование энергии при определении местоположения</item>
+        <item>Посмотреть статистику использования</item>
+        <item>Включить/отключить микрофон</item>
+        <item>Трансляция контента</item>
+        <item>Активация VPN</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Местоположение</item>
@@ -533,10 +533,10 @@
         <item>Без прерываний</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
-        <item>Нормальный</item>
+        <item>Нормальное</item>
         <item>Умеренное</item>
-        <item>Низкий</item>
-        <item>Очень низкий</item>
+        <item>Низкое</item>
+        <item>Очень низкое</item>
     </string-array>
     <string-array name="proc_stats_process_states">
         <item>Стабильное</item>
@@ -661,37 +661,37 @@
         <item>Огромный</item>
     </string-array>
     <string-array name="mz_screen_timeout_entries">
-        <item>30 с</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>10 мин</item>
-        <item>30 мин</item>
+        <item>30 с.</item>
+        <item>1 м.</item>
+        <item>2 м.</item>
+        <item>5 м.</item>
+        <item>10 м.</item>
+        <item>30 м.</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_simple_mrvl">
-        <item>2G только</item>
-        <item>3G-приоритет</item>
-        <item>4G-приоритет</item>
+        <item>Только 2G</item>
+        <item>Приоритет: 3G</item>
+        <item>Приоритет: 4G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl">
-        <item>2G только</item>
-        <item>3G-приоритет</item>
-        <item>3G только</item>
-        <item>4G-приоритет</item>
+        <item>Только 2G</item>
+        <item>Приоритет: 3G</item>
+        <item>Только 3G</item>
+        <item>Приоритет: 4G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_3g">
-        <item>2G только</item>
-        <item>3G-приоритет</item>
-        <item>3G только</item>
+        <item>Только 2G</item>
+        <item>Приоритет: 3G</item>
+        <item>Только 3G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_mtk_ct_4g">
-        <item>3G-приоритет</item>
-        <item>4G-приоритет</item>
+        <item>Приоритет: 3G</item>
+        <item>Приоритет: 4G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_cdma">
-        <item>3G-приоритет</item>
-        <item>3G только</item>
-        <item>4G-приоритет</item>
+        <item>Приоритет: 3G</item>
+        <item>Только 3G</item>
+        <item>Приоритет: 4G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_cdma_3g">
         <item>3G-приоритет</item>

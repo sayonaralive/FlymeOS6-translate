@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="mz_global_button_diameter">140.0dip</dimen>
+    <dimen name="uninstallwords_padding_left">80.0dip</dimen>
 </resources>
