@@ -82,7 +82,7 @@
     <string name="app_waken_list_title_forbid">Запрет на связанный запуск: %1$s</string>
     <string name="app_waken_setting_switch">Запретить связанный запуск приложений</string>
     <string name="appcache_uninstalled_trash_other">Другие файлы</string>
-    <string name="application_list">Список приложений:</string>
+    <string name="application_list">Список приложений</string>
     <string name="application_managerment">Приложения</string>
     <string name="appsec_allowall">Разрешить все</string>
     <string name="appsec_prompt">Всегда спрашивать</string>
@@ -102,7 +102,7 @@
     <string name="block_by_default_rule">Стандартный режим</string>
     <string name="block_by_whitelist">Только белый список</string>
     <string name="block_fake_basestation">Подозрительные номера</string>
-    <string name="block_filter_date">[Дата]</string>
+    <string name="block_filter_date">[Данные]</string>
     <string name="block_reason_all">Режим блокировки - блокировать все</string>
     <string name="block_reason_area">Блокировать по региону</string>
     <string name="block_reason_blacklist">Номера чёрного списка</string>
@@ -399,7 +399,7 @@
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="mc_second">с</string>
+    <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
@@ -589,7 +589,7 @@
     <string name="persent">0%</string>
     <string name="petabyteShort">ПБ</string>
     <string name="phone_clean">Очистка</string>
-    <string name="pop_notice">Уведомления поверх всего</string>
+    <string name="pop_notice">Heads-up</string>
     <string name="power_mode">Управление питанием</string>
     <string name="preferences_title">Спам-блокировка</string>
     <string name="privacy_permissions">Конфиденциальность</string>
