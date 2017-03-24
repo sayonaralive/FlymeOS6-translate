@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на головний</string>
+    <string name="abc_action_bar_home_description">Перейти на головний екран</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перейти вгору</string>
@@ -22,7 +22,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="WidgetLayoutExtend_Description_air_plane">У літаку</string>
     <string name="alert_dialog_dont_switch_title">Під час телефонної виклику перехід у супер-режим неможливий</string>
-    <string name="alwaysUse">Використовувати цей параметр за промовчанням</string>
+    <string name="alwaysUse">Використовувати цей параметр за замовчуванням</string>
     <string name="app_consumption_management">Керування енергоспоживанням програм</string>
     <string name="app_list">Список програм</string>
     <string name="app_name">Керування енергоспоживанням</string>
@@ -479,7 +479,7 @@
     <string name="wakeup_times_while_idle">Примусове пробудження у режимі очікування</string>
     <string name="wifi">WLAN</string>
     <string name="wifi_data">Час використання WLAN у фоновому режимі</string>
-    <string name="wifi_on_time">WLAN ввімкнено</string>
+    <string name="wifi_on_time">WLAN увімкнено</string>
     <string name="wifi_power_ratio">Енергоспоживання мережі WLAN:</string>
     <string name="wifi_power_save_notie_msg">По можливості вимиками WLAN, коли мережі недоступні</string>
     <string name="wifi_settings_title">WLAN</string>
@@ -490,7 +490,7 @@
     <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
-    <string name="mc_pattern_today">Today</string>
+    <string name="mc_pattern_today">Сьогодні</string>
     <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
     <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
     <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
