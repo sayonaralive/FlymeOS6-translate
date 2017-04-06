@@ -1543,8 +1543,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<li><ul>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
+"<ul><li>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -2655,7 +2655,6 @@
     <string name="wifi_proxy_ip">Сервер</string>
     <string name="wifi_proxy_port">Порт</string>
     <string name="wifi_use_static_ip">Статический IP</string>
-    <string name="wifi_share_network_title">Поделиться сетью через QR-код</string>
     <string name="wifi_speed_test">Тест скорости сети</string>
     <string name="wifi_network_diagn">Диагностика сети Wi-Fi</string>
     <string name="wifi_security_detecting">Проверка</string>
@@ -2710,6 +2709,7 @@
     <string name="data_enabler_summary">Использовать мобильную сеть</string>
     <string name="data_enabler_waiting_message">Пожалуйста, подождите…</string>
     <string name="wifi_menu_modify_password">Изменить пароль</string>
+    <string name="wifi_share_network_title">Поделиться сетью через QR-код</string>
     <string name="vpn_no_profile">Профиль VPN не добавлен</string>
     <string name="vpn_no_default_key_message">Аккаунт VPN по умолчанию не найден</string>
     <string name="vpn_password_ask_every_time">Всегда спрашивать</string>
@@ -2834,7 +2834,7 @@
     <string name="quick_wakeup_tips">Жесты на выключенном экране для пробуждения телефона и управления</string>
     <string name="quick_wakeup_slide_left_right_title">В сторону</string>
     <string name="quick_wakeup_slide_left_right_summary">Переключение треков</string>
-    <string name="home_key_behavior">Удерживать кнопку Домой</string>
+    <string name="home_key_behavior">Удержание кн. \"Домой\"</string>
     <string name="light_feedback_enable_title">Подсветка кн. \"Домой\"</string>
     <string name="light_feedback_enable_summary">Повышенный расход энергии</string>
     <string name="data_collection_title">Программа улучшения ПО</string>
@@ -3408,7 +3408,7 @@
     <string name="whether_enable_4G">Вы собираетесь включить 4G. Текущие услуги сети будут остановлены при поиске сети LTE. Продолжить?</string>
     <string name="search_settings_title">Поиск</string>
     <string name="install_outside_app">Установка приложений из неофициальных источников</string>
-    <string name="red_envelope_title">Помощник для денежного конверта</string>
+    <string name="red_envelope_title">Денежный конверт</string>
     <string name="wechat_red_envelope_switch_title">Помощник для денежного конверта WeChat</string>
     <string name="wechat_red_envelope_switch_summary">Специальное уведомление при получении денег</string>
     <string name="new_red_envelope_ring_switch_title">Звук Lucky money</string>
@@ -3659,7 +3659,7 @@
     <string name="mspace_loading">Загрузка...</string>
     <string name="secrets_space_app_guide_title">Установка личных приложений</string>
     <string name="secrets_space_app_guide_summary">Личные приложения будут отображаться на последнем домашнем экране</string>
-    <string name="home_key_behavior_double_click">Дважды нажмите кнопку Домой</string>
+    <string name="home_key_behavior_double_click">Двойное нажатие кн. \"Домой\"</string>
     <string name="use_flyme_icon_summary">Заменить иконки приложений иконками в стиле Flyme</string>
     <string name="flyme_avatar_title">Аватары в стиле Flyme</string>
     <string name="flyme_avatar_summary">Заменить аватары контактов на аватары в стиле Flyme</string>
@@ -3762,4 +3762,5 @@
     <string name="mz_timezone_pacific_auckland">Окленд</string>
     <string name="mz_timezone_pacific_fiji">Республика Фиджи</string>
     <string name="mz_timezone_pacific_tongatapu">Остров Тонгатапу</string>
+	<string name="security_patch">Обновления безопасности</string>
 </resources>
