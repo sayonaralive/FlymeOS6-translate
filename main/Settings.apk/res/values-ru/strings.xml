@@ -3600,8 +3600,8 @@
     <string name="secrets_mode_fingerprint_exist_btn_right">Подтвердить</string>
     <string name="launcher_notification_notify">Уведомления на главном экране</string>
     <string name="launcher_notification_notify_summary">Показывать важные уведомления на имени приложения</string>
-    <string name="password_secure_protection">Защита паролем</string>
-    <string name="use_system_input_panel">Введите пароль с помощью системной клавиатуры.</string>
+    <string name="password_secure_protection">Защита паролей</string>
+    <string name="use_system_input_panel">Ввод паролей с помощью системной клавиатуры</string>
     <string name="red_envlop_update">Для обеспечения надлежащего функционирования, Lucky Money помощник будет автоматически обновляться через Wi-Fi.</string>
     <string name="red_envlop_notice">Советы:</string>
     <string name="pick_apps_title">Выбрать приложения</string>
