@@ -151,6 +151,8 @@
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Кнопка</item>
@@ -407,14 +409,14 @@
     <string-array name="select_logd_size_titles">
         <item>64 КБ</item>
         <item>256 КБ</item>
-        <item>1 MБ</item>
+        <item>1 МБ</item>
         <item>4 МБ</item>
-        <item>16 MБ</item>
+        <item>16 МБ</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>64 КБ</item>
         <item>256 КБ</item>
-        <item>1 MБ</item>
+        <item>1 МБ</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>64 КБ на буфер журнала</item>
@@ -647,7 +649,7 @@
     <string-array name="home_key_behavior_double_click_entries">
         <item>Запуск камеры</item>
         <item>Виджет музыки на экране блокировки</item>
-        <item>Нет ответа</item>
+        <item>Нет действия</item>
     </string-array>
     <string-array name="wakeupType_entries">
         <item>Двойное нажатие</item>
@@ -657,6 +659,11 @@
         <item>Энергосберегающий</item>
         <item>Сбалансированный</item>
         <item>Производительный</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Упрощенный китайский</item>
+        <item>Традиционный китайский</item>
+        <item>Традиционный китайский (Гонконг)</item>
     </string-array>
     <string-array name="blur_effect_entries">
         <item>Высокий</item>
@@ -706,6 +713,20 @@
     </string-array>
     <string-array name="preferred_network_mode_options_cmcc">
         <item>4G/3G/2G</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_simple">
+        <item>Авто</item>
+        <item>Только 2G</item>
+        <item>Только 3G</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_simple_unicom">
+        <item>Авто</item>
+        <item>Только 2G</item>
+    </string-array>
+    <string-array name="cap_performance_time_entries">
+        <item>5 сек.</item>
+        <item>8 сек.</item>
+        <item>10 сек.</item>
     </string-array>
     <string-array name="keyboard_back_behavior_entries">
         <item>Свернуть клавиатуру</item>

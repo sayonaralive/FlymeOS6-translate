@@ -53,6 +53,7 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_downloading_patch_prefix">Скачать файл обновления</string>
     <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Используется слайдер. Текущая установка: %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
@@ -138,10 +139,17 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
+    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
+    <string name="mz_allow">OK</string>
+    <string name="mz_pm_allow_check_app">OK</string>
+    <string name="mz_pm_dlg_ok">OK</string>
     <string name="setup_wizard_next_button_label">Далее</string>
     <string name="setup_wizard_back_button_label">Назад</string>
     <string name="yes">Да</string>
@@ -381,6 +389,7 @@
     <string name="next_label">Далее</string>
     <string name="language_picker_title">Язык</string>
     <string name="activity_picker_label">Выбор действия</string>
+    <string name="debug_intent_sender_label">Отладка</string>
     <string name="device_info_label">Сведения об устройстве</string>
     <string name="battery_info_label">Информация о батарее</string>
     <string name="display_label">Экран</string>
@@ -654,6 +663,17 @@
     <string name="wifi_display_options_forget">Не сохранять</string>
     <string name="wifi_display_options_done">Готово</string>
     <string name="wifi_display_options_name">Имя</string>
+    <string name="wifi_display_certification_heading">Сертификация</string>
+    <string name="wifi_display_session_info">Информация о сессии</string>
+    <string name="wifi_display_listen_mode">Включить режим прослушивания</string>
+    <string name="wifi_display_autonomous_go">Включить автономный режим</string>
+    <string name="wifi_display_pause">Пауза</string>
+    <string name="wifi_display_resume">Продолжить</string>
+    <string name="wifi_display_wps_config">Настройка WPS</string>
+    <string name="wifi_display_listen_channel">Канал прослушивания</string>
+    <string name="wifi_display_operating_channel">Канал передачи</string>
+    <string name="wifi_band_24ghz">2.4ГГц</string>
+    <string name="wifi_band_5ghz">5ГГц</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -839,6 +859,26 @@
     <string name="wifi_hotspot_configure_ap_text_summary">Точка доступа AndroidAP WPA2 PSK</string>
     <string name="wifi_tether_configure_subtext">Сеть: %1$s; шифрование: %2$s</string>
     <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
+    <string name="testing_wifi_info">Информация о Wi-Fi</string>
+    <string name="wifi_api_test">Wi-Fi API</string>
+    <string name="wifi_status_test">Статус Wi-Fi</string>
+    <string name="wifi_update">Обновить данные</string>
+    <string name="wifi_state_label">Состояние Wi-Fi:</string>
+    <string name="network_state_label">Состояние сети:</string>
+    <string name="supplicant_state_label">Состояние маршрутизатора:</string>
+    <string name="hidden_ssid_label">Скрытый SSID:</string>
+    <string name="ipaddr_label">IP-адрес:</string>
+    <string name="macaddr_label">MAC-адрес:</string>
+    <string name="networkid_label">ID сети:</string>
+    <string name="link_speed_label">Скорость подключения:</string>
+    <string name="scan_list_label">Результаты сканирования:</string>
+    <string name="wifi_state_disabling">Отключение</string>
+    <string name="wifi_state_disabled">Отключено</string>
+    <string name="wifi_state_enabling">Включение</string>
+    <string name="wifi_state_enabled">Включено</string>
+    <string name="wifi_state_unknown">Неизвестно</string>
+    <string name="wifi_config_info">Настройка Wi-Fi</string>
+    <string name="config_list_label">Список сетей</string>
     <string name="home_settings">Общие</string>
     <string name="display_settings_title">Экран</string>
     <string name="sound_settings">Звук</string>
@@ -2655,6 +2695,7 @@
     <string name="wifi_proxy_ip">Сервер</string>
     <string name="wifi_proxy_port">Порт</string>
     <string name="wifi_use_static_ip">Статический IP</string>
+    <string name="wifi_share_network_title_new">Поделиться сетью</string>
     <string name="wifi_speed_test">Тест скорости сети</string>
     <string name="wifi_network_diagn">Диагностика сети Wi-Fi</string>
     <string name="wifi_security_detecting">Проверка</string>
@@ -2674,6 +2715,7 @@
     <string name="wifi_wps_failed">Ошибка авторизации через WPS, попробуйте снова</string>
     <string name="connectivity_others">Ещё</string>
     <string name="wifi_tether">Точка доступа</string>
+    <string name="wifi_security_wapi_psk_hexadecimal">WAPI PSK (шестнадцатерич.)</string>
     <string name="wifi_disconnect">Отключить</string>
     <string name="wifi_menu_disconnect">Отключение от сети</string>
     <string name="wifi_connect_type_title">Режим автоподключения</string>
@@ -2699,6 +2741,9 @@
     <string name="wlan_cmcc_connect_notif_message">Отключить уведомления при подключении к сети CMCC</string>
     <string name="wifi_cmcc_connect_prompt">Подключено к сети Wi-Fi оператора China Mobile. Дальнейшее использование является платным</string>
     <string name="wifi_cmcc_connect_prompt_title">Запрос</string>
+    <string name="proxy_exclusionlist_label_cmcc">Список исключений прокси</string>
+    <string name="wifi_network_netmask">Маска сети</string>
+    <string name="wifi_priority_changed" formatted="false">Текущий приоритет = %s, новое значение = %s</string>
     <string name="wifi_signal_found_msg">Плохой сигнал текущей сети Wi-Fi. Хотите переключиться на другую сеть?</string>
     <string name="wlan_reselect_notif_title">Уведомления между SSID</string>
     <string name="wlan_reselect_notif_message">Уведомления между SSID</string>
@@ -2950,6 +2995,8 @@
     <string name="earpod_adjust_keep_press_up_key">Нажмите и удерживайте кнопку увеличения громкости</string>
     <string name="earpod_adjust_success_tips">Калибровка наушников выполнена</string>
     <string name="earpod_adjust_faild_tips">Калибровка наушников не выполнена, попробуйте ещё раз</string>
+    <string name="show_sf_fps_summary">Отображает текущее значение кадров\сек и значение тока на плате в реальном времени</string>
+    <string name="show_sf_fps">Показать FPS и ток на плате</string>
     <string name="custom_setting">Настройки пользователя</string>
     <string name="bluetooth_unlock">Разблокировка Bluetooth-устройства</string>
     <string name="root_allowing_title">Разрешить %s запрашивать root-доступ</string>
@@ -3203,6 +3250,7 @@
     <string name="baseband_one_title">Модуль связи GSM:</string>
     <string name="baseband_two_title">Модуль связи CDMA:</string>
     <string name="model_detail">Детали</string>
+    <string name="security_patch">Патч безопасности Android</string>
     <string name="system_version">Версия системы:</string>
     <string name="yunos_version">Версия YunOS:</string>
     <string name="mz_settings_copyright_activity_title">Правовая информация Meizu</string>
@@ -3408,6 +3456,8 @@
     <string name="whether_enable_4G">Вы собираетесь включить 4G. Текущие услуги сети будут остановлены при поиске сети LTE. Продолжить?</string>
     <string name="search_settings_title">Поиск</string>
     <string name="install_outside_app">Установка приложений из неофициальных источников</string>
+    <string name="flyme_global_searchable_label">Поиск по настройкам</string>
+    <string name="flyme_global_searchable_description">Поиск по настройкам</string>
     <string name="red_envelope_title">Денежный конверт</string>
     <string name="wechat_red_envelope_switch_title">Помощник для денежного конверта WeChat</string>
     <string name="wechat_red_envelope_switch_summary">Специальное уведомление при получении денег</string>
@@ -3511,13 +3561,16 @@
     <string name="auto_clean_after_day">Автоочистка через 24 часа</string>
     <string name="show_number_summary">Показать количество заблокированных уведомлений в панели уведомлений</string>
     <string name="auto_clean_summary">Автоудаление заблокированных уведомлений через 24 часа</string>
+    <string name="hall_switch_title">Smart Cover</string>
+    <string name="hall_switch_summary">Запускать особый режим отображения при закрытии чехла-книжки</string>
     <string name="phone_pwd">Пароль блокировки</string>
     <string name="phone_pwd_summary">Используется для управления отпечатками пальцев и разблокировки экрана</string>
+    <string name="phone_pwd_summary_no_fp">Использовать для разблокировки экрана</string>
     <string name="phone_pwd_category">Использовать как</string>
+    <string name="screen_lock">Блокировка экрана</string>
     <string name="password_and_fingerprint">Пароль и отпечатки пальцев</string>
     <string name="other_password">Другие пароли</string>
     <string name="use_fingprint">Отпечатки пальцев</string>
-    <string name="phone_pwd_summary_no_fp">Использовать для разблокировки экрана</string>
     <string name="game_mode_free_mem_title">Ускорение телефона для запуска игр</string>
     <string name="force_touch_title">3D Press</string>
     <string name="force_touch_tips">Когда функция силы нажатия включена, можно просматривать содержимое или выполнять некоторые операции с разной силой нажатия на экран</string>
@@ -3532,6 +3585,7 @@
     <string name="home_data_title">mLite-карта для передачи данных</string>
     <string name="home_data_summary">Получить услугу передачи данных без SIM-карты</string>
     <string name="meizu_card">mLite SIM</string>
+    <string name="vioce_assisant_hit">Попробуйте сказать: \"Рингтон\" (Ringtone)</string>
     <string name="header_category_lab">Лаборатория</string>
     <string name="vertify_pwd_or_fingerprint">Пожалуйста, проверьте отпечаток пальца или пароль</string>
     <string name="drive_mode_msg_reply_edit">Собственное сообщение</string>
@@ -3602,6 +3656,7 @@
     <string name="launcher_notification_notify_summary">Показывать важные уведомления на имени приложения</string>
     <string name="password_secure_protection">Защита паролей</string>
     <string name="use_system_input_panel">Ввод паролей с помощью системной клавиатуры</string>
+    <string name="cancel_fingerprint">Отмена</string>
     <string name="red_envlop_update">Для обеспечения надлежащего функционирования, Lucky Money помощник будет автоматически обновляться через Wi-Fi.</string>
     <string name="red_envlop_notice">Советы:</string>
     <string name="pick_apps_title">Выбрать приложения</string>
@@ -3650,6 +3705,8 @@
     <string name="children_mode_start_use">Использовать</string>
     <string name="children_mode_availabled_app">Включённое ПО</string>
     <string name="children_mode_unavailabled_app">Отключённое ПО</string>
+    <string name="children_mode_password_enter_dialog_title">Введите пароль из 4 цифр</string>
+    <string name="children_mode_password">Пароль детского режима</string>
     <string name="children_mode_no_password_warning">Пожалуйста, установите пароль телефона перед входом в детский режим.</string>
     <string name="children_mode_low_power_level_warning">Текущий заряд батареи ниже предела блокировки экрана</string>
     <string name="children_mode_screen_lock_not_actived">Блокировка экрана не включена</string>
@@ -3659,6 +3716,10 @@
     <string name="mspace_loading">Загрузка...</string>
     <string name="secrets_space_app_guide_title">Установка личных приложений</string>
     <string name="secrets_space_app_guide_summary">Личные приложения будут отображаться на последнем домашнем экране</string>
+    <string name="byte_suffix">Б</string>
+    <string name="kilo_suffix">КБ</string>
+    <string name="mega_suffix">МБ</string>
+    <string name="giga_suffix">ГБ</string>
     <string name="home_key_behavior_double_click">Двойное нажатие кн. \"Домой\"</string>
     <string name="use_flyme_icon_summary">Заменить иконки приложений иконками в стиле Flyme</string>
     <string name="flyme_avatar_title">Аватары в стиле Flyme</string>
@@ -3770,5 +3831,4 @@
     <string name="mz_timezone_pacific_auckland">Окленд</string>
     <string name="mz_timezone_pacific_fiji">Республика Фиджи</string>
     <string name="mz_timezone_pacific_tongatapu">Остров Тонгатапу</string>
-	<string name="security_patch">Обновления безопасности</string>
 </resources>
