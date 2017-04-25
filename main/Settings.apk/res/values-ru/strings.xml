@@ -3597,7 +3597,6 @@
     <string name="phone_pwd_summary">Используется для управления отпечатками пальцев и разблокировки экрана</string>
     <string name="phone_pwd_summary_no_fp">Использовать для разблокировки экрана</string>
     <string name="phone_pwd_category">Использовать как</string>
-    <string name="screen_lock">Блокировка экрана</string>
     <string name="password_and_fingerprint">Пароль и отпечатки пальцев</string>
     <string name="other_password">Другие пароли</string>
     <string name="use_fingprint">Отпечатки пальцев</string>

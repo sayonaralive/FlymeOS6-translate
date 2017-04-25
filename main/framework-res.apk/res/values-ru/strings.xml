@@ -29,12 +29,13 @@
     <string name="time_of_day" formatted="false">%-k:%M:%S</string>
     <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
     <string name="date_time">%2$s, %1$s</string>
-    <string name="byteShort">Байт</string>
-    <string name="kilobyteShort">Кб</string>
-    <string name="megabyteShort">Мб</string>
-    <string name="gigabyteShort">Гб</string>
-    <string name="terabyteShort">Tб</string>
-    <string name="petabyteShort">Пб</string>
+    <string name="icu_abbrev_wday_month_day_no_year">ccccdMMMM</string>
+    <string name="byteShort">Б</string>
+    <string name="kilobyteShort">КБ</string>
+    <string name="megabyteShort">МБ</string>
+    <string name="gigabyteShort">ГБ</string>
+    <string name="terabyteShort">TБ</string>
+    <string name="petabyteShort">ПБ</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="durationDays">%1$d д.</string>
     <string name="durationDayHours">%1$d д. %2$d ч.</string>
@@ -356,6 +357,8 @@
     <string name="permdesc_broadcastSmsReceived">Приложение сможет уведомлять о получении SMS. Вредоносные программы смогут таким образом подделывать входящие SMS.</string>
     <string name="permlab_broadcastWapPush">Отправка уведомлений о доставке SMS с ссылкой на WAP-страницу</string>
     <string name="permdesc_broadcastWapPush">Приложение сможет уведомлять о получении сообщений WAP PUSH. Вредоносные программы смогут таким образом фальсифицировать получение MMS или незаметно подменять содержание любой страницы вредоносными данными.</string>
+    <string name="permlab_broadcastNetworkPrivileged">Отправка широковещательных пакетов в привилегированном режиме</string>
+    <string name="permdesc_broadcastNetworkPrivileged">Приложение сможет рассылать широковещательные пакеты в привилегированном режиме. Это разрешение не используется обычными приложениями.</string>
     <string name="permlab_setProcessLimit">Ограничение количества запущенных процессов</string>
     <string name="permdesc_setProcessLimit">Приложение сможет управлять максимальным количеством процессов, которые могут быть запущены. Это разрешение не используется обычными приложениями.</string>
     <string name="permlab_setAlwaysFinish">Закрытие фоновых приложений</string>
@@ -1047,10 +1050,16 @@
     <string name="aerr_application">Приложение \"%1$s\" остановлено.</string>
     <string name="aerr_process">Процесс \"%1$s\" остановлен.</string>
     <string name="anr_title" />
-    <string name="anr_activity_application">%2$s не отвечает. Закрыть принудительно?</string>
-    <string name="anr_activity_process">%1$s не отвечает. Закрыть принудительно?</string>
-    <string name="anr_application_process">Приложение %1$s не отвечает. Закрыть принудительно?</string>
-    <string name="anr_process">Процесс %1$s не отвечает. Закрыть принудительно?</string>
+    <string name="anr_activity_application">%2$s не отвечает.
+
+Закрыть принудительно?</string>
+    <string name="anr_activity_process">%1$s не отвечает.
+
+Закрыть принудительно?</string>
+    <string name="anr_application_process">Приложение %1$s не отвечает. Закрыть его принудительно?</string>
+    <string name="anr_process">Процесс %1$s не отвечает.
+
+Закрыть его принудительно?</string>
     <string name="force_close">OK</string>
     <string name="report">Отчет</string>
     <string name="wait">Подождите</string>
@@ -1173,7 +1182,6 @@
     <string name="extmedia_format_button_format">Форматировать</string>
     <string name="adb_active_notification_title">Отладка по USB включена</string>
     <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку по USB</string>
-    <string name="locale_replacement" />
     <string name="select_input_method">Выбрать способ ввода</string>
     <string name="configure_input_methods">Установить способ ввода</string>
     <string name="show_ime">Показать способ ввода</string>
