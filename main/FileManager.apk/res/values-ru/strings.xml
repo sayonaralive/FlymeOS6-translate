@@ -23,7 +23,7 @@
     <string name="add_fast_folder">Добавить в избранное</string>
     <string name="add_fast_folder_fail_tips">Добавлено в избранное</string>
     <string name="add_fast_folder_success_tips">Добавлено</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="apk_count">APK: %s</string>
     <string name="apk_display_name">Файлы APK</string>
     <string name="apk_uninstalled_tip">не устан.</string>
@@ -40,7 +40,7 @@
     <string name="choice_tab_category">Все</string>
     <string name="choice_tab_privacy">Личное</string>
     <string name="choice_tab_recently">Недавние</string>
-    <string name="choice_toolbar_title">Выбрать файлы</string>
+    <string name="choice_toolbar_title">Выбрать файл</string>
     <string name="choose_file_add_tips">Добавить</string>
     <string name="cleaner">Очистка</string>
     <string name="close_wifi_share_device_name">Имя пользователя:</string>
@@ -111,7 +111,7 @@
     <string name="fast_folder">Избранное</string>
     <string name="fastfolder_count">Удаление избранных папок: %s</string>
     <string name="fastfolder_delete">Удалено из избранного</string>
-    <string name="file_count">%s</string>
+    <string name="file_count">%s файл(ов)</string>
     <string name="file_exists">Имя файла уже существует.</string>
     <string name="file_limit_error">Путь к файлу слишком длинный, сократите путь</string>
     <string name="file_name_hint">Имя файла</string>
@@ -124,7 +124,7 @@
     <string name="file_unit_plural">" "</string>
     <string name="files_limit_tip">Выберите не более %s файлов</string>
     <string name="folder_delete_tips">Удалить %s файл(ов) в папке</string>
-    <string name="ftp_anonymous_login">Анонимный доступ</string>
+    <string name="ftp_anonymous_login">Доступ для всех</string>
     <string name="ftp_awake_close_state">Выключен режим \"Не выключать экран\".</string>
     <string name="ftp_awake_open_state">Включен режим \"Не выключать экран\".</string>
     <string name="ftp_configuration">КОНФИГУРАЦИИ ПЕРЕДАЧИ</string>
@@ -135,8 +135,8 @@
     <string name="ftp_remote_management_stop">Выключить удалённое управление</string>
     <string name="ftp_set_info_success_tips">Имя пользователя и пароль установлены.</string>
     <string name="ftp_settings">Конфигурация FTP</string>
-    <string name="ftp_tips_anonymous_access">Анонимный доступ</string>
-    <string name="ftp_tips_ip">Введите в адресной строке Моего компьютера</string>
+    <string name="ftp_tips_anonymous_access">Доступ для всех</string>
+    <string name="ftp_tips_ip">Введите в адресной строке компьютера</string>
     <string name="ftp_tips_non_anonymous_access">Не анонимный доступ</string>
     <string name="ftp_tips_pc">Управление файлами телефона на ПК</string>
     <string name="ftp_tips_safety_general">Угроза безопасности</string>
@@ -151,7 +151,7 @@
     <string name="guide_network_neighbor_add_server">Нажмите для добавления сервера</string>
     <string name="have_shared_tip">Открыт доступ к папке</string>
     <string name="header_server">Сервер</string>
-    <string name="header_wifidevice">Сетевое окруж.</string>
+    <string name="header_wifidevice">Сетевое окружение</string>
     <string name="hint_psw">Пароль (необязательно)</string>
     <string name="hint_psw_login">Пароль</string>
     <string name="hint_psw_optional">Пароль (необязательно)</string>
@@ -161,12 +161,12 @@
     <string name="home_setting_recently_header_title">Настройки скрытых файлов</string>
     <string name="home_setting_recently_no_result">Нет скрытых приложений или папок</string>
     <string name="home_setting_recently_source_menu_title">Скрыть приложения и папки</string>
-    <string name="home_setting_recently_source_summary">Скрыть сгенерированные файлы из Недавних</string>
+    <string name="home_setting_recently_source_summary">Убрать из Недавнего</string>
     <string name="home_setting_recently_source_title">Скрыть это приложение/папку</string>
     <string name="home_setting_recently_summary">Когда отключено скрытие файлов, файлы, созданные в этом приложении или папке будут отображаться в Недавних.</string>
     <string name="home_setting_recently_title">Управление скрытым ПО/папками</string>
-    <string name="home_setting_security_summary">Когда иконка скрыта, нажмите дважды на это место для входа в Хранилище</string>
-    <string name="home_setting_security_title">Скрыть значок Хранилища</string>
+    <string name="home_setting_security_summary">Когда иконка скрыта, нажмите дважды на это место для входа в хранилище</string>
+    <string name="home_setting_security_title">Скрыть значок хранилища</string>
     <string name="image_info">Детали изображения</string>
     <string name="image_unit">" "</string>
     <string name="image_unit_plural">" "</string>
@@ -202,6 +202,7 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_downloading_patch_prefix">Скачать файл обновления</string>
     <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
@@ -210,7 +211,7 @@
     <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">с назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
@@ -219,7 +220,7 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
-    <string name="mc_pm_allow_check_app">Разрешить</string>
+    <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -233,7 +234,7 @@
     <string name="mc_pm_location">Найти</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">Запретить</string>
+    <string name="mc_pm_not_allow_check_app">Выход</string>
     <string name="mc_pm_not_allow_dialog_push">Отключить</string>
     <string name="mc_pm_online_intenert">Интернет</string>
     <string name="mc_pm_open">Открыть</string>
@@ -274,10 +275,10 @@
     <string name="meizu_shop_delete_not_allow_message">Ресурсы из демонстрации не могут быть удалены</string>
     <string name="memory_info">доступно</string>
     <string name="menu_copy_title">Копировать</string>
-    <string name="menu_delete_title">Удалить</string>
+    <string name="menu_delete_title">"Удалить "</string>
     <string name="menu_detail_title">Детали</string>
     <string name="menu_download_title">Загрузка</string>
-    <string name="menu_encrypt_to_security_new_title">Отправить в Хранилище</string>
+    <string name="menu_encrypt_to_security_new_title">Отправить в хранилище</string>
     <string name="menu_encrypt_to_security_title">Зашифровать</string>
     <string name="menu_mkdir_title">Новая папка</string>
     <string name="menu_move_out_security_title">Убрать из хранилища</string>
@@ -289,7 +290,7 @@
     <string name="menu_save_title">Сохранить</string>
     <string name="menu_share_limit_text">Вы можете передать до 100 файлов</string>
     <string name="menu_share_title">Передать</string>
-    <string name="menu_tip_delete">Удалить</string>
+    <string name="menu_tip_delete">"Удалить "</string>
     <string name="menu_tip_refresh">Обновить</string>
     <string name="menu_to_search_title">Поиск</string>
     <string name="menu_to_upload_title">Загрузка</string>
@@ -297,7 +298,7 @@
     <string name="menu_wifi_share_title">Передать в сетевое окружение</string>
     <string name="menu_wifi_unshare_title">Отмена передачи</string>
     <string name="menu_zip_title">Архивировать</string>
-    <string name="minute_before">через %s мин</string>
+    <string name="minute_before">%s мин. назад</string>
     <string name="mkdir_dialog_title">Новая папка</string>
     <string name="modify_time_title">Изменено:  </string>
     <string name="more">Ещё</string>
@@ -313,6 +314,8 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_allow">ОК</string>
+    <string name="mz_alway_allow">Разрешать всегда</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
@@ -320,9 +323,40 @@
     <string name="mz_date_time_sec">с</string>
     <string name="mz_date_time_year">г</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_pm_allow_check_app">ОК</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_call">телефонные вызовы</string>
+    <string name="mz_pm_call_log">чтение журнала вызовов</string>
+    <string name="mz_pm_camera">использование камеры</string>
+    <string name="mz_pm_close">Выкл.</string>
+    <string name="mz_pm_contacts">чтение контактов</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dlg_cancel">Отмена</string>
+    <string name="mz_pm_dlg_ok">ОК</string>
+    <string name="mz_pm_location">доступ к местоположению</string>
+    <string name="mz_pm_network">использование передачи данных</string>
+    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_not_allow_check_app">Выход</string>
+    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_online_intenert">доступ в интернет</string>
+    <string name="mz_pm_open">Вкл.</string>
+    <string name="mz_pm_r_mms">чтение MMS</string>
+    <string name="mz_pm_r_sms">чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">запись вызовов</string>
+    <string name="mz_pm_s_mms">отправка MMS</string>
+    <string name="mz_pm_s_sms">отправка SMS</string>
+    <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
+    <string name="mz_pm_wlan">доступ к Wi-Fi</string>
+    <string name="mz_reject">Выход</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
-    <string name="mzuc_cancel">Отменить</string>
+    <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
     <string name="mzuc_delete">Удалить</string>
@@ -330,8 +364,8 @@
     <string name="mzuc_download_fail">Ошибка загрузки</string>
     <string name="mzuc_download_finish_install">Загрузка завершена, нажмите для установки</string>
     <string name="mzuc_download_finish_s" formatted="false">%s V%s загрузка завершена</string>
-    <string name="mzuc_download_progress_desc_s" formatted="false">Загрузка %s %s</string>
-    <string name="mzuc_downloading">Загрузка</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">Загружается %s %s</string>
+    <string name="mzuc_downloading">Загружается</string>
     <string name="mzuc_file_size_s">Размер: %s</string>
     <string name="mzuc_found_update_s">Доступно обновление: %s</string>
     <string name="mzuc_install_cancel_tip">Загрузка отменена</string>
@@ -340,7 +374,7 @@
     <string name="mzuc_install_later">Установить позже</string>
     <string name="mzuc_installing">Установка</string>
     <string name="mzuc_notification_message_s">%s</string>
-    <string name="mzuc_ok">OK</string>
+    <string name="mzuc_ok">ОК</string>
     <string name="mzuc_reboot_update_now">Перезапустить и обновить</string>
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_skip_version">Пропустить эту версию</string>
@@ -355,18 +389,20 @@
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="nearly_month">Около месяца</string>
     <string name="nearly_week">Около недели</string>
-    <string name="network_neighborhood">Сетевое окруж.</string>
+    <string name="network_neighborhood">Сетевое окружение</string>
     <string name="no_available_network">Нет доступных сетей. Подключитесь и попробуйте снова</string>
     <string name="no_privacy_file_tips_1">Нет личных файлов</string>
     <string name="no_privacy_file_tips_2">Длительное нажатие для выбора файлов и установки в качестве личного</string>
     <string name="no_result">Пустая папка</string>
+    <string name="no_result_privacy_button_title">Добавить файлы</string>
+    <string name="no_result_privacy_text_title">Нет файлов</string>
     <string name="no_result_view_title">Нет файлов</string>
     <string name="no_scan_wifidevice_text">Сетевое окружение не найдено</string>
     <string name="no_search_result">Нет результатов</string>
     <string name="none_space">Недостаточно места</string>
     <string name="none_space_text">Недостаточно места</string>
-    <string name="normal_toolbar_title">Выбрать файлы</string>
-    <string name="not_show_hidden_file_text">Скрывать скрытые файлы</string>
+    <string name="normal_toolbar_title">Выбрать файл</string>
+    <string name="not_show_hidden_file_text">Не показывать скрытые файлы</string>
     <string name="notif_server_restart">FTP перезагружен</string>
     <string name="notif_server_starting">FTP включен</string>
     <string name="notif_title">FTP запущен</string>
@@ -419,10 +455,10 @@
     <string name="samba_storage_space_no_available">Недостаточно места в \"Сетевом окружении\"</string>
     <string name="save_title_1_copy">Копир. в</string>
     <string name="save_title_1_move">Перем. в</string>
-    <string name="save_to_here">Сохранить сюда</string>
+    <string name="save_to_here">Сохранить</string>
     <string name="saved_to">Сохранено в %s</string>
     <string name="saving">Сохранение</string>
-    <string name="scaning_wifidevice_text">Поиск устройств</string>
+    <string name="scaning_wifidevice_text">Обнаружение устройств</string>
     <string name="sdcard_capacity_title">SD-карта</string>
     <string name="sdcard_name">Внутренняя память</string>
     <string name="search_select_text_all">Все</string>
@@ -438,7 +474,7 @@
     <string name="security_upgrade_failed_folder_view">Просмотр</string>
     <string name="security_upgrade_failed_info" formatted="false">Не зашифровано файлов - %s, смотрите папку \"%s\"</string>
     <string name="security_upgrade_info">Хранилище обновляется</string>
-    <string name="security_upgrade_tip">Пожалуйста, не закрывайте приложение, чтобы избежать повреждения файлов.</string>
+    <string name="security_upgrade_tip">Пожалуйста, не закрывайте приложение, чтобы избежать повреждения файлов</string>
     <string name="select_all">Все</string>
     <string name="select_none">Нет</string>
     <string name="server_control_charset">КОДИРОВАНИЕ ПЕРЕДАЧИ</string>
@@ -447,7 +483,7 @@
     <string name="setting">Настройки</string>
     <string name="share_dialog_title">Передать</string>
     <string name="sharing">Открытие доступа</string>
-    <string name="show_hidden_file_text">Показывать скрытые файлы/папки</string>
+    <string name="show_hidden_file_text">Показывать скрытые файлы</string>
     <string name="size_info">%1$s из %2$s доступно</string>
     <string name="size_title">Размер:  </string>
     <string name="sort_by_date">По дате</string>
@@ -474,14 +510,14 @@
     <string name="tip_dialog_wifi_not_connected">Нет подключения к сети. Проверьте настройки</string>
     <string name="tip_fail_connect">Ошибка соединения</string>
     <string name="tip_need_set_password">Шифрование файлов требует установки пароля</string>
-    <string name="tip_unset_password">Пароль для Хранилища не установлен</string>
+    <string name="tip_unset_password">Пароль для хранилища не установлен</string>
     <string name="tip_wifi_connecting">Подключение</string>
     <string name="tip_wifi_loading">Чтение данных</string>
     <string name="tip_wifi_not_connected">Нет подключения к сети. Нажмите для настройки</string>
     <string name="tip_zip_fail">Ошибка сжатия</string>
     <string name="title">Файлы</string>
     <string name="today">Сегодня</string>
-    <string name="type_dir">Папка</string>
+    <string name="type_dir">Папки</string>
     <string name="unacceptable_char">"Имя файла не может содержать спецсимволы |\\/:*?\"&lt;>'"</string>
     <string name="unacceptable_password">Пароль не может быть пустым</string>
     <string name="unsupport">Этот тип не поддерживается</string>
@@ -501,15 +537,38 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
+    <string name="being_restore">Восстанавливается</string>
+    <string name="close">Закрыть</string>
+    <string name="date_format_12_date">d.M.yyyy</string>
+    <string name="date_format_12_date_current_year">d MMMM</string>
+    <string name="date_format_12_time">hh:mm</string>
+    <string name="date_format_24">d.M.yyyy HH:mm</string>
+    <string name="err_restore">Восстановить не удалось</string>
+    <string name="home_recently_source_title" formatted="false">%s из %s:</string>
+    <string name="home_setting_goto_recycled_title">Корзина</string>
+    <string name="home_setting_recycled_summary">После включения корзины, файлы размером менее 500 Мб будут удалены и в течении 15 дней можут быть восстановлены</string>
+    <string name="menu_text_delete_completely">Удалить навсегда</string>
+    <string name="menu_text_restore">Восстановить</string>
+    <string name="menu_text_restore_to_here">Восстановить здесь</string>
+    <string name="recycled">Корзина</string>
+    <string name="recycled_actionbar_title">Корзина</string>
+    <string name="text_dialog_message">После отключения корзины недавно удаленные файлы будут удалены навсегда</string>
+    <string name="text_dialog_title">Отключить корзину?</string>
+    <string name="text_etc">и т.д.</string>
+    <string name="text_restore_success">Восстановить в “%s”</string>
+    <string name="title_delete_dialog">Файлы размером более 500 Мб не будут помещаться в корзину</string>
+    <string name="b_unit">б</string>
+    <string name="back_button_label">Назад</string>
+    <string name="gb_unit">Гб</string>
+    <string name="kb_unit">Кб</string>
+    <string name="mb_unit">Мб</string>
+    <string name="mc_action_settings">Настройки</string>
+    <string name="next_button_label">Дальше</string>
+    <string name="security_tip_file_name_international">*Зашифрованная папка, не удаляйте*</string>
+    <string name="security_upgrade_failed_folder_name_international">Зашифрованные файлы не обновлены</string>
+    <string name="skip_button_label">Пропустить</string>
+    <string name="tb_unit">Тб</string>
+    <string name="test_text">тест</string>
 </resources>
