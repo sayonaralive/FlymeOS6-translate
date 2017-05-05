@@ -197,8 +197,8 @@
     <string name="not_remind">Разрешить уведомления, но без оповещений</string>
     <string name="no_display_notification">Запретить уведомления</string>
     <string name="priority_display">Приоритет отображения</string>
-    <string name="intercepted_notification">Неважные уведомления</string>
-    <string name="filter_notification_tips">Неважные уведомления здесь</string>
+    <string name="intercepted_notification">Неважн. уведомл.</string>
+    <string name="filter_notification_tips">Неважн. уведомл. здесь</string>
     <string name="filter_notification_manage">Управление</string>
     <string name="qs_tile_config_cue_line_text">Перетащите вверх</string>
     <string name="qs_tile_config_title">Управление переключателями</string>
