@@ -548,7 +548,7 @@
     <string name="err_restore">Восстановить не удалось</string>
     <string name="home_recently_source_title" formatted="false">%s из %s:</string>
     <string name="home_setting_goto_recycled_title">Корзина</string>
-    <string name="home_setting_recycled_summary">После включения корзины, файлы размером менее 500 Мб будут удалены и в течении 15 дней можут быть восстановлены</string>
+    <string name="home_setting_recycled_summary">После включения корзины, файлы размером менее 500 Мб будут удалены и в течении 15 дней могут быть восстановлены</string>
     <string name="menu_text_delete_completely">Удалить навсегда</string>
     <string name="menu_text_restore">Восстановить</string>
     <string name="menu_text_restore_to_here">Восстановить здесь</string>
