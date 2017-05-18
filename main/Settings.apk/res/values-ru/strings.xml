@@ -3789,7 +3789,7 @@
     <string name="encrypt_app_tips">Когда вы шифруете приложение, его клон также зашифровывается.</string>
     <string name="recommend_category_title">Рекомендации</string>
     <string name="recommend_switch_title">Рекомендуемые настройки</string>
-    <string name="recommend_switch_summary">Показать рекомендацию в верхней части настроек</string>
+    <string name="recommend_switch_summary">Показать рекомендации в верхней части настроек</string>
     <string name="recommend_reduce_blue_light_summary">Уменьшите голубой цвет, защитите зрение</string>
     <string name="recommend_finger_print_summary">Безопасная и быстрая разблокировка</string>
     <string name="recommend_file_manager_lock_summary">Защитите свои важные файлы</string>
