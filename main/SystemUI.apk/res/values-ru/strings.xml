@@ -691,7 +691,7 @@
     <string name="accessibility_ime_switch_button">Кнопка переключения способа ввода.</string>
     <string name="accessibility_battery_level">Уровень заряда: %d</string>
     <string name="lock_month_day">d MMMM</string>
-    <string name="lock_week">yyyy MMMM d (cccc,)</string>
+    <string name="lock_week">d MMMM yyyy (cccc)</string>
     <string name="mz_date_format">E, d MMMM</string>
     <string name="lock_tips_dialing">Набор</string>
     <string name="calling">Вызов…</string>
