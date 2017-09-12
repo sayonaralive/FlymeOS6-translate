@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="message_list_avatar_item_divider_padding_left">16.0dip</dimen>
-    <dimen name="message_list_avatar_item_divider_padding_right">78.0dip</dimen>
-    <dimen name="slide_menu_list_divider_left">12.0dip</dimen>
-    <dimen name="slide_menu_list_divider_right">67.0dip</dimen>
-</resources>

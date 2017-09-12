@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="delete_item_selected">
-        <item quantity="other">מחק %1$d הקלטות</item>
-        <item quantity="one">מחק הקלטה אחת</item>
-    </plurals>
-</resources>

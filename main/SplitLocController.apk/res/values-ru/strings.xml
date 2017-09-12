@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="drag_up_fullscreen_notice">Тяните вверх для открытия всего экрана.</string>
-    <string name="drag_down_fullscreen_notice">Тяните вниз для открытия всего экрана.</string>
-</resources>

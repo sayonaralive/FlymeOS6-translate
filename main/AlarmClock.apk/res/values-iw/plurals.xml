@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">מנמנם למשך %d דקות</item>
-        <item quantity="one">עובר למצב נודניק למשך 1 דקה</item>
-    </plurals>
-</resources>
