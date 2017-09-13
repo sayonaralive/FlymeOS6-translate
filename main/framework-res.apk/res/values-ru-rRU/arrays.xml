@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="emailAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Настроить</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Настроить</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Настроить</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Прочий</item>
+        <item>Настроить</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.android.location.fused</item>
+        <item>com.google.android.gms</item>
+        <item>com.meizu.location</item>
+    </string-array>
     <integer-array name="maps_starting_lat_lng">
         <item>55750449</item>
         <item>37621136</item>
@@ -7,4 +49,26 @@
     <integer-array name="maps_starting_zoom">
         <item>2</item>
     </integer-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Чтобы совершать вызовы и отправлять сообщения по Wi-Fi, необходимо сначала обратиться к оператору связи и подключить эту услугу. После этого вы сможете снова выбрать этот параметр в настройках.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Укажите оператора и зарегистрируйтесь</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Пожалуйста, подождите</item>
+        <item>Палец отпущен</item>
+        <item>Палец приложен</item>
+        <item>Время ожидания истекло</item>
+        <item>Пожалуйста, поместите палец</item>
+        <item>Пожалуйста, создайте новый отпечаток</item>
+    </string-array>
+    <array name="fingerprint_error_vendor" />
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Настроить</item>
+    </string-array>
 </resources>

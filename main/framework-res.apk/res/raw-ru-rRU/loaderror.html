@@ -30,7 +30,8 @@ p{margin:0; padding: 0;}
 				var content = document.getElementById("content"); 
 				var hr = document.getElementById("hr");
 				var text = document.getElementById("text");
-				content.style.width = Math.max(text.offsetWidth,hr.offsetWidth);
+				var minwidth = 220;
+				content.style.width = Math.max(text.offsetWidth,hr.offsetWidth, minwidth);
 				content.style.margin = "auto";
 			}
 		
@@ -70,12 +71,12 @@ p{margin:0; padding: 0;}
 			<a id="url" href="%s" style="display: block;color: rgba(0x32,0xa5,0xe7,1); text-decoration: none; height:14px; font-size:14px;">%s</a> 
 		</div>
 	  
-	    	<hr id="hr" style="opacity:0.15; color:#000000; border:none;border-top:1px solid black; margin-top: 17px; margin-bottom: 15px; height:0px;display: block;">
+	    	<hr id="hr" style="opacity:0.15; color:#000000;max-width: 325px; border:none;border-top:1px solid black; margin-top: 17px; margin-bottom: 15px; height:0px;display: block;">
 
-		<div id="text" style="margin: auto; padding:0 14px 0 6px; display:table; color: rgba(0,0,0,0.3); width:auto; text-align: left;">
-			<div style="height:20px; line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />Нет подключения к сети</div>
-			<div style="margin: 6px 0px; line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />Веб-страница недоступна</div>
-			<div style="height:20px; line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />Неверный URL-адрес</div>
+		<div id="text" style="margin: auto; padding:0 14px 0 6px; display:table; color: rgba(0,0,0,0.3);max-width: 325px; width:auto; text-align: left;">
+			<div style=" line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />Нет подключения к сети</div>
+			<div style="margin: 6px 0px;  height:20px; line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />Веб-страница недоступна</div>
+			<div style=" line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />Неверный URL-адрес</div>
 		</div>
     </div>
 </body>
