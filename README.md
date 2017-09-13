@@ -5,4 +5,4 @@ Multilangual translation for Flyme 6 (Thankfully for the open and closed Flyme 6
 - iMarck - Italian translation
 - kkffiirr - Hebrew translation / RTL issues
 
-##Hello Meizu
+## Hello Meizu
