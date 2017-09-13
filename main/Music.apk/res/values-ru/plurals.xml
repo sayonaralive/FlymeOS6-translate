@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">Трек добавлен в</item>
-        <item quantity="one">Трек добавлен в</item>
-    </plurals>
     <plurals name="album_count">
         <item quantity="other">%d альбомов</item>
         <item quantity="one">1 альбом</item>
@@ -33,19 +29,15 @@
         <item quantity="one">1 трек загружен</item>
     </plurals>
     <plurals name="download_failed_count">
-        <item quantity="other">%d треков не удалось загрузить</item>
-        <item quantity="one">Ошибка загрузки 1 трека</item>
+        <item quantity="other">Не удалось загрузить %d трек(ов)</item>
+        <item quantity="one">Не удалось загрузить 1 трек</item>
     </plurals>
     <plurals name="remove_song">
-        <item quantity="other">Удалить треки: %1$d</item>
+        <item quantity="other">Удаление треков: %1$d</item>
         <item quantity="one">Удалить 1 трек</item>
-    </plurals>
-    <plurals name="select_count">
-        <item quantity="other">выбрать %d</item>
-        <item quantity="one">выбран 1</item>
     </plurals>
     <plurals name="song_item_count">
         <item quantity="other">%1$d треков</item>
-        <item quantity="one">1 трек</item>
+        <item quantity="one">%1$d трек</item>
     </plurals>
 </resources>

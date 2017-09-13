@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Видалити розмови: %1$s</item>
+        <item quantity="one">Видалити розмови: %1$s</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+Ще %1$s повідомлення</item>
+        <item quantity="one">+Ще %1$s повідомлення</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s контактів</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s результат для %2$s</item>
+        <item quantity="one">%1$s результат для %2$s</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">Видалити повідомлення: %1$s</item>
+        <item quantity="one">Видалити повідомлення: %1$s</item>
+    </plurals>
+</resources>

@@ -55,4 +55,17 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="report_list">
+        <item>Спам-реклама</item>
+        <item>Маркетингове шахрайство</item>
+        <item>Порнографічний</item>
+        <item>Вербальна атака</item>
+        <item>Інше</item>
+    </string-array>
+    <string-array name="type_list">
+        <item>Текст пісні неправильний</item>
+        <item>Обкладинка відсутня</item>
+        <item>Аудіо файл невірний</item>
+        <item>Попросити музику FLAC</item>
+    </string-array>
 </resources>

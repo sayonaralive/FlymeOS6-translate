@@ -55,4 +55,8 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="record_object_array">
+        <item>Усі виклики</item>
+        <item>Вказані контакти</item>
+    </string-array>
 </resources>

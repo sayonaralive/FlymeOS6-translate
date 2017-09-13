@@ -34,14 +34,14 @@
     <string name="auto_indentification_number_title">Распознавание номера</string>
     <string name="auto_record_all">Все вызовы</string>
     <string name="auto_record_log">Записи вызовов</string>
-    <string name="auto_record_specify">Выбор контактов</string>
+    <string name="auto_record_specify">Указанные контакты</string>
     <string name="auto_record_summary">Когда нет ответа</string>
     <string name="auto_record_title">Голосовые сообщения</string>
     <string name="auto_record_when_calling_title">Записи вызовов</string>
     <string name="button_ends_call_prerefence_title">Отбой вызова кнопкой питания</string>
     <string name="c2b_settings_summary">Визуальное меню</string>
     <string name="c2b_settings_title">Веб-вызов компании</string>
-    <string name="callFailed_simError">Ошибка или отсутствие SIM-карты</string>
+    <string name="callFailed_simError">Нет SIM-картышибка SIM</string>
     <string name="call_list_empty_text">Нет записей</string>
     <string name="call_recording">Записи вызовов</string>
     <string name="call_settings">Настройки вызовов</string>
@@ -81,7 +81,7 @@
     <string name="group_name_default">По умолчанию</string>
     <string name="incoming_assi_motion_title">Анимация вызова на дополнительном экране</string>
     <string name="incoming_flash_reminder_summary">Мигание вспышки при входящем вызове, когда телефон заблокирован</string>
-    <string name="incoming_flash_tip_title">Мигание вспышки при входящем</string>
+    <string name="incoming_flash_tip_title">Мигание вспышки</string>
     <string name="label_for_flyme_call_default">Веб-вызов</string>
     <string name="loading">Загрузка</string>
     <string name="mc_allow">Разрешить</string>
@@ -106,6 +106,7 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_downloading_patch_prefix">Скачать файл обновления</string>
     <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
@@ -123,7 +124,7 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
-    <string name="mc_pm_allow_check_app">Разрешить</string>
+    <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -137,7 +138,7 @@
     <string name="mc_pm_location">Найти</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">Запретить</string>
+    <string name="mc_pm_not_allow_check_app">Выход</string>
     <string name="mc_pm_not_allow_dialog_push">Отключить</string>
     <string name="mc_pm_online_intenert">Интернет</string>
     <string name="mc_pm_open">Открыть</string>
@@ -161,7 +162,6 @@
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с</string>
-    <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -187,13 +187,15 @@
     <string name="multi_contact_repeat_tip" formatted="false">%d контактов, включая %s</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
-    <string name="mz_action_bar_multi_choice_select_all_cancel">Отменить все</string>
+    <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_action_bar_select_file_title">Выбрать аудиофайл</string>
+    <string name="mz_allow">ОК</string>
+    <string name="mz_alway_allow">Разрешать всегда</string>
     <string name="mz_basic_settings">Базовые настройки</string>
     <string name="mz_call_setting">Настройки</string>
     <string name="mz_contacts_manager">Управление контактами</string>
-    <string name="mz_contacts_manager_summary">Импорт/экспорт контактов SIM-карты</string>
+    <string name="mz_contacts_manager_summary">Импорт и экспорт контактов</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
@@ -203,6 +205,37 @@
     <string name="mz_default_dial_slot_summary">Список недавних вызовов основан на последней использованной карте</string>
     <string name="mz_edit_quick_responce">Изменить быстрый ответ</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_pm_allow_check_app">ОК</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_call">телефонные вызовы</string>
+    <string name="mz_pm_call_log">чтение журнала вызовов</string>
+    <string name="mz_pm_camera">использование камеры</string>
+    <string name="mz_pm_close">Выкл.</string>
+    <string name="mz_pm_contacts">чтение контактов</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dlg_cancel">Отмена</string>
+    <string name="mz_pm_dlg_ok">ОК</string>
+    <string name="mz_pm_location">доступ к местоположению</string>
+    <string name="mz_pm_network">использование передачи данных</string>
+    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_not_allow_check_app">Выход</string>
+    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_online_intenert">доступ в интернет</string>
+    <string name="mz_pm_open">Вкл.</string>
+    <string name="mz_pm_r_mms">чтение MMS</string>
+    <string name="mz_pm_r_sms">чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">запись вызовов</string>
+    <string name="mz_pm_s_mms">отправка MMS</string>
+    <string name="mz_pm_s_sms">отправка SMS</string>
+    <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
+    <string name="mz_pm_wlan">доступ к Wi-Fi</string>
+    <string name="mz_reject">Выход</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
     <string name="new_call">%d новых записей</string>
@@ -216,7 +249,7 @@
     <string name="quick_reply_reach_input_limit">Достигнут лимит символов</string>
     <string name="quick_reply_save_alert">Сохранить изменения?</string>
     <string name="record_object_summary">Контактов: %d</string>
-    <string name="record_object_title">Настройки автозаписи</string>
+    <string name="record_object_title">Вызовы для записи</string>
     <string name="record_pref_title">Автозапись вызовов</string>
     <string name="record_status_category_title">Статус записи</string>
     <string name="record_title">Запись</string>
@@ -237,7 +270,7 @@
     <string name="sim_calls_title">SIM-карта по умолчанию</string>
     <string name="sim_label_as_postfix">(SIM %d)</string>
     <string name="sip_call">Веб-вызов</string>
-    <string name="spam_call_filter_title">Блокировка контактов</string>
+    <string name="spam_call_filter_title">Спам-блокировка</string>
     <string name="speed_card1_voicemail">Голос. почта SIM 1</string>
     <string name="speed_card2_voicemail">Голос. почта SIM 2</string>
     <string name="speed_dail_label">Быстрый набор</string>
@@ -275,4 +308,7 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
+    <string name="pattern_day_month_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="pattern_hour_minute_12" formatted="false">%I:%M %p</string>
+    <string name="pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
 </resources>

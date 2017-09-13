@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Жою: %1$s әңгіме</item>
+        <item quantity="one">Жою: %1$s әңгіме</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+Басқа %1$s хабар</item>
+        <item quantity="one">+Басқа %1$s хабар</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s контакт</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s мынаған қатысты нәтиже: %2$s</item>
+        <item quantity="one">%1$s мынаған қатысты нәтиже: %2$s</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с</item>
+        <item quantity="one">%s с</item>
+        <item quantity="few">%s с</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">Жою: %1$s хабар</item>
+        <item quantity="one">Жою: %1$s хабар</item>
+    </plurals>
+</resources>

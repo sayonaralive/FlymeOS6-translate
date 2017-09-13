@@ -57,6 +57,6 @@
     </string-array>
     <string-array name="record_object_array">
         <item>Все вызовы</item>
-        <item>Выбор контактов</item>
+        <item>Указанные контакты</item>
     </string-array>
 </resources>

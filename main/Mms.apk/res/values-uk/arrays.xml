@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>Без теми</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>Лише в беззвуч. реж.</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Інше</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_IMAGE">
+        <item>Перегляд</item>
+        <item>Замінити</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_SLIDESHOW">
+        <item>Попередній перегляд</item>
+        <item>Редагувати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_VIDEO">
+        <item>Відтворити</item>
+        <item>Замінити</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="attach_video_array">
+        <item>Створити нове відео</item>
+        <item>Бібліотека відеозаписів</item>
+    </string-array>
+    <string-array name="attach_voice_array">
+        <item>Створити новий запис</item>
+        <item>Бібліотека звукозаписів</item>
+    </string-array>
+    <string-array name="confirm_dialog_titlet">
+        <item>Видалити повідомлення?</item>
+        <item>Видалити вибраний елемент(и)?</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Квi</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="phrases">
+        <item>Я зараз зайнятий. Чи можу я подзвонити вам пізніше?</item>
+        <item>Будь ласка, зателефонуйте мені пізніше. Дякую!</item>
+        <item>Добре, дякую.</item>
+        <item>Пробка, я буду трохи пізніше.</item>
+    </string-array>
+    <string-array name="sns_error_msg">
+        <item>Неприпустимий користувач Weibo</item>
+        <item>Обмежений доступ</item>
+        <item>Користувач не існує</item>
+        <item>Вміст відсутній. Надіслати не вдалося</item>
+        <item>Не вводьте більш 300 символів</item>
+        <item>Порушення відповідних правил, неприпустима операція</item>
+        <item>Не можна публікувати однаковий вміст протягом 10 хвилин</item>
+        <item>Введена URL-адреса здається небезпечна</item>
+        <item>Відповідно до діючих законів і норм, цей вміст не може бути розміщений</item>
+        <item>Ця функція наразі недоступна</item>
+        <item>Особисті повідомлення не можуть бути надіслані цьому користувачу через налаштування безпеки користувача</item>
+        <item>Несподіваний стан входу</item>
+        <item>Обл. запис блоковано</item>
+        <item>Цей вміст тимчасово недоступний для перегляду</item>
+        <item>Ви не можете надсилати особисті повідомлення користувачам, які не слідкують за вами</item>
+        <item>Неприпустиме особисте повідомлення</item>
+        <item>Особисте повiдомлення не існує</item>
+        <item>Ви не можете надіслати те ж саме особисте повідомлення знову</item>
+        <item>Неприпустимий ідентифікатор особистого повідомлення</item>
+        <item>Надіслано забагато особистих повідомлень</item>
+        <item>Це особисте повідомлення порушує відповідні правила і блоковано</item>
+        <item>Відповідно до діючих законів і норм, ви не можете посилати особисті повідомлення</item>
+        <item>Термін дії маркера скінчився</item>
+        <item>Ви не можете надсилати особисті повідомлення цьому користувачу через налаштування користувача</item>
+        <item>Вже надіслано. Одного разу достатньо</item>
+    </string-array>
+</resources>

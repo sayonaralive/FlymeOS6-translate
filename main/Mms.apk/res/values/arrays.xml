@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Smile</item>
+        <item>Laugh</item>
+        <item>Wink</item>
+        <item>Sad</item>
+        <item>Tongue</item>
+        <item>Undecided</item>
+        <item>Surprised</item>
+        <item>Money</item>
+        <item>Squelched</item>
+        <item>Bored</item>
+        <item>Jiong</item>
+        <item>Crying</item>
+        <item>Angry</item>
+        <item>Asleep</item>
+        <item>Pighead</item>
+        <item>Happy Blush</item>
+        <item>Nervous Blush</item>
+        <item>Faint</item>
+        <item>Awkward</item>
+        <item>Kiss</item>
+        <item>Sorrow</item>
+        <item>Eyeing</item>
+        <item>Illness</item>
+        <item>Cool</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>No subject</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Always</item>
+        <item>Only when silent</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_IMAGE">
+        <item>Preview</item>
+        <item>Replace</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_SLIDESHOW">
+        <item>Preview</item>
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_VIDEO">
+        <item>Play</item>
+        <item>Replace</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="attach_video_array">
+        <item>Take a new video</item>
+        <item>Video library</item>
+    </string-array>
+    <string-array name="attach_voice_array">
+        <item>Take a new recording</item>
+        <item>Audio library</item>
+    </string-array>
+    <string-array name="confirm_dialog_titlet">
+        <item>Delete message?</item>
+        <item>Delete selected item(s)?</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="phrases">
+        <item>"I'm busy now. Can I call you back later?"</item>
+        <item>Please call me later. Thanks!</item>
+        <item>All right, thanks.</item>
+        <item>"There is a traffic jam. I'll be a little late."</item>
+    </string-array>
+    <string-array name="sns_error_msg">
+        <item>Illegal Weibo user</item>
+        <item>Restricted access</item>
+        <item>User does not exist</item>
+        <item>Empty content. Sending failed</item>
+        <item>Do not enter more than 300 characters</item>
+        <item>Violating relevant rules, invalid operation</item>
+        <item>The same content cannot be posted again within 10 minutes</item>
+        <item>The URL you entered seems not safe</item>
+        <item>Pursuant to applicable laws and regulations, this content cannot be posted</item>
+        <item>This feature is currently unavailable</item>
+        <item>"Private messages cannot be sent to this user due to user's privacy settings"</item>
+        <item>Unexpected login status</item>
+        <item>Account is locked</item>
+        <item>This content is temporarily unavailable for viewing</item>
+        <item>You cannot send private messages to users who are not following you</item>
+        <item>Illegal private message</item>
+        <item>Private message does not exist</item>
+        <item>You cannot send the same private message again</item>
+        <item>Illegal private messaging ID</item>
+        <item>Too many private messages were sent</item>
+        <item>This private violates relevant rules and is blocked</item>
+        <item>Pursuant to applicable laws and regulations, you cannot send any private messages</item>
+        <item>Token expired</item>
+        <item>"You cannot send private messages to this user due to user's settings"</item>
+        <item>You have already sent it. Once is enough</item>
+    </string-array>
+    <string-array name="custom_time_picker_lunar_day">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>廿十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </string-array>
+    <string-array name="custom_time_picker_lunar_month">
+        <item>正</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>冬</item>
+        <item>腊</item>
+    </string-array>
+</resources>

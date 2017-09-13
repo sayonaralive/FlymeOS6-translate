@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>Тақырып жоқ</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Әрқашан</item>
+        <item>Тек дыбыссыз болғанда</item>
+        <item>Ешқашан</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунд</item>
+        <item>2 секунд</item>
+        <item>3 секунд</item>
+        <item>4 секунд</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Басқа</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_IMAGE">
+        <item>Қарап шығу</item>
+        <item>Ауыстыру</item>
+        <item>Жою</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_SLIDESHOW">
+        <item>Қарап шығу</item>
+        <item>Өңдеу</item>
+        <item>Жою</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_VIDEO">
+        <item>Ойнату</item>
+        <item>Ауыстыру</item>
+        <item>Жою</item>
+    </string-array>
+    <string-array name="attach_video_array">
+        <item>Жаңа бейне түсіру</item>
+        <item>Бейне кітапханасы</item>
+    </string-array>
+    <string-array name="attach_voice_array">
+        <item>Жаңа жазба жасау</item>
+        <item>Аудио кітапхана</item>
+    </string-array>
+    <string-array name="confirm_dialog_titlet">
+        <item>Хабар жойылсын ба?</item>
+        <item>Таңдалған элемент(тер) жойылсын ба?</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Қаң</item>
+        <item>Ақп</item>
+        <item>Нау</item>
+        <item>Сәу</item>
+        <item>Мам</item>
+        <item>Мау</item>
+        <item>Шіл</item>
+        <item>Там</item>
+        <item>Қыр</item>
+        <item>Қаз</item>
+        <item>Қар</item>
+        <item>Жел</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Жек</item>
+        <item>Дүй</item>
+        <item>Сей</item>
+        <item>Сәр</item>
+        <item>Бей</item>
+        <item>Жұм</item>
+        <item>Сен</item>
+    </string-array>
+    <string-array name="phrases">
+        <item>Қазір бос емеспін. Кейін қоңырау шалсам бола ма?</item>
+        <item>Кейінірек хабарласыңыз. Рақмет!</item>
+        <item>Жарайды, рақмет.</item>
+        <item>Жол кептеліп тұр, біраз кешігемін.</item>
+    </string-array>
+    <string-array name="sns_error_msg">
+        <item>Жарасыз Weibo пайдаланушысы</item>
+        <item>Қол жеткізу шектелген</item>
+        <item>Пайдаланушы жоқ</item>
+        <item>Бос мазмұн. Жіберілмеді</item>
+        <item>300 таңбадан артық енгізбеңіз</item>
+        <item>Тиісті ережелерге сәйкес келмейді, жарамсыз әрекет</item>
+        <item>Бірдей мазмұнды 10 минут ішінде қайта жариялауға болмайды</item>
+        <item>Сіз енгізген URL қауіпсіз емес сияқты</item>
+        <item>Қолданыстағы заңдар мен нормативтік актілерге сәйкес, бұл мазмұнды жіберуге болмайды</item>
+        <item>Бұл мүмкіндік әзірше қолжетімді емес</item>
+        <item>Пайдаланушының құпиялық параметрлеріне байланысты құпия хабарларды бұл пайдаланушыға жіберу мүмкін емес</item>
+        <item>Күтпеген жүйеге кіру күйі</item>
+        <item>Тіркелгі құлыпталған</item>
+        <item>Бұл мазмұнды әзірше көру мүмкін емес</item>
+        <item>Сізге жазылмаған пайдаланушыларға жеке хабар жібере алмайсыз</item>
+        <item>Жарамсыз жеке хабар</item>
+        <item>Құпия хабар жоқ</item>
+        <item>Бір жеке хабарды қайтадан жіберу мүмкін емес</item>
+        <item>Жарамсыз жеке хабар алмасу ИД</item>
+        <item>Тым көп құпия хабар жіберілді</item>
+        <item>Бұл тұлға тиісті ережелерге қайшы, сондықтан бұғатталған</item>
+        <item>Қолданыстағы заңдар мен нормативтік актілерге сәйкес, ешқандай құпия хабар жібере алмайсыз</item>
+        <item>Токен мерзімі аяқталды</item>
+        <item>Пайдаланушының параметрлеріне байланысты бұл пайдаланушыға жеке хабар жіберу мүмкін емес</item>
+        <item>Оны әлдеқашан жібердіңіз. Бір рет істегеніңіз жетеді</item>
+    </string-array>
+</resources>

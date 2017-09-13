@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Delete &lt;g id="NUMBER">%1$s&lt;/g> conversation(s)</item>
+        <item quantity="one">Delete &lt;g id="NUMBER">%1$s&lt;/g> conversation(s)</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+Another &lt;g id="NUMBER">%1$s&lt;/g> message</item>
+        <item quantity="one">+Another &lt;g id="NUMBER">%1$s&lt;/g> message</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">&lt;g id="NUMBER">%1$s&lt;/g> contacts</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">&lt;g id="NUMBER">%1$s&lt;/g> result for &lt;g id="SEARCH">%2$s&lt;/g></item>
+        <item quantity="one">&lt;g id="NUMBER">%1$s&lt;/g> result for &lt;g id="SEARCH">%2$s&lt;/g></item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">&lt;g id="NUMBER">%s&lt;/g> s</item>
+        <item quantity="one">&lt;g id="NUMBER">%s&lt;/g> s</item>
+        <item quantity="few">&lt;g id="NUMBER">%s&lt;/g> s</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">Delete &lt;g id="NUMBER">%1$s&lt;/g> message(s)</item>
+        <item quantity="one">Delete &lt;g id="NUMBER">%1$s&lt;/g> message(s)</item>
+    </plurals>
+</resources>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ACTION_MODE">
-        <item>Резервное копирование</item>
-        <item>Восстановление</item>
+        <item>Сақтық көшірме жасау</item>
+        <item>Қалпына келтіру</item>
     </string-array>
     <string-array name="DATE_FORMAT_TITLE">
-        <item>м.</item>
-        <item>ч.</item>
-        <item>дн.</item>
-        <item>г.</item>
+        <item>мин</item>
+        <item>сғ</item>
+        <item>к</item>
+        <item>жыл</item>
     </string-array>
     <string-array name="item_system_setting">
-        <item>Пароли Wi-Fi</item>
-        <item>Вибрация и рингтон</item>
-        <item>Настройки экрана</item>
-        <item>Будильник</item>
-        <item>Закладки браузера</item>
+        <item>WLAN құпия сөздері</item>
+        <item>Дыбыстар және діріл</item>
+        <item>Дисплей параметрлері</item>
+        <item>Оятқыш сағат</item>
+        <item>Браузер бетбелгілері</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
@@ -50,30 +50,30 @@
         <item>30</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
-        <item>Янв</item>
-        <item>Фев</item>
-        <item>Мар</item>
-        <item>Апр</item>
-        <item>Май</item>
-        <item>Июн</item>
-        <item>Июл</item>
-        <item>Авг</item>
-        <item>Сен</item>
-        <item>Окт</item>
-        <item>Ноя</item>
-        <item>Дек</item>
+        <item>Қаң</item>
+        <item>Ақп</item>
+        <item>Нау</item>
+        <item>Сәу</item>
+        <item>Мам</item>
+        <item>Мау</item>
+        <item>Шіл</item>
+        <item>Там</item>
+        <item>Қыр</item>
+        <item>Қаз</item>
+        <item>Қар</item>
+        <item>Жел</item>
     </string-array>
     <string-array name="mc_custom_weekday">
-        <item>Вс</item>
-        <item>Пн</item>
-        <item>Вт</item>
-        <item>Ср</item>
-        <item>Чт</item>
-        <item>Пт</item>
-        <item>Сб</item>
+        <item>ЖС</item>
+        <item>ДС</item>
+        <item>СС</item>
+        <item>СР</item>
+        <item>БС</item>
+        <item>ЖМ</item>
+        <item>СБ</item>
     </string-array>
     <string-array name="sd_select_item">
-        <item>Внутренняя память по умолчанию</item>
-        <item>Карта памяти</item>
+        <item>Әдепкі телефон жады</item>
+        <item>SD картасы</item>
     </string-array>
 </resources>

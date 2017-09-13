@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_count">
+        <item quantity="other">%d альбом</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="artist_count">
+        <item quantity="other">%d орындаушы</item>
+        <item quantity="one">1 орындаушы</item>
+    </plurals>
+    <plurals name="delete_album_confirm">
+        <item quantity="other">%1$d альбомды жою</item>
+        <item quantity="one">1 альбомды жою</item>
+    </plurals>
+    <plurals name="delete_artist_confirm">
+        <item quantity="other">%1$d орындаушыны жою</item>
+        <item quantity="one">1 орындаушыны жою</item>
+    </plurals>
+    <plurals name="delete_song_confirm">
+        <item quantity="other">%1$d әнді жою</item>
+        <item quantity="one">1 әнді жою</item>
+    </plurals>
+    <plurals name="delete_song_from_playlist_prompt">
+        <item quantity="other">%1$d әнді және жергілікті файлдарды жою</item>
+        <item quantity="one">1 әнді және жергілікті файлды жою</item>
+    </plurals>
+    <plurals name="download_completed_count">
+        <item quantity="other">%d ән жүктеп алынды</item>
+        <item quantity="one">1 ән жүктелді</item>
+    </plurals>
+    <plurals name="download_failed_count">
+        <item quantity="other">%d ән жүктеп алынбады</item>
+        <item quantity="one">1 ән жүктеп алынбады</item>
+    </plurals>
+    <plurals name="remove_song">
+        <item quantity="other">%1$d әнді жою</item>
+        <item quantity="one">1 әнді жою</item>
+    </plurals>
+    <plurals name="song_item_count">
+        <item quantity="other">%1$d ән</item>
+        <item quantity="one">1 ән</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Ән мына жерге қосылды:</item>
+        <item quantity="one">Ән мына жерге қосылды:</item>
+    </plurals>
+</resources>

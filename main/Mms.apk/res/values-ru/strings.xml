@@ -122,7 +122,7 @@
     <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
     <string name="pref_summary_mms_read_reports">Запрашивать отчёт о прочтении для всех отправляемых сообщений</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-    <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
+    <string name="pref_title_manage_sim_messages">Сообщения SIM-карты</string>
     <string name="pref_title_mms_auto_retrieval">Автозагрузка MMS</string>
     <string name="pref_title_mms_group_mms">Групповые сообщения</string>
     <string name="pref_title_mms_read_reports">Отчёты о прочтении MMS</string>
@@ -224,7 +224,7 @@
     <string name="alipay_check">Проверить сейчас</string>
     <string name="alipay_pay_for_other">Оплатить сейчас</string>
     <string name="alipay_repayment">Доплатить сейчас</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_name">ForceTouch</string>
     <string name="ask_delete_conversation">Также удалить историю сообщений</string>
     <string name="assistant_cannt_support_mms">Помощник Meizu не поддерживает MMS</string>
@@ -323,6 +323,7 @@
     <string name="delivery_toast_body_fail">Сообщение для %s ещё не доставлено</string>
     <string name="dial_btn_title">Набор</string>
     <string name="dial_title">Набор</string>
+    <string name="dialog_sms_center_message">Не изменяйте или не удаляйте этот номер, если это не предполагается оператором связи; в противном случае функция получения или отправки сообщений может быть недоступна</string>
     <string name="dialog_sms_center_number">SMS-центр</string>
     <string name="discard_btn_title">Отменить</string>
     <string name="discard_draft_tip">Сообщение будет удалено, так как не указан ни один реальный получатель.</string>
@@ -330,7 +331,7 @@
     <string name="discard_nickname_for_mms_title">MMS не поддерживает псевдонимы</string>
     <string name="done_text">Готово</string>
     <string name="down_tip">Загрузка</string>
-    <string name="download_alipay_content">Необходимо установить Alipay Wallet для включения этой опции.</string>
+    <string name="download_alipay_content">Необходимо установить Alipay Wallet для включения данной опции</string>
     <string name="download_alipay_title">Загрузить Alipay Wallet?</string>
     <string name="download_goon_title">Нажмите для продолжения</string>
     <string name="download_lakala_content">Необходимо установить Lakala для включения данной опции</string>
@@ -429,6 +430,7 @@
     <string name="long_press_menu_delete">Удалить</string>
     <string name="long_press_menu_forward">Переслать</string>
     <string name="long_press_menu_open">Открыть</string>
+    <string name="long_press_menu_original">Исходный текст</string>
     <string name="long_press_menu_save">Сохранить</string>
     <string name="long_press_menu_sel">Выбрать</string>
     <string name="mark_all_as_read_title">Отметить все прочитанными</string>
@@ -458,6 +460,7 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_downloading_patch_prefix">Скачать файл обновления</string>
     <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
@@ -466,7 +469,7 @@
     <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">с назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
@@ -475,7 +478,7 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
-    <string name="mc_pm_allow_check_app">Разрешить</string>
+    <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -489,7 +492,7 @@
     <string name="mc_pm_location">Найти</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">Запретить</string>
+    <string name="mc_pm_not_allow_check_app">Выход</string>
     <string name="mc_pm_not_allow_dialog_push">Отключить</string>
     <string name="mc_pm_online_intenert">Интернет</string>
     <string name="mc_pm_open">Открыть</string>
@@ -513,7 +516,6 @@
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с</string>
-    <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -607,6 +609,8 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_allow">ОК</string>
+    <string name="mz_alway_allow">Разрешать всегда</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
@@ -614,8 +618,39 @@
     <string name="mz_date_time_sec">с</string>
     <string name="mz_date_time_year">г</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_pm_allow_check_app">ОК</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_call">телефонные вызовы</string>
+    <string name="mz_pm_call_log">чтение журнала вызовов</string>
+    <string name="mz_pm_camera">использование камеры</string>
+    <string name="mz_pm_close">Выкл.</string>
+    <string name="mz_pm_contacts">чтение контактов</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dlg_cancel">Отмена</string>
+    <string name="mz_pm_dlg_ok">ОК</string>
+    <string name="mz_pm_location">доступ к местоположению</string>
+    <string name="mz_pm_network">использование передачи данных</string>
+    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_not_allow_check_app">Выход</string>
+    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_online_intenert">доступ в интернет</string>
+    <string name="mz_pm_open">Вкл.</string>
+    <string name="mz_pm_r_mms">чтение MMS</string>
+    <string name="mz_pm_r_sms">чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">запись вызовов</string>
+    <string name="mz_pm_s_mms">отправка MMS</string>
+    <string name="mz_pm_s_sms">отправка SMS</string>
+    <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
+    <string name="mz_pm_wlan">доступ к Wi-Fi</string>
+    <string name="mz_reject">Выход</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
-    <string name="mz_wif_setting_dialog_set">Установить</string>
+    <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
@@ -677,6 +712,7 @@
     <string name="not_default_message_app_dialog_message">Встроенное приложение для обмена сообщениями потеряет права на отправку и удаление сообщений.</string>
     <string name="not_default_message_app_dialog_title">Стандартное приложение не является приложением по умолчанию</string>
     <string name="notification_download_failed">Ошибка загрузки</string>
+    <string name="notify_count_msg">Новых сообщений: %d</string>
     <string name="notify_hide_content_msg">%2$s сообщений от %1$s контактов</string>
     <string name="notify_hide_content_msg_unique">Получено сообщений: %s</string>
     <string name="online">В сети</string>
@@ -693,7 +729,6 @@
     <string name="pick_timer_warning">Установленное время не может быть раньше текущего</string>
     <string name="pref_advanced_settings_title">Расширенные настройки</string>
     <string name="pref_flyme_settings_options_title">Параметры</string>
-    <string name="pref_flyme_title">Веб-сообщение</string>
     <string name="pref_messages_spam_title">Фильтр сообщений</string>
     <string name="pref_more_title">Ещё</string>
     <string name="pref_options_title">Чёрный список</string>
@@ -709,7 +744,6 @@
     <string name="pref_summary_pay_from_sms">Смарт-идентификация сценария SMS-оплаты</string>
     <string name="pref_summary_tms_spam_enable">Фильтр спам-сообщений</string>
     <string name="pref_title_default_message_app">SMS-приложение по умолчанию</string>
-    <string name="pref_title_flyme_message">Веб-сообщение</string>
     <string name="pref_title_key_manage_message_storage">Память веб-сообщений</string>
     <string name="pref_title_key_message_capacity">Хранилище сообщений</string>
     <string name="pref_title_larger_text_size">Крупный шрифт</string>
@@ -826,7 +860,6 @@
     <string name="sms_mms_failed_dialog_title_single">Ошибка отправки сообщения</string>
     <string name="sms_mms_failed_message_multi">%1$s получателей</string>
     <string name="sms_mms_failed_redeliver_title">Отправить снова</string>
-    <string name="sms_original">Оригинал</string>
     <string name="sns_attachment_picture">Картинка</string>
     <string name="sns_attachment_video">Видео</string>
     <string name="sns_attachment_voice">Передать аудио</string>
@@ -855,7 +888,7 @@
     <string name="tittle_china_mobile">Запрос</string>
     <string name="tittle_china_unicom">Запрос</string>
     <string name="toast_cannot_send_message">Отправка сообщений недоступна</string>
-    <string name="top">Показывать сверху</string>
+    <string name="top">Прикрепить сверху</string>
     <string name="touch_to_browse">Нажмите для просмотра</string>
     <string name="transaction_net_tip">Дальнейшая отправка расходует мобильный трафик</string>
     <string name="trash">Спам-сообщения</string>

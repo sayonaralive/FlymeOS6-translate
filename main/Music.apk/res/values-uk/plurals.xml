@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_count">
+        <item quantity="other">%d альб.</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="artist_count">
+        <item quantity="other">%d виконавц.</item>
+        <item quantity="one">1 виконавець</item>
+    </plurals>
+    <plurals name="delete_album_confirm">
+        <item quantity="other">Видалити альбомів: %1$d</item>
+        <item quantity="one">Видалити 1 альбом</item>
+    </plurals>
+    <plurals name="delete_artist_confirm">
+        <item quantity="other">Видалити виконавців: %1$d</item>
+        <item quantity="one">Видалити 1 виконавця</item>
+    </plurals>
+    <plurals name="delete_song_confirm">
+        <item quantity="other">Видалити пісень: %1$d</item>
+        <item quantity="one">Видалити 1 композицію</item>
+    </plurals>
+    <plurals name="delete_song_from_playlist_prompt">
+        <item quantity="other">Вилучити %1$d пісень і видалити локальні файли</item>
+        <item quantity="one">Вилучити 1 пісню і видалити локальний файл</item>
+    </plurals>
+    <plurals name="download_completed_count">
+        <item quantity="other">%d пісень завантажено</item>
+        <item quantity="one">1 пісня завантажена</item>
+    </plurals>
+    <plurals name="download_failed_count">
+        <item quantity="other">Не вдалося завантажити композиції: %d</item>
+        <item quantity="one">Не вдалося завантажити 1 композицію</item>
+    </plurals>
+    <plurals name="remove_song">
+        <item quantity="other">Видалити композиції: %1$d</item>
+        <item quantity="one">Вилучити 1 пісню</item>
+    </plurals>
+    <plurals name="song_item_count">
+        <item quantity="other">Композицій: %1$d</item>
+        <item quantity="one">1 композиція</item>
+    </plurals>
+</resources>
