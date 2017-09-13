@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mz_fp_management_count">
+        <item quantity="other">%1$d fingerprint(s) captured</item>
+        <item quantity="one">%1$d fingerprint(s) captured</item>
+    </plurals>
+</resources>

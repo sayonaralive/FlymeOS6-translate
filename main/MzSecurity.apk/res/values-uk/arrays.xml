@@ -47,13 +47,13 @@
         <item>Гру</item>
     </string-array>
     <string-array name="mc_custom_weekday">
-        <item>НД</item>
-        <item>ПН</item>
-        <item>ВТ</item>
-        <item>СР</item>
-        <item>ЧТ</item>
-        <item>ПТ</item>
-        <item>СБ</item>
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
     </string-array>
     <string-array name="mz_block_day_array">
         <item>Неділя</item>

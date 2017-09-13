@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mz_fp_management_count">
+        <item quantity="other">%1$d fingerprint(s) captured</item>
+        <item quantity="one">%1$d fingerprint(s) captured</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Unavailable under emergency callback mode. The phone will be in this mode for %s min(s). Exit now?</item>
+        <item quantity="one">Unavailable under emergency callback mode. The phone will be in this mode for %s min(s). Exit now?</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">The phone will be in emergency callback mode for %s min(s), during which no data-required app is available. Exit now?</item>
+        <item quantity="one">The phone will be in emergency callback mode for %s min(s), during which no data-required app is available. Exit now?</item>
+    </plurals>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">No mobile data for %s min(s)</item>
+        <item quantity="one">No mobile data for %s min(s)</item>
+    </plurals>
+</resources>

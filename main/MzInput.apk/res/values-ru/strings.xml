@@ -61,8 +61,11 @@
     <string name="guide_select_regular_keyboard">Выберите клавиатуру для ввода китайских иероглифов</string>
     <string name="happy_emoticons">Счастье</string>
     <string name="hkb_switch_message">Используйте [Shift + пробел] для переключения метода ввода.</string>
-    <string name="hkb_switch_message_ok">Ясно</string>
+    <string name="hkb_switch_message_ok">Понятно</string>
     <string name="hot_emoticons">Лучшее</string>
+    <string name="hw_mode_overlap">Перекрывающий почерк</string>
+    <string name="hw_mode_sentence">Фразовый ввод</string>
+    <string name="hw_mode_singlechar">Посимвольный ввод</string>
     <string name="ime_name">Системная клавиатура</string>
     <string name="kbd_back">Назад</string>
     <string name="key_cizu">Фраза</string>
@@ -130,6 +133,7 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_downloading_patch_prefix">Скачать файл обновления</string>
     <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
@@ -147,7 +151,7 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
-    <string name="mc_pm_allow_check_app">Разрешить</string>
+    <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -161,7 +165,7 @@
     <string name="mc_pm_location">Найти</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">Запретить</string>
+    <string name="mc_pm_not_allow_check_app">Выход</string>
     <string name="mc_pm_not_allow_dialog_push">Отключить</string>
     <string name="mc_pm_online_intenert">Интернет</string>
     <string name="mc_pm_open">Открыть</string>
@@ -185,7 +189,6 @@
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с</string>
-    <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -204,6 +207,8 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_allow">ОК</string>
+    <string name="mz_alway_allow">Разрешать всегда</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
@@ -211,6 +216,37 @@
     <string name="mz_date_time_sec">с</string>
     <string name="mz_date_time_year">г</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_pm_allow_check_app">ОК</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_call">телефонные вызовы</string>
+    <string name="mz_pm_call_log">чтение журнала вызовов</string>
+    <string name="mz_pm_camera">использование камеры</string>
+    <string name="mz_pm_close">Выкл.</string>
+    <string name="mz_pm_contacts">чтение контактов</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dlg_cancel">Отмена</string>
+    <string name="mz_pm_dlg_ok">ОК</string>
+    <string name="mz_pm_location">доступ к местоположению</string>
+    <string name="mz_pm_network">использование передачи данных</string>
+    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_not_allow_check_app">Выход</string>
+    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_online_intenert">доступ в интернет</string>
+    <string name="mz_pm_open">Вкл.</string>
+    <string name="mz_pm_r_mms">чтение MMS</string>
+    <string name="mz_pm_r_sms">чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">запись вызовов</string>
+    <string name="mz_pm_s_mms">отправка MMS</string>
+    <string name="mz_pm_s_sms">отправка SMS</string>
+    <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
+    <string name="mz_pm_wlan">доступ к Wi-Fi</string>
+    <string name="mz_reject">Выход</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
     <string name="mzuc_cancel">Отмена</string>
@@ -251,7 +287,7 @@
     <string name="panel_name_fr_azerty">AZERTY</string>
     <string name="panel_name_symbol_bottom_layout_back">Назад</string>
     <string name="panel_name_symbol_chinese">Кит.</string>
-    <string name="panel_name_symbol_common_use">Недавние</string>
+    <string name="panel_name_symbol_common_use">Недавн.</string>
     <string name="panel_name_symbol_emoction">Лица</string>
     <string name="panel_name_symbol_emoji">Смайл</string>
     <string name="panel_name_symbol_english">Англ.</string>
@@ -280,6 +316,7 @@
     <string name="setting_progress_message_clean">Удаление…</string>
     <string name="setting_progress_message_update">Обновление…</string>
     <string name="setting_summary_cloud">Онлайн-проверка на совпадения может увеличить скорость ввода</string>
+    <string name="setting_summary_hw_zhuyin">Показать фонетическую нотацию для верхнего рекомендуемого символа</string>
     <string name="setting_summary_pymohu">Автоисправление нестандартной орфографии</string>
     <string name="setting_summary_space">Только для латинской раскладки</string>
     <string name="setting_summary_voice_cantonese">Кантонский</string>
@@ -298,13 +335,17 @@
     <string name="setting_title_dictionary">Управление словарем</string>
     <string name="setting_title_en_predict">Английский предиктивный</string>
     <string name="setting_title_en_predict_auto_space">Автодобавление пробела</string>
+    <string name="setting_title_hand_writing">Почерк</string>
+    <string name="setting_title_hand_writing_zhuyin">Рукописная фонетическая запись</string>
     <string name="setting_title_key_vibration">Виброотклик клавиш</string>
+    <string name="setting_title_landscape_recognition_mode">Режим распознавания пейзажа</string>
     <string name="setting_title_manager_shortscut_dict">Быстрый словарь</string>
     <string name="setting_title_more">Ещё</string>
+    <string name="setting_title_pen">Толщина пера</string>
+    <string name="setting_title_portrait_recognition_mode">Режим распознавания портрета</string>
     <string name="setting_title_select_input_method">Выбрать метод ввода</string>
     <string name="setting_title_select_others">Иные методы ввода</string>
     <string name="setting_title_update">Обновить общий словарь</string>
-    <string name="setting_title_valid_dicts">Способ ввода</string>
     <string name="setting_title_voice">Голосовой ввод</string>
     <string name="setting_title_voice_input">Язык голосового ввода</string>
     <string name="setting_toast_clean_fail">Ошибка очистки словаря пользователя</string>
@@ -334,6 +375,8 @@
     <string name="skb_key_cancel_voice">Отмена</string>
     <string name="skb_key_delete_voice">Удалить</string>
     <string name="speechless_emoticons">Молчаливый</string>
+    <string name="txt_leftlabel_stroke_width">Тонкий</string>
+    <string name="txt_rightlabel_stroke_width">Толстый</string>
     <string name="voice_enter_name_idle">Ввод</string>
     <string name="voice_error_audio">Ошибка записи.</string>
     <string name="voice_error_client">Ошибка распознания голоса на стороне клиента.</string>
@@ -377,4 +420,5 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
+    <string name="setting_title_valid_dicts">Способ ввода</string>
 </resources>

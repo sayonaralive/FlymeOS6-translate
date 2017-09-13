@@ -1,47 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="show_dev_countdown">
-        <item quantity="other">Вы почти у цели. Осталось несколько шагов (%1$d).</item>
-        <item quantity="one">Вы почти у цели. Осталось несколько шагов (%1$d).</item>
+    <plurals name="mz_fp_management_count">
+        <item quantity="other">Настроено отпечатков: %1$d</item>
+        <item quantity="one">Настроено отпечатков: %1$d</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Длинная задержка (%1$d мсек.)</item>
+        <item quantity="one">Длинная задержка (%1$d мсек.)</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"Администратор домена %s установил сертификаты ЦС на вашем устройстве. Это позволяет ему отслеживать ваши действия в сети, включая использование электронной почты и приложений, а также просмотр веб-сайтов.
+
+За дополнительной информацией обращайтесь к администратору."</item>
+        <item quantity="one">"Администратор домена %s установил сертификаты ЦС на вашем устройстве. Это позволяет ему отслеживать ваши действия в сети, включая использование электронной почты и приложений, а также просмотр веб-сайтов.
+
+За дополнительной информацией обращайтесь к администратору."</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">Экономия заряда батареи отключена для %d прил.</item>
+        <item quantity="one">Экономия заряда батареи отключена для %d прил.</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Предоставлены %1$d разреш. из %2$d</item>
+        <item quantity="one">Предоставлено %1$d разреш. из %2$d</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Показывать уведомления запрещено %d прил.</item>
+        <item quantity="one">Показывать уведомления запрещено %d прил.</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d прил. могут без ограничений передавать данные в режиме экономии трафика</item>
+        <item quantity="one">1 прил. может без ограничений передавать данные в режиме экономии трафика</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Пароль должен содержать буквы (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы одну букву.</item>
+        <item quantity="other">Пароль должен содержать не менее %d букв.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 букву.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Установлено отпечатков: %1$d </item>
+        <item quantity="one">Установлено отпечатков: %1$d</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Максимально короткая задержка (%1$d мсек.)</item>
+        <item quantity="one">Максимально короткая задержка (%1$d мсек.)</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Подтвердить или удалить сертификаты</item>
+        <item quantity="one">Подтвердить или удалить сертификат</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Пароль должен содержать строчные буквы (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы одну строчную букву.</item>
+        <item quantity="other">Пароль должен содержать не менее %d букв нижнего регистра.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 букву нижнего регистра.</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы одну заглавную букву.</item>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Очень короткая задержка (%1$d мсек.)</item>
+        <item quantity="one">Очень короткая задержка (%1$d мсек.)</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Пароль должен содержать цифры (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы одну цифру.</item>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Короткая задержка (%1$d мсек.)</item>
+        <item quantity="one">Короткая задержка (%1$d мсек.)</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Пароль должен содержать специальные символы (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы один специальный символ.</item>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">В течение %1$d минут до %2$s активны только напоминания и будильник.</item>
+        <item quantity="one">В течение %1$d минуты до %2$s активны только напоминания и будильник.</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы один небуквенный символ.</item>
-    </plurals>
-    <plurals name="wrong_pin_code">
-        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
-        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и вам придётся обратиться к оператору связи.</item>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">В течение %1$d часов до %2$s активны только напоминания и будильник.</item>
+        <item quantity="one">В течение %1$d часа до %2$s активны только напоминания и будильник.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Приложений с доступом к уведомлениям: %d</item>
-        <item quantity="one">Приложений с доступом к уведомлениям: %d</item>
+        <item quantity="other">%d прил. имеют доступ к уведомлениям</item>
+        <item quantity="one">%d прил. имеет доступ к уведомлениям</item>
     </plurals>
-    <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">%d приложение задаёт условия</item>
-        <item quantity="one">%d приложение задаёт условия</item>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Нажмите ещё %1$d раз(а) чтобы войти в режим разработчика</item>
+        <item quantity="one">Нажмите ещё %1$d раз(а) чтобы войти в режим разработчика</item>
     </plurals>
-    <plurals name="mz_fp_management_count">
-        <item quantity="other">Отпечатки: %1$d</item>
-        <item quantity="one">Отпечатки: %1$d</item>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль должен содержать не менее %d небуквенных символа.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 небуквенный символ.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Предоставлено %d разреш.</item>
+        <item quantity="one">Предоставлено %d разреш.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"Администратор домена %s установил сертификаты ЦС для рабочего профиля. Это позволяет ему отслеживать ваши действия в рабочей сети, включая использование электронной почты и приложений, а также просмотр веб-сайтов.
+
+За дополнительной информацией обращайтесь к администратору."</item>
+        <item quantity="one">"Администратор домена %s установил сертификаты ЦС для рабочего профиля. Это позволяет ему отслеживать ваши действия в рабочей сети, включая использование электронной почты и приложений, а также просмотр веб-сайтов.
+
+За дополнительной информацией обращайтесь к администратору."</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">Задания печати: %d</item>
+        <item quantity="one">Задания печати: 1 </item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать не менее %d цифр.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 цифру.</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Очень длинная задержка  (%1$d мсек.)</item>
+        <item quantity="one">Очень длинная задержка (%1$d мсек.)</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Проверить серт.</item>
+        <item quantity="one">Проверить серт.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать не менее %d символов.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 символ.</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">За %2$s память использовали %1$d прил.</item>
+        <item quantity="one">За %2$s память использовало %1$d прил.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать не менее %d букв верхнего регистра.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 букву верхнего регистра.</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Ещё %d разреш.</item>
+        <item quantity="one">Ещё %d разреш.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код SIM-карты. Осталось попыток: %d</item>
+        <item quantity="one">Неверный PIN-код SIM-карты. Осталось попыток: %d. После этого, вам потребуется обратится к оператору сот. связи для разблокировки устройства</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d разреш.</item>
+        <item quantity="one">1 разреш.</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Удалить все выбранные языки?</item>
+        <item quantity="one">Удалить все выбранные языки?</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d прил. могут открывать поддерживаемые ссылки</item>
+        <item quantity="one">1 прил. может открывать поддерживаемые ссылки</item>
     </plurals>
 </resources>

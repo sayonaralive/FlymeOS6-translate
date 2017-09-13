@@ -10,27 +10,29 @@
     <string name="mc_collected_message">Статус избранного</string>
     <string name="mc_custom_date_time_gregorian">Григор.</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
-    <string name="mc_date_time_day">д</string>
-    <string name="mc_date_time_month">м</string>
-    <string name="mc_date_time_sec">с</string>
+    <string name="mc_date_time_day">д.</string>
+    <string name="mc_date_time_hour">ч.</string>
+    <string name="mc_date_time_min">м.</string>
+    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
-    <string name="mc_description_target_answer">Правильный вариант</string>
+    <string name="mc_date_time_year">г.</string>
+    <string name="mc_description_target_answer">Принять</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
     <string name="mc_every_day">Ежедневно</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
-    <string name="mc_hour">ч</string>
+    <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_last_refresh">Последнее обновление</string>
-    <string name="mc_last_refresh_hour">" ч. назад"</string>
+    <string name="mc_last_refresh_hour">ч. назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
-    <string name="mc_last_refresh_second">сек. назад</string>
+    <string name="mc_last_refresh_minute">м. назад</string>
+    <string name="mc_last_refresh_second">с. назад</string>
     <string name="mc_loading_animation_alert">Сохранить</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м</string>
+    <string name="mc_minute">м.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Разрешения</string>
@@ -72,7 +74,7 @@
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="mc_second">с</string>
+    <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
@@ -86,12 +88,10 @@
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">ОК</string>
     <string name="more_item_label">Ещё</string>
-    <string name="mc_date_time_hour">ч</string>
-    <string name="mc_date_time_min">м</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, м. назад</string>
     <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
@@ -103,18 +103,20 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
+    <string name="mc_pm_recordaudio_local_pad">Запись звука</string>
+    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
     <string name="alwaysUse">По умолчанию для этого действия</string>
     <string name="date_time_set">Установить</string>
-    <string name="mz_date_time_day">д</string>
-    <string name="mz_date_time_hour">ч</string>
-    <string name="mz_date_time_min">м</string>
-    <string name="mz_date_time_month">м</string>
-    <string name="mz_date_time_sec">с</string>
-    <string name="mz_date_time_year">г</string>
+    <string name="mz_date_time_day">д.</string>
+    <string name="mz_date_time_hour">ч.</string>
+    <string name="mz_date_time_min">м.</string>
+    <string name="mz_date_time_month">м.</string>
+    <string name="mz_date_time_sec">с.</string>
+    <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
-    <string name="mz_wif_setting_dialog_set">Установить</string>
-    <string name="app_name">Интерфейс</string>
+    <string name="mz_wif_setting_dialog_message">Нет подключения к сети. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_set">Настроить</string>
     <string name="mzuc_cancel">Отменить</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
@@ -142,6 +144,10 @@
     <string name="mzuc_update_title_s" formatted="false">%s V%s версия</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
+    <string name="lock_month_day">MMMM d</string>
+    <string name="lock_week">yyyy MMMM d (cccc)</string>
+    <string name="mz_date_format">cccc, MMMM d</string>
+    <string name="app_name">Доп. интерфейс</string>
     <string name="notification_reply">Ответить</string>
     <string name="notification_reply_send">Отправить</string>
     <string name="wechat_message_type_voice">[Аудио]</string>
@@ -150,30 +156,6 @@
     <string name="wechat_oauth_cancel">Авторизация отменена</string>
     <string name="wechat_sending_failed_title">Одно неотправленное сообщение</string>
     <string name="wechat_sending_failed_text">Содержимое скопировано в буфер обмена. Пожалуйста, вставьте и отправьте снова.</string>
-    <string name="screenshot_text_cancel">Отмена</string>
-    <string name="screenshot_text_share">Передать</string>
-    <string name="screenshot_text_save">Сохранить</string>
-    <string name="screenshot_text_load">Загрузка…</string>
-    <string name="screenshot_text_commit">Готово</string>
-    <string name="screenshot_text_scrolltocapture">Выполните прокрутку вверх или вниз, чтобы сделать длинный скриншот</string>
-    <string name="screenshot_text_noscroll">Нельзя сделать длинный скриншот на этом экране</string>
-    <string name="screenshot_text_nomore">Нет больше контента</string>
-    <string name="screenshot_text_startscrollcapture">Длинный скриншот</string>
-    <string name="screenshot_text_known">Понятно</string>
-    <string name="screenshot_text_guide">Длительное нажатие на клавишу питания и клавишу регулировки громкости для скриншота</string>
-    <string name="screenshot_text_edit">Изменить</string>
-    <string name="screenshot_text_edit_shape">Форма</string>
-    <string name="screenshot_text_edit_brush">Кисть</string>
-    <string name="screenshot_text_edit_text">Текст</string>
-    <string name="screenshot_text_edit_mosaic">Мозаика</string>
-    <string name="screenshot_text_edit_undo">Назад</string>
-    <string name="screenshot_text_edit_drag">Сведите два пальца, чтобы панорамировать изображение</string>
-    <string name="screenshot_text_reach_max">Достигнута максимальная длина</string>
-    <string name="screenrecord_text_start">Старт</string>
-    <string name="screenrecord_text_stop">Стоп</string>
-    <string name="screenrecord_saved_title">Запись экрана</string>
-    <string name="screenrecord_saved_text_min">" мин"</string>
-    <string name="screenrecord_saved_text_s">  сек</string>
     <string name="first_page_text1">Элегантность и интеллект</string>
     <string name="first_page_text2">Безопасность и простота в использовании</string>
     <string name="enjoy_text1">200 новых анимаций</string>
@@ -193,4 +175,29 @@
     <string name="security_innovation">Инновации безопасности</string>
     <string name="security_innovation_content">"Интернет-сёрфинг, коммуникации и т.д.          
 Всё под вашим полным контролем"</string>
+    <string name="screenshot_text_edit_drag">Сведите два пальца, чтобы панорамировать изображение</string>
+    <string name="screenshot_text_edit_shape">Форма</string>
+    <string name="screenshot_text_share">Передать</string>
+    <string name="screenshot_text_nomore">Нет больше контента</string>
+    <string name="screenshot_text_save">Сохранить</string>
+    <string name="screenshot_text_scrolltocapture">Выполните прокрутку вверх или вниз, чтобы сделать длинный скриншот</string>
+    <string name="screenshot_text_load">Загрузка…</string>
+    <string name="screenshot_text_guide">Длительное нажатие на клавишу питания и клавишу регулировки громкости для скриншота</string>
+    <string name="screenshot_text_reach_max">Достигнута максимальная длина</string>
+    <string name="screenshot_text_edit">Изменить</string>
+    <string name="screenshot_text_edit_mosaic">Мозаика</string>
+    <string name="screenrecord_saved_title">Запись экрана</string>
+    <string name="screenrecord_text_stop">Стоп</string>
+    <string name="screenrecord_saved_text_min">мин.</string>
+    <string name="screenrecord_saved_text_s">сек.</string>
+    <string name="screenshot_text_startscrollcapture">Длинный скриншот</string>
+    <string name="screenshot_text_known">Понятно</string>
+    <string name="screenshot_text_edit_text">Текст</string>
+    <string name="screenshot_text_edit_undo">Назад</string>
+    <string name="screenshot_text_commit">Готово</string>
+    <string name="screenshot_text_noscroll">Невозможно создать длинный скриншот на данном экране</string>
+    <string name="screenrecord_text_start">Старт</string>
+    <string name="screenshot_text_edit_brush">Кисть</string>
+    <string name="screenshot_text_cancel">Отмена</string>
+    <string name="theme_loading">Подготавливаем Flyme дя вас...</string>
 </resources>

@@ -49,8 +49,8 @@
     <string-array name="luckymoney_sound_name">
         <item>Звук 1</item>
         <item>Звук 2</item>
-        <item>Золото</item>
-        <item>Звук 7</item>
+        <item>Звук 3 (Монеты)</item>
+        <item>Звук 4</item>
         <item>Без звука</item>
     </string-array>
 </resources>

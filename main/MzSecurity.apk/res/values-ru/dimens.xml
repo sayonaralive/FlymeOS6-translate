@@ -3,5 +3,4 @@
     <dimen name="tab_text_size">15.0sp</dimen>
     <dimen name="titlebar_tab_first_margin">0.0dip</dimen>
     <dimen name="titlebar_tab_padding">5.0dip</dimen>
-	<dimen name="mc_selection_button_text_size">11.0dip</dimen>
 </resources>

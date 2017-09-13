@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_item_selected">
+        <item quantity="other">%1$d жазбаны жою</item>
+        <item quantity="one">1 жазбаны жою</item>
+    </plurals>
+</resources>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(unspecified)</item>
+        <item>SIM Slot 1</item>
+        <item>SIM Slot 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_cmcc_auto">
+        <item>PEAP</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_proxy_options">
+        <item>Manual</item>
+        <item>Proxy Auto-Config</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Poor</item>
+        <item>Fair</item>
+        <item>Good</item>
+        <item>Strong</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing...</item>
+        <item>Connecting...</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>Failed</item>
+        <item>Waiting for reconnection...</item>
+    </string-array>
+    <string-array name="vpn_states_ext_mtpd_exit">
+        <item>System error</item>
+        <item>Network error</item>
+        <item>Protocol error</item>
+        <item>L2pt challenge failed</item>
+        <item>MTP connection failed, please retry</item>
+        <item>Disconnected by server, please check the username and password</item>
+        <item>Protocol is not compatible</item>
+        <item>Failed to get the server address</item>
+        <item>Failed to connect to the server (VPN service not supported by server)</item>
+    </string-array>
+    <string-array name="vpn_states_ext_pppd_exit">
+        <item>Fatal error</item>
+        <item>Option error</item>
+        <item>Must be root to run PPP</item>
+        <item>No kernel support</item>
+        <item>PPP connection failed, please retry</item>
+        <item>Failed to lock device file</item>
+        <item>Failed to open device file</item>
+        <item>Failed</item>
+        <item>Failed</item>
+        <item>Authentication failure</item>
+        <item>Server refused to authenticate: link terminated</item>
+        <item>Connection terminated due to lack of activity.</item>
+        <item>Connection timeout</item>
+        <item>Failed</item>
+        <item>The server is not responding</item>
+        <item>Unknown error</item>
+        <item>Loopback detected</item>
+        <item>Failed</item>
+        <item>Authentication failed: please check username and password</item>
+        <item>Exceeds data limit</item>
+        <item>Failed</item>
+    </string-array>
+    <string-array name="smart_touch_behavior_click_entries">
+        <item>Close</item>
+        <item>Back</item>
+    </string-array>
+    <string-array name="smart_touch_behavior_click_values">
+        <item>-1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="smart_touch_behavior_doubleclick_entries">
+        <item>Close</item>
+        <item>Pull down screen</item>
+        <item>Unfold notification bar</item>
+        <item>Lock screen</item>
+        <item>Launch task manager</item>
+    </string-array>
+    <string-array name="smart_touch_behavior_long_entries">
+        <item>Close</item>
+        <item>Move</item>
+    </string-array>
+    <string-array name="smart_touch_behavior_up_entries">
+        <item>Close</item>
+        <item>Back to Home screen</item>
+        <item>Lock screen</item>
+        <item>End current process</item>
+        <item>Launch task manager</item>
+        <item>Open menu</item>
+    </string-array>
+    <string-array name="smart_touch_behavior_down_entries">
+        <item>Close</item>
+        <item>Unfold notification bar</item>
+        <item>Screen suspending</item>
+        <item>Lock screen</item>
+        <item>End current process</item>
+    </string-array>
+    <string-array name="smart_touch_behavior_left_right_entries">
+        <item>Close</item>
+        <item>Switch between tasks</item>
+    </string-array>
+    <string-array name="home_key_behavior_entries">
+        <item>Activate Smart Voice</item>
+        <item>Turn off the screen</item>
+    </string-array>
+    <string-array name="wakeupType_entries">
+        <item>Double tap</item>
+        <item>Slide up (using more power)</item>
+    </string-array>
+    <string-array name="batteryMode_entries">
+        <item>Saving</item>
+        <item>Balance</item>
+        <item>Performance</item>
+    </string-array>
+    <string-array name="blur_effect_entries">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="entries_meizu_app_font_size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Middle</item>
+        <item>Large</item>
+        <item>Extra large</item>
+    </string-array>
+    <string-array name="mz_screen_timeout_entries">
+        <item>30 secs</item>
+        <item>1 minute</item>
+        <item>2 mins</item>
+        <item>5 mins</item>
+        <item>10 minutes</item>
+        <item>30 mins</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_simple_mrvl">
+        <item>2G only</item>
+        <item>3G first</item>
+        <item>4G first</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_mtk_ct_4g">
+        <item>3G first</item>
+        <item>4G first</item>
+    </string-array>
+    <string-array name="preferred_network_mode_options_cmcc">
+        <item>4G/3G/2G (auto)</item>
+        <item>3G/2G (auto)</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_simple">
+        <item>Auto</item>
+        <item>2G only</item>
+        <item>3G only</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_simple_unicom">
+        <item>Auto</item>
+        <item>2G only</item>
+    </string-array>
+    <string-array name="cap_performance_time_entries">
+        <item>5s</item>
+        <item>8s</item>
+        <item>10s</item>
+    </string-array>
+    <string-array name="keyboard_back_behavior_entries">
+        <item>Disable keyboard only</item>
+        <item>Disable keyboard and return</item>
+    </string-array>
+    <array name="app_wakeup_permission" />
+    <array name="app_standby_permission" />
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting…</item>
+        <item>Authenticating...</item>
+        <item>Obtaining IP address...</item>
+        <item>Connected</item>
+        <item>Suspended</item>
+        <item>Disconnecting...</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting to %1$s...</item>
+        <item>Authenticating with %1$s...</item>
+        <item>Obtaining IP address from %1$s...</item>
+        <item>Connected to %1$s</item>
+        <item>Suspended</item>
+        <item>Disconnecting from %1$s...</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Never check</item>
+        <item>Check for DRM content only</item>
+        <item>Always check</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Never use HDCP checking</item>
+        <item>Use HDCP checking for DRM content only</item>
+        <item>Always use HDCP checking</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Off</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>None</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>None</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standard limit</item>
+        <item>No background processes</item>
+        <item>At most 1 process</item>
+        <item>At most 2 processes</item>
+        <item>At most 3 processes</item>
+        <item>At most 4 processes</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Charging</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+</resources>
