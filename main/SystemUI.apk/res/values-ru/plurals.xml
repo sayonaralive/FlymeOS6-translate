@@ -12,4 +12,16 @@
         <item quantity="other">Неверный PUK-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована навсегда.</item>
         <item quantity="one">Неверный PUK-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована навсегда.</item>
     </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"Устройство не было разблокировано в течении %d ч. Подтвердите граф. ключ."</item>
+        <item quantity="one">"Устройство не было разблокировано в течении %d ч. Подтвердите граф. ключ"</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"Устройство не было разблокировано в течении %d ч. Подтвердите PIN-код."</item>
+        <item quantity="one">"Устройство не было разблокировано в течении %d ч. Подтвердите PIN-код."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"Устройство не было разблокировано в течении %d ч. Подтвердите пароль."</item>
+        <item quantity="one">"Устройство не было разблокировано в течении %d ч. Подтвердите пароль."</item>
+    </plurals>
 </resources>
