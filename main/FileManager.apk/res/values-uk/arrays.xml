@@ -33,21 +33,21 @@
         <item>30</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
-        <item>Янв</item>
-        <item>Фев</item>
-        <item>Мар</item>
-        <item>Апр</item>
-        <item>Май</item>
-        <item>Июн</item>
-        <item>Июл</item>
-        <item>Авг</item>
-        <item>Сен</item>
-        <item>Окт</item>
-        <item>Ноя</item>
-        <item>Дек</item>
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Квi</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
     </string-array>
     <string-array name="mc_custom_weekday">
-        <item>Вс</item>
+        <item>Нд</item>
         <item>Пн</item>
         <item>Вт</item>
         <item>Ср</item>

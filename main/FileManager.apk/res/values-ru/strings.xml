@@ -29,6 +29,7 @@
     <string name="apk_uninstalled_tip">не устан.</string>
     <string name="app_name">Проводник</string>
     <string name="before_month">Месяц назад</string>
+    <string name="being_restore">Восстановление</string>
     <string name="big5_summary">Трад. китайский по умолчанию в Windows</string>
     <string name="big5_title">BIG5</string>
     <string name="cancel">Отмена</string>
@@ -42,7 +43,9 @@
     <string name="choice_tab_recently">Недавние</string>
     <string name="choice_toolbar_title">Выбрать файл</string>
     <string name="choose_file_add_tips">Добавить</string>
+    <string name="choose_folder_toolbar_title">Выбор папки</string>
     <string name="cleaner">Очистка</string>
+    <string name="close">Закрыть</string>
     <string name="close_wifi_share_device_name">Имя пользователя:</string>
     <string name="close_wifi_share_title">Передача файлов включена</string>
     <string name="close_wifi_share_wifi_ip">IP:</string>
@@ -57,7 +60,7 @@
     <string name="connect_server_text">Подключение к серверу</string>
     <string name="connect_text">Подключить</string>
     <string name="content_text" formatted="false">%s папок, %s файлов</string>
-    <string name="content_title">Содержимое:</string>
+    <string name="content_title">"Содержимое: "</string>
     <string name="copy_to_here">Вставить</string>
     <string name="copying">Копирование</string>
     <string name="date_am">АМ</string>
@@ -90,6 +93,7 @@
     <string name="err_create_fold">Ошибка создания</string>
     <string name="err_delete">Ошибка удаления</string>
     <string name="err_move">Ошибка перемещения</string>
+    <string name="err_restore">Сбой восстановления</string>
     <string name="err_samba_upload">Ошибка загрузки</string>
     <string name="err_save">Ошибка сохранения</string>
     <string name="error_file_path">Недопустимый файл</string>
@@ -109,6 +113,10 @@
     <string name="extracting">Распаковка</string>
     <string name="fasfolder_count">Папок: %s</string>
     <string name="fast_folder">Избранное</string>
+    <string name="fast_folder_add_page_title">Добавить папку</string>
+    <string name="fast_folder_item_add_text">Добавить</string>
+    <string name="fast_folder_item_all_title">Все папки</string>
+    <string name="fast_folder_manager_text">Управление</string>
     <string name="fastfolder_count">Удаление избранных папок: %s</string>
     <string name="fastfolder_delete">Удалено из избранного</string>
     <string name="file_count">%s файл(ов)</string>
@@ -158,15 +166,17 @@
     <string name="hint_user">Имя пользователя</string>
     <string name="home_recently_file">Файлы</string>
     <string name="home_recently_no_result">Нет файлов</string>
+    <string name="home_setting_goto_recycled_title">Корзина</string>
     <string name="home_setting_recently_header_title">Настройки скрытых файлов</string>
     <string name="home_setting_recently_no_result">Нет скрытых приложений или папок</string>
     <string name="home_setting_recently_source_menu_title">Скрыть приложения и папки</string>
     <string name="home_setting_recently_source_summary">Убрать из Недавнего</string>
     <string name="home_setting_recently_source_title">Скрыть это приложение/папку</string>
-    <string name="home_setting_recently_summary">Когда отключено скрытие файлов, файлы, созданные в этом приложении или папке будут отображаться в Недавних.</string>
-    <string name="home_setting_recently_title">Управление скрытым ПО/папками</string>
-    <string name="home_setting_security_summary">Когда иконка скрыта, нажмите дважды на это место для входа в хранилище</string>
-    <string name="home_setting_security_title">Скрыть значок хранилища</string>
+    <string name="home_setting_recently_summary">Когда отключено скрытие файлов, файлы, созданные в этом приложении или папке будут отображаться в \"Недавнем\"</string>
+    <string name="home_setting_recently_title">Скрытое ПО и папки</string>
+    <string name="home_setting_recycled_summary">Когда включено, файл менее 500 МБ будет храниться в системной памяти в течение 15 дней после удаления и может быть восстановлен в течение этого периода</string>
+    <string name="home_setting_security_summary">Когда иконка скрыта, нажмите дважды на это место для входа в Хранилище</string>
+    <string name="home_setting_security_title">Скрыть значок Хранилища</string>
     <string name="image_info">Детали изображения</string>
     <string name="image_unit">" "</string>
     <string name="image_unit_plural">" "</string>
@@ -258,7 +268,6 @@
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с</string>
-    <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -278,7 +287,7 @@
     <string name="menu_delete_title">"Удалить "</string>
     <string name="menu_detail_title">Детали</string>
     <string name="menu_download_title">Загрузка</string>
-    <string name="menu_encrypt_to_security_new_title">Отправить в хранилище</string>
+    <string name="menu_encrypt_to_security_new_title">Отправить в Хранилище</string>
     <string name="menu_encrypt_to_security_title">Зашифровать</string>
     <string name="menu_mkdir_title">Новая папка</string>
     <string name="menu_move_out_security_title">Убрать из хранилища</string>
@@ -290,6 +299,9 @@
     <string name="menu_save_title">Сохранить</string>
     <string name="menu_share_limit_text">Вы можете передать до 100 файлов</string>
     <string name="menu_share_title">Передать</string>
+    <string name="menu_text_delete_completely">Удалить полностью</string>
+    <string name="menu_text_restore">Восстановление</string>
+    <string name="menu_text_restore_to_here">Восстан. сюда</string>
     <string name="menu_tip_delete">"Удалить "</string>
     <string name="menu_tip_refresh">Обновить</string>
     <string name="menu_to_search_title">Поиск</string>
@@ -298,9 +310,9 @@
     <string name="menu_wifi_share_title">Передать в сетевое окружение</string>
     <string name="menu_wifi_unshare_title">Отмена передачи</string>
     <string name="menu_zip_title">Архивировать</string>
-    <string name="minute_before">%s мин. назад</string>
+    <string name="minute_before">%s мин. Назад</string>
     <string name="mkdir_dialog_title">Новая папка</string>
-    <string name="modify_time_title">Изменено:  </string>
+    <string name="modify_time_title">"Изменено: "</string>
     <string name="more">Ещё</string>
     <string name="more_item_label">Ещё</string>
     <string name="move2safe_success">Перемещено в \"%s\"</string>
@@ -391,6 +403,7 @@
     <string name="nearly_week">Около недели</string>
     <string name="network_neighborhood">Сетевое окружение</string>
     <string name="no_available_network">Нет доступных сетей. Подключитесь и попробуйте снова</string>
+    <string name="no_folder_result_view_title">Нет папок</string>
     <string name="no_privacy_file_tips_1">Нет личных файлов</string>
     <string name="no_privacy_file_tips_2">Длительное нажатие для выбора файлов и установки в качестве личного</string>
     <string name="no_result">Пустая папка</string>
@@ -416,6 +429,7 @@
     <string name="otg_remove_tips">Отключить внешний накопитель %s?</string>
     <string name="others_display_name">Другое</string>
     <string name="password_charset">Неверный пароль. Введите буквы, цифры или знаки подчёркивания.</string>
+    <string name="path_title">"Путь: "</string>
     <string name="permision_dialog_message">Приложению необходимо получить доступ к Интернету, чтобы сгенерировать ярлыки папок сторонних приложений</string>
     <string name="photo_count">%s изображ.</string>
     <string name="photo_yesterday_des">Вчера</string>
@@ -427,7 +441,7 @@
     <string name="privacy_item_photo_title">Личные фотографии</string>
     <string name="privacy_item_video_title">Личное видео</string>
     <string name="progress_title_tips">В процессе…</string>
-    <string name="ptr_go_Refreshing">Отпустите для обновления</string>
+    <string name="ptr_go_Refreshing">Отпустить для обновления</string>
     <string name="ptr_is_Refreshing">Загрузка</string>
     <string name="ptr_last_refresh">Последнее обновление</string>
     <string name="ptr_last_refresh_hour">ч назад</string>
@@ -437,6 +451,8 @@
     <string name="ptr_pull_refresh">Потянуть вниз для обновления</string>
     <string name="recently_display_name">Недавние</string>
     <string name="recently_no_result">Нет недавних файлов</string>
+    <string name="recycled">Корзина</string>
+    <string name="recycled_actionbar_title">Корзина</string>
     <string name="remember_password">Запомнить пароль</string>
     <string name="remote_display_name">Удалённое управление</string>
     <string name="remove_privacy_menu_text">Не личное</string>
@@ -506,16 +522,25 @@
     <string name="storage_display_name">Локальные файлы</string>
     <string name="storage_warning">Внешний накопитель недоступен.</string>
     <string name="switch_view">Переключить вид</string>
+    <string name="text_begin_refresh">Отпустите для начала сканирования</string>
+    <string name="text_complete_refresh">Обновлено</string>
+    <string name="text_dialog_message">Когда выключено, помещённый в корзину файл будет удалён насовсем</string>
+    <string name="text_dialog_title">Закрыть корзину?</string>
+    <string name="text_etc">и т.д.</string>
+    <string name="text_pull_refresh">Потянуть вниз для обновления</string>
+    <string name="text_refresh">Обновление</string>
+    <string name="text_restore_success">Восстановлено в \"%s</string>
     <string name="time">Время</string>
     <string name="tip_dialog_wifi_not_connected">Нет подключения к сети. Проверьте настройки</string>
     <string name="tip_fail_connect">Ошибка соединения</string>
     <string name="tip_need_set_password">Шифрование файлов требует установки пароля</string>
-    <string name="tip_unset_password">Пароль для хранилища не установлен</string>
+    <string name="tip_unset_password">Установите пароль для Хранилища</string>
     <string name="tip_wifi_connecting">Подключение</string>
     <string name="tip_wifi_loading">Чтение данных</string>
     <string name="tip_wifi_not_connected">Нет подключения к сети. Нажмите для настройки</string>
     <string name="tip_zip_fail">Ошибка сжатия</string>
     <string name="title">Файлы</string>
+    <string name="title_delete_dialog">Файлы размером более 500 МБ не будут помещаться в корзину</string>
     <string name="today">Сегодня</string>
     <string name="type_dir">Папки</string>
     <string name="unacceptable_char">"Имя файла не может содержать спецсимволы |\\/:*?\"&lt;>'"</string>
@@ -537,38 +562,15 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
-    <string name="being_restore">Восстанавливается</string>
-    <string name="close">Закрыть</string>
-    <string name="date_format_12_date">d.M.yyyy</string>
-    <string name="date_format_12_date_current_year">d MMMM</string>
-    <string name="date_format_12_time">hh:mm</string>
-    <string name="date_format_24">d.M.yyyy HH:mm</string>
-    <string name="err_restore">Восстановить не удалось</string>
-    <string name="home_recently_source_title" formatted="false">%s из %s:</string>
-    <string name="home_setting_goto_recycled_title">Корзина</string>
-    <string name="home_setting_recycled_summary">После включения корзины, файлы размером менее 500 Мб будут удалены и в течении 15 дней могут быть восстановлены</string>
-    <string name="menu_text_delete_completely">Удалить навсегда</string>
-    <string name="menu_text_restore">Восстановить</string>
-    <string name="menu_text_restore_to_here">Восстановить здесь</string>
-    <string name="recycled">Корзина</string>
-    <string name="recycled_actionbar_title">Корзина</string>
-    <string name="text_dialog_message">После отключения корзины недавно удаленные файлы будут удалены навсегда</string>
-    <string name="text_dialog_title">Отключить корзину?</string>
-    <string name="text_etc">и т.д.</string>
-    <string name="text_restore_success">Восстановить в “%s”</string>
-    <string name="title_delete_dialog">Файлы размером более 500 Мб не будут помещаться в корзину</string>
-    <string name="b_unit">б</string>
-    <string name="back_button_label">Назад</string>
-    <string name="gb_unit">Гб</string>
-    <string name="kb_unit">Кб</string>
-    <string name="mb_unit">Мб</string>
-    <string name="mc_action_settings">Настройки</string>
-    <string name="next_button_label">Дальше</string>
-    <string name="security_tip_file_name_international">*Зашифрованная папка, не удаляйте*</string>
-    <string name="security_upgrade_failed_folder_name_international">Зашифрованные файлы не обновлены</string>
-    <string name="skip_button_label">Пропустить</string>
-    <string name="tb_unit">Тб</string>
-    <string name="test_text">тест</string>
 </resources>

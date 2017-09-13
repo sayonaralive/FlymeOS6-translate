@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="system_ringtone_name_list">
+        <item>Piano</item>
+        <item>Digital</item>
+        <item>Flyme</item>
+        <item>Music box</item>
+        <item>Technology</item>
+        <item>Guitar</item>
+        <item>Marimba</item>
+        <item>Naughty</item>
+        <item>Crystal</item>
+        <item>Progress</item>
+        <item>The kittens</item>
+        <item>Morning song</item>
+        <item>Call of love</item>
+        <item>Tumbler</item>
+        <item>Journey begins</item>
+        <item>New life</item>
+        <item>Heartbeat</item>
+        <item>East ville memory</item>
+        <item>Waltz</item>
+        <item>The cantor</item>
+        <item>Passion</item>
+        <item>Journey</item>
+        <item>Game</item>
+        <item>Rain dance</item>
+        <item>Twilight dance</item>
+        <item>Foredawn</item>
+        <item>Home</item>
+        <item>Blues</item>
+        <item>Dash</item>
+        <item>Mechanical ringtone</item>
+        <item>Telephone</item>
+        <item>Beeper</item>
+        <item>After school</item>
+        <item>Mario</item>
+        <item>Nighty-night</item>
+        <item>Soaring</item>
+        <item>Childhood</item>
+        <item>Morning run</item>
+        <item>Sweetheart</item>
+        <item>Curtain call</item>
+        <item>Triumph</item>
+        <item>Reminder</item>
+        <item>Doorbell</item>
+        <item>Promotion</item>
+        <item>Little crystal</item>
+        <item>Arrival</item>
+        <item>Cleverer</item>
+        <item>Agile</item>
+        <item>Red wine cork</item>
+        <item>Tapping</item>
+        <item>Water drop</item>
+        <item>Link</item>
+        <item>Spinning</item>
+        <item>Gift</item>
+        <item>Strikes</item>
+        <item>Pure</item>
+        <item>Beating</item>
+        <item>Naughty</item>
+        <item>Chocolate</item>
+        <item>Code word</item>
+        <item>Corner</item>
+        <item>Empire</item>
+        <item>Jump</item>
+        <item>Laputa</item>
+        <item>Meteor</item>
+        <item>Ripples</item>
+        <item>Shining</item>
+        <item>Quiet night</item>
+        <item>The north star</item>
+        <item>Time Tunnel</item>
+    </string-array>
+    <string-array name="urlspan_tel_dialog_title">
+        <item>Call number</item>
+        <item>Send message</item>
+        <item>Copy</item>
+        <item>Add to contact</item>
+    </string-array>
+    <string-array name="urlspan_email_dialog_title">
+        <item>Send e-mail</item>
+        <item>Copy</item>
+        <item>Add to contact</item>
+    </string-array>
+    <string-array name="urlspan_date_dialog_title">
+        <item>New Event</item>
+        <item>Open In Calendar</item>
+        <item>Copy</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title">
+        <item>Open</item>
+        <item>Copy</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title_chinamobile">
+        <item>Open</item>
+        <item>Copy</item>
+        <item>Add To BookMark</item>
+    </string-array>
+    <string-array name="calendar_week_title">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="smartbar_left_right_padding">
+        <item>160px</item>
+        <item>170px(default)</item>
+        <item>180px</item>
+    </string-array>
+    <string-array name="smartbar_bottom_height">
+        <item>关闭</item>
+        <item>适中</item>
+        <item>最小化</item>
+    </string-array>
+</resources>
