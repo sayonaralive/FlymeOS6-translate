@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<vector android:tint="@color/mz_theme_color_blue" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="72.0" android:viewportHeight="72.0"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <group android:name="checkedGroup" android:translateX="2.0" android:translateY="1.0">
-        <path android:name="checkedPath" android:pathData="M12,35 L27,50 L60,17" android:strokeColor="#ff000000" android:strokeWidth="9.0" android:strokeLineCap="round" />
-    </group>
-</vector>

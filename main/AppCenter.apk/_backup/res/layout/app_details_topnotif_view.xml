@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@id/details_game_packs_rl" android:background="@drawable/mz_list_selector_background" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/details_game_packs_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_game_detial_gift" android:layout_centerVertical="true" />
-    <TextView android:textColor="@color/details_content_fragment_content_text_color" android:id="@id/details_game_packs_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/packs_enter_icon" android:layout_centerVertical="true" />
-    <ImageView android:gravity="center_vertical" android:id="@id/packs_enter_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mz_arrow_next_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
-    <ImageView android:background="@drawable/add_comment_divider_bg_color" android:layout_width="fill_parent" android:layout_height="1.5dip" android:layout_alignParentBottom="true" />
-</RelativeLayout>

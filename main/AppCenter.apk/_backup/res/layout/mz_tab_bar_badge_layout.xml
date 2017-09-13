@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:id="@id/tab_layout" android:layout_width="wrap_content" android:layout_height="38.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/tab_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="11.0dip" style="?attr/actionBarTabTextStyle" />
-    <flyme.support.v7.widget.TitleBarBadgeView android:id="@id/tab_badge" android:layout_width="11.0dip" android:layout_height="11.0dip" android:layout_marginTop="6.0dip" />
-</LinearLayout>

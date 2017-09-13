@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@id/closable_view_layout" android:layout_width="560.0dip" android:layout_height="380.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/closable_entrance_iv" android:visibility="gone" android:layout_width="560.0dip" android:layout_height="380.0dip" android:scaleType="fitXY" />
-    <com.meizu.cloud.app.widget.UrlGifView android:id="@id/closable_entrance_gifview" android:visibility="gone" android:layout_width="560.0dip" android:layout_height="380.0dip" />
-    <ImageView android:layout_gravity="end" android:id="@id/closable_entrance_closeview" android:visibility="gone" android:layout_width="24.0dip" android:layout_height="24.0dip" android:scaleType="fitXY" />
-</RelativeLayout>

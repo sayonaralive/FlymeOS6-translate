@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_gravity="center" android:descendantFocusability="blocksDescendants" android:layout_width="wrap_content" android:layout_height="@dimen/wizard_item_height"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <FrameLayout android:id="@id/icon_frame" android:layout_width="@dimen/wizard_icon_frame_width" android:layout_height="@dimen/wizard_icon_frame_width" android:layout_marginTop="13.0dip" android:layout_centerHorizontal="true">
-        <ImageView android:id="@id/icon" android:layout_width="@dimen/wizard_icon_width" android:layout_height="@dimen/wizard_icon_width" />
-        <ImageView android:gravity="center" android:layout_gravity="bottom|center|right" android:id="@id/checkbox" android:background="@drawable/wizard_checkbox_selector" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
-    </FrameLayout>
-    <TextView android:textSize="@dimen/wizard_item_title_size" android:textColor="@color/title_color" android:gravity="center" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:singleLine="true" android:includeFontPadding="false" android:maxLength="12" android:layout_below="@id/icon_frame" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-medium" />
-</RelativeLayout>

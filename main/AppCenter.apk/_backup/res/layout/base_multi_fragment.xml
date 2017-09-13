@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@id/relativeLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <FrameLayout android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-    <LinearLayout android:orientation="vertical" android:id="@id/tab_layout_container" android:background="@color/theme_color" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-    <com.meizu.cloud.app.widget.LoadDataView android:id="@id/load_data_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-</RelativeLayout>

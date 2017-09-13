@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/image_view" android:layout_width="@dimen/block_conts_row1col4_item_width" android:layout_height="@dimen/block_conts_row1col4_item_height" android:scaleType="fitXY" />
-    <ImageView android:id="@id/image_bg" android:layout_width="@dimen/block_rolling_play_item_width" android:layout_height="@dimen/block_rolling_play_item_height" />
-</FrameLayout>

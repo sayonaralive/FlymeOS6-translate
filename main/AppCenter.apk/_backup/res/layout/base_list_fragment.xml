@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <ListView android:id="@id/backtoplist" android:paddingBottom="12.0dip" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" android:overScrollMode="never" />
-    <include android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="@dimen/app_info_bottom_height" layout="@layout/add_comment_flow_view" />
-    <com.meizu.flyme.appcenter.entrance.AppClosableEntranceFlowView android:layout_gravity="end|bottom|center" android:id="@id/closable_entrance_flowview" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
-    <com.meizu.cloud.app.widget.LoadDataView android:id="@id/load_data_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-</FrameLayout>

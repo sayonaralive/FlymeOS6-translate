@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:paddingLeft="@dimen/common_list_margin_left" android:paddingRight="@dimen/common_list_margin_right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/block_conts_row1col5_layout_paddingtop" android:weightSum="5.0"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <include android:id="@id/layout1" android:layout_width="0.0dip" android:layout_height="@dimen/block_conts_row1col5_item_height" android:layout_weight="1.0" layout="@layout/block_conts_row1col5_layout_item" />
-    <include android:id="@id/layout2" android:layout_width="0.0dip" android:layout_height="@dimen/block_conts_row1col5_item_height" android:layout_weight="1.0" layout="@layout/block_conts_row1col5_layout_item" />
-    <include android:id="@id/layout3" android:layout_width="0.0dip" android:layout_height="@dimen/block_conts_row1col5_item_height" android:layout_weight="1.0" layout="@layout/block_conts_row1col5_layout_item" />
-    <include android:id="@id/layout4" android:layout_width="0.0dip" android:layout_height="@dimen/block_conts_row1col5_item_height" android:layout_weight="1.0" layout="@layout/block_conts_row1col5_layout_item" />
-    <include android:id="@id/layout5" android:layout_width="0.0dip" android:layout_height="@dimen/block_conts_row1col5_item_height" android:layout_weight="1.0" layout="@layout/block_conts_row1col5_layout_item" />
-</LinearLayout>

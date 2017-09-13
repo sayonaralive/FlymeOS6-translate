@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:background="@drawable/mz_item_image_background" android:layout_width="fill_parent" android:layout_height="73.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:layout_gravity="center_vertical" android:layout_width="45.0dip" android:layout_height="45.0dip" android:layout_marginLeft="16.0dip" android:src="@drawable/detail_h5_icon" />
-    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:paddingRight="@dimen/mz_list_category_1_title_content_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip">
-        <TextView android:ellipsize="end" android:id="@id/tv_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" style="@style/Widget.Flyme.Light.TextView.List.Title" />
-        <TextView android:ellipsize="end" android:id="@id/tv_summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:maxLines="1" android:singleLine="true" android:fontFamily="sans-serif-medium" style="@style/Widget.Flyme.Light.TextView.List.Desc.Normal" />
-    </LinearLayout>
-</LinearLayout>

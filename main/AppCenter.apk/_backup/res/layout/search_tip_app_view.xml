@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@id/relativeLayout" android:background="@drawable/mz_list_selector_background" android:paddingLeft="@dimen/common_list_margin_left" android:paddingRight="@dimen/common_list_margin_right" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="78.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/icon" android:layout_width="45.0dip" android:layout_height="45.0dip" android:layout_marginRight="@dimen/common_icon_margin_right" android:scaleType="fitXY" android:layout_centerVertical="true" />
-    <FrameLayout android:id="@id/middle_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/common_list_item_info_margin_right" android:layout_toRightOf="@id/icon" android:layout_centerVertical="true" />
-    <include android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" layout="@layout/install_btn_layout" />
-    <View android:id="@id/divider" android:background="@color/divider_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_list_divider_height" android:layout_alignParentBottom="true" />
-</RelativeLayout>

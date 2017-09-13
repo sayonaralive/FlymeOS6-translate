@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="@dimen/single_row_recommend_delete_textsize" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/single_row_recommend_delete_layout_marginLeft" android:layout_marginTop="@dimen/single_row_recommend_delete_layout_marginTop" android:layout_marginBottom="@dimen/single_row_recommend_delete_layout_marginBottom" android:text="@string/selected_recommend_text" />
-    <ImageView android:id="@id/single_row_recommend_delete_icon" android:padding="@dimen/single_row_recommend_delete_icon_padding" android:layout_width="@dimen/single_row_recommend_delete_icon_layout_width" android:layout_height="@dimen/single_row_recommend_delete_icon_layout_height" android:src="@drawable/recommend_closebtn" android:scaleType="fitXY" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
-</RelativeLayout>

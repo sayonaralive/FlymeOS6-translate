@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@id/header" android:background="@drawable/mz_store_start_bg" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/wizard_header_height"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="14.0sp" android:textColor="@android:color/white" android:id="@id/skip" android:paddingRight="20.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="38.0dip" android:text="@string/skip2" android:layout_alignParentRight="true" android:fontFamily="sans-serif-medium" android:layout_alignParentEnd="true" />
-    <TextView android:textSize="40.0sp" android:textColor="@color/white" android:id="@id/welcome_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="38.0dip" android:text="必备应用" android:singleLine="true" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-medium" />
-</RelativeLayout>

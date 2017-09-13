@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/channel_item_icon" android:layout_width="@dimen/block_channel_icon_width" android:layout_height="@dimen/block_channel_icon_height" android:scaleType="fitXY" />
-    <RelativeLayout android:paddingTop="@dimen/block_channel_title_paddingtop" android:layout_width="@dimen/block_channel_icon_width" android:layout_height="wrap_content">
-        <TextView android:textSize="@dimen/block_channel_title_textsize" android:textColor="@color/block_title_color" android:gravity="center" android:id="@id/channel_item_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/block_channel_icon_width" android:singleLine="true" android:layout_centerHorizontal="true" />
-        <ImageView android:id="@id/channel_item_red_tag" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentEnd="true" />
-    </RelativeLayout>
-</LinearLayout>
