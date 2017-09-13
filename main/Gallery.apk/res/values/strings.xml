@@ -908,8 +908,6 @@
     <string name="location_remember_preferences">Remember preferences</string>
     <string name="location_request_message">needs to use your location data</string>
     <string name="location_share_button">SHARE_LOCATION</string>
-    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
-    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
     <string name="msg_loading">Loading data</string>
     <string name="mzuc_update_finish_format">Updated to latest version %s</string>
     <string name="networkRequestError">Network Request Error</string>
@@ -929,15 +927,9 @@
     <string name="web_extra_no_network">No network connection</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_unknown_error">WeChat no response, please retry</string>
-    <string name="aspect16to9_effect">16:9</string>
     <string name="bwfilter">Black &amp; White</string>
     <string name="doodle_eraser_title">Eraser</string>
     <string name="doodle_sticker_title">Sticker</string>
-    <string name="fit_action_view">fitActionView</string>
-    <string name="five_four_crop_aspect">5:4</string>
-    <string name="flyme_h5_file_download_pay">https://pay-res.meizu.com/resources/pay/h5/flyme5_pay_h5.zip</string>
-    <string name="four_five_crop_aspect">4:5</string>
-    <string name="hot_line_number">400-788-3333</string>
     <string name="image_file_name_format">"'P'yMMdd-HHmmss"</string>
     <string name="loading_image">加载图片</string>
     <string name="m_general_err_tip">发生错误，退出应用。</string>
@@ -945,17 +937,7 @@
     <string name="m_refocus_label">对焦重调</string>
     <string name="m_refocus_save_fail">保存失败</string>
     <string name="m_saving_image">保存图片到 %1$s …</string>
-    <string name="mc_action_settings">Settings</string>
-    <string name="mc_app_name">MeizuCommon</string>
-    <string name="mc_hello_world">Hello world!</string>
-    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
-    <string name="mc_pattern_week">%a</string>
-    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
     <string name="mc_selectionbutton_all">All</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
-    <string name="media_duration_format_long">%1$02d:%3$02d:%5$02d</string>
-    <string name="media_duration_format_short">%2$02d:%5$02d</string>
     <string name="multiplication_sign">×</string>
     <string name="mz_bar_code_renminbi">元</string>
     <string name="mzfilter_brightness">Bright</string>
@@ -969,13 +951,10 @@
     <string name="mzfilter_reminiscence">Retro</string>
     <string name="mzfilter_sunny">Midday</string>
     <string name="mzfilter_toy">Toy</string>
-    <string name="nine_sixteen_crop_aspect">9:16</string>
     <string name="refocus">对焦重调</string>
     <string name="root_directory_name">存储盘</string>
     <string name="set_as">设置为</string>
     <string name="set_image">将照片设置为</string>
-    <string name="static_file_down_load_pay">https://pay-res.meizu.com/resources/pay/h5/config.json</string>
     <string name="temperature_symbol">°</string>
-    <string name="three_four_crop_aspect">3:4</string>
     <string name="unit_mm">mm</string>
 </resources>
