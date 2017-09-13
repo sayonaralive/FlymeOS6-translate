@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d күн бұрын</item>
+        <item quantity="one">1 күн бұрын</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d сағат бұрын</item>
+        <item quantity="one">1 сағат бұрын</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d мин бұрын</item>
+        <item quantity="one">1 минут бұрын</item>
+    </plurals>
+    <plurals name="fmt_in_num_days">
+        <item quantity="other">%d күн ішінде</item>
+        <item quantity="one">Ертең</item>
+    </plurals>
+    <plurals name="fmt_num_days_ago">
+        <item quantity="other">%d күн бұрын</item>
+        <item quantity="one">Кеше</item>
+    </plurals>
+    <plurals name="numberPickerN">
+        <item quantity="other">%d реттен кейін аяқтау керек пе?</item>
+        <item quantity="one">Біржолғы оқиға</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d рет қайталау</item>
+        <item quantity="one">%d рет қайталау</item>
+    </plurals>
+    <plurals name="repeatCountN">
+        <item quantity="other">%d рет</item>
+        <item quantity="one">1 рет</item>
+    </plurals>
+</resources>

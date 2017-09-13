@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/main_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/wizard_list_header" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:gravity="center_horizontal" android:layout_gravity="center" android:id="@id/txt_empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/wizard_empty_margin_top" />
+        <com.meizu.cloud.app.widget.LoadDataView android:id="@id/load_data_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <GridView android:scrollbarStyle="outsideOverlay" android:id="@id/list" android:background="@color/white" android:paddingLeft="@dimen/wizard_grid_padding_left" android:paddingTop="@dimen/wizard_grid_padding_top" android:paddingRight="@dimen/wizard_grid_padding_right" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:numColumns="4" android:overScrollMode="never" />
+    </FrameLayout>
+    <TextView android:textSize="12.0sp" android:gravity="center" android:layout_gravity="center" android:id="@id/wizard_network_tips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="18.0dip" android:fontFamily="sans-serif-medium" />
+    <RelativeLayout android:id="@id/ll_wizard_bottom_bar" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="54.0dip">
+        <View android:background="@color/transparent10" android:layout_width="fill_parent" android:layout_height="0.6dip" />
+        <TextView android:textSize="16.0sp" android:textColor="@color/theme_color" android:gravity="center" android:id="@id/btnSkip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/skip" android:fontFamily="sans-serif-medium" />
+        <TextView android:textSize="16.0sp" android:gravity="center" android:id="@id/btnInstall" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/install_now" android:fontFamily="sans-serif-medium" />
+    </RelativeLayout>
+</LinearLayout>

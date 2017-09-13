@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/activity_test" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SurfaceView android:layout_gravity="center" android:id="@id/camera_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/preview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/mstore_camera_cover" android:scaleType="centerCrop" />
+    <ImageView android:layout_gravity="center|right|top" android:id="@id/camera_turn_out" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginTop="27.0dip" android:layout_marginRight="27.0dip" android:src="@drawable/mstore_camera_turn_out" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/camera_anim" android:layout_width="@dimen/camera_center_width" android:layout_height="@dimen/camera_center_height" android:layout_marginTop="@dimen/camera_anim_margin_top" android:src="@drawable/mstore_camera_scan" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="@dimen/mz_text_size_small" android:textColor="@color/white" android:id="@id/camera_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="35.0dip" android:text="@string/camera_tips" android:layout_below="@id/camera_anim" android:layout_centerHorizontal="true" />
+        <Button android:textColor="#ff000000" android:id="@id/camera_capture" android:background="@color/white" android:layout_width="200.0dip" android:layout_height="48.0dip" android:layout_marginBottom="29.0dip" android:text="@string/confirm" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</FrameLayout>

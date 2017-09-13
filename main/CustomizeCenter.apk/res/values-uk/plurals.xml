@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="font_updates">
+        <item quantity="other">%d шрифтів можуть бути оновлені</item>
+    </plurals>
+    <plurals name="font_updates_complete">
+        <item quantity="other">%1$d шрифтів оновлено</item>
+    </plurals>
+    <plurals name="local_delete_badge">
+        <item quantity="other">Видалити додаткові фонові рисунки: %d</item>
+        <item quantity="one">Видалити додаткові фонові рисунки: %d</item>
+    </plurals>
+    <plurals name="local_delete_font">
+        <item quantity="other">Видалити шрифти: %d</item>
+        <item quantity="one">Видалити шрифти: %d</item>
+    </plurals>
+    <plurals name="local_delete_pap">
+        <item quantity="other">Видалити фонові рисунки: %d</item>
+        <item quantity="one">Видалити фонові рисунки: %d</item>
+    </plurals>
+    <plurals name="local_delete_ringtone">
+        <item quantity="other">Видалити мелодії дзвінків: %d</item>
+        <item quantity="one">Видалити мелодії дзвінків: %d</item>
+    </plurals>
+    <plurals name="local_delete_theme">
+        <item quantity="other">Видалити теми: %d</item>
+        <item quantity="one">Видалити теми: %d</item>
+    </plurals>
+    <plurals name="theme_updates">
+        <item quantity="other">Можна оновити теми: %d</item>
+    </plurals>
+    <plurals name="theme_updates_complete">
+        <item quantity="other">Оновлено тем %1$d</item>
+    </plurals>
+    <plurals name="update_incremental_complete_title">
+        <item quantity="other">Оновлені %d теми</item>
+        <item quantity="one">Оновлені %d теми</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:minHeight="106.0dip" app:cardElevation="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/image" android:layout_width="fill_parent" android:layout_height="@dimen/video_small_image_height" android:src="@drawable/image_background" android:scaleType="centerCrop" />
+    <TextView android:textColor="#ff000000" android:ellipsize="end" android:gravity="center_vertical" android:layout_gravity="bottom" android:id="@id/txt_title" android:paddingLeft="@dimen/video_small_text_layout_padding_left" android:paddingRight="@dimen/video_small_text_layout_padding_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:maxLines="1" android:includeFontPadding="false" style="@style/Widget.Flyme.Light.TextView.List.Desc.Normal" />
+</android.support.v7.widget.CardView>

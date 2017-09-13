@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_0" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_1" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_2" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_3" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_4" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_5" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_6" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_7" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_8" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_9" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_10" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_11" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_12" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_13" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_14" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_15" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_16" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_17" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_18" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_19" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_20" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_21" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_22" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_23" />
+    <item android:duration="@integer/mz_smiling_face_duration" android:drawable="@drawable/mz_smile_face_24" />
+</animation-list>

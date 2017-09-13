@@ -30,6 +30,7 @@
     <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности</string>
     <string name="camera_error_title">Ошибка камеры</string>
     <string name="cannot_connect_camera">Камера занята. Попробуйте позже</string>
+    <string name="cannot_connect_camera_anyway">Камера занята. Перезагрузите телефон и повторите попытку.</string>
     <string name="cannot_load_image">Не удаётся загрузить изображение</string>
     <string name="create_tiny_planet">Создать круговую панораму</string>
     <string name="crop_action">Обрезать</string>
@@ -40,6 +41,7 @@
     <string name="descp_countdown_3s">3 с.</string>
     <string name="descp_countdown_5s">5 с.</string>
     <string name="descp_countdown_close">Выкл.</string>
+    <string name="descp_current_mode">Текущий режим %1s</string>
     <string name="descp_filter_close">Выйти из фильтра</string>
     <string name="descp_gif_play">Показать</string>
     <string name="descp_mode">Режим</string>
@@ -53,11 +55,13 @@
     <string name="descp_scan_question_history">История сканирования</string>
     <string name="descp_setting_back">Назад</string>
     <string name="descp_smb_back">Тыловая камера</string>
+    <string name="descp_smb_fb">Портрет</string>
     <string name="descp_smb_filter">Фильтр</string>
     <string name="descp_smb_flash">Вспышка</string>
     <string name="descp_smb_front">Фронтальная камера</string>
     <string name="descp_smb_mirror">Зеркало</string>
     <string name="descp_smb_setting">Настройки</string>
+    <string name="descp_smb_shuangshe">Двойная камера</string>
     <string name="descp_smb_timer">Обратный отсчёт</string>
     <string name="descp_switched_back">Тыловая камера</string>
     <string name="descp_switched_front">Фронтальная камера</string>
@@ -93,6 +97,7 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_downloading_patch_prefix">Скачать файл обновления</string>
     <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
@@ -148,7 +153,6 @@
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с</string>
-    <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -202,6 +206,7 @@
     <string name="mz_cam_mode_bar_code">Сканер</string>
     <string name="mz_cam_mode_facebeauty">Портрет</string>
     <string name="mz_cam_mode_gif">GIF</string>
+    <string name="mz_cam_mode_light_painting">Свето-граффити</string>
     <string name="mz_cam_mode_macro">Макро</string>
     <string name="mz_cam_mode_makeup">Мейкап</string>
     <string name="mz_cam_mode_manual">Вручную</string>
@@ -210,8 +215,13 @@
     <string name="mz_cam_mode_refocus">Ре-фокус</string>
     <string name="mz_cam_mode_scan_question">Сканирование</string>
     <string name="mz_cam_mode_slowmotion">Замедл. съёмка</string>
+    <string name="mz_cam_mode_star">Звезда</string>
+    <string name="mz_cam_mode_super_night">Светопись</string>
     <string name="mz_cam_mode_timelapse">Покадрово</string>
     <string name="mz_cam_mode_title">Выбор режима</string>
+    <string name="mz_cam_mode_traffic">Трафик</string>
+    <string name="mz_cam_mode_water">Вода</string>
+    <string name="mz_cam_mode_white_black">Ч/б</string>
     <string name="mz_countdown_10s">10 с.</string>
     <string name="mz_countdown_3s">3 с.</string>
     <string name="mz_countdown_5s">5 с.</string>
@@ -260,6 +270,8 @@
     <string name="mz_gif_hint_handling">Обработка...</string>
     <string name="mz_gif_ok">Сохранить</string>
     <string name="mz_gif_recapture">Переснять</string>
+    <string name="mz_handle_picture_hint">Обработка %d фото…</string>
+    <string name="mz_hint_xuhua">Размытие</string>
     <string name="mz_isbn">ISBN</string>
     <string name="mz_isbn_author">Автор:</string>
     <string name="mz_isbn_info_price">Цена:</string>
@@ -300,6 +312,8 @@
     <string name="mz_meter_separate_title">Ручной замер экспозиции</string>
     <string name="mz_military_disable_camera">Камера была удалённо выключена</string>
     <string name="mz_mirror_not_support_burst">Серийная съёмка не поддерживается фронтальной камерой</string>
+    <string name="mz_mode_guide_enter">Попробовать сейчас</string>
+    <string name="mz_mode_guide_title_night">Светопись</string>
     <string name="mz_mx3_filter_10_title">Вспышка</string>
     <string name="mz_mx3_filter_11_title">Печать</string>
     <string name="mz_mx3_filter_12_title">Ч/Б</string>
@@ -315,6 +329,8 @@
     <string name="mz_mx3_filter_9_title">Солнечно</string>
     <string name="mz_mx3_filter_none_title">Нет</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_night_mode_coach_button">Руководство</string>
+    <string name="mz_night_mode_hint">Держите камеру неподвижно или используйте штатив</string>
     <string name="mz_no_support_video_filter_480P">Переключить в режим 480P</string>
     <string name="mz_no_support_video_filter_720P">Переключить в режим 720P</string>
     <string name="mz_pano_hint">Нажмите затвор и двигайте камеру по горизонтали</string>
@@ -370,6 +386,8 @@
     <string name="mz_setting_choose_picsize">Выбрать размер фото</string>
     <string name="mz_setting_choose_vidsize">Выбрать размер видео</string>
     <string name="mz_setting_countdown_title">Обратный отсчёт</string>
+    <string name="mz_setting_des_antishake">, Стабилизатор</string>
+    <string name="mz_setting_devicemark_title">Водяной знак</string>
     <string name="mz_setting_frontcamera">Фронтальная камера</string>
     <string name="mz_setting_level_title">Уровень</string>
     <string name="mz_setting_location_title">Местоположение</string>
@@ -385,6 +403,7 @@
     <string name="mz_setting_title">Настройки</string>
     <string name="mz_setting_voice_action_label">Скажите \"Снимаю\" или \"Сыр\"</string>
     <string name="mz_setting_voice_action_title">Голосовое управление</string>
+    <string name="mz_setting_watch_capture_title">Нажмите на второй экран для снимка</string>
     <string name="mz_sms">SMS</string>
     <string name="mz_sms_sendto_pre">Кому:</string>
     <string name="mz_space_is_low">Недостаточно памяти</string>
@@ -396,12 +415,36 @@
     <string name="mz_system_temperature_close_record">Диагностирована высокая температура, работа приложения Камера будет остановлена</string>
     <string name="mz_tel">Телефон</string>
     <string name="mz_text">Текст</string>
+    <string name="mz_toggle_hint_hdr_close">HDR выключен</string>
+    <string name="mz_toggle_hint_hdr_open">HDR включён</string>
+    <string name="mz_toggle_hint_xuhua_close">Эффект размытия двойной линзы отключён</string>
+    <string name="mz_toggle_hint_xuhua_open">"Эффект размытия включён.
+ Оптимальное расстояние фокусировки: в пределах 1,5 м"</string>
     <string name="mz_uri">Ссылка</string>
     <string name="mz_uri_hint">Нажмите для открытия ссылки</string>
     <string name="mz_usb_charge_forbid_use_flash">Вспышка недоступна во время зарядки</string>
     <string name="mz_user_guide">Проведите вниз для отображения всех режимов</string>
+    <string name="mz_watch_beauty_level">Степень улучшения %1$d</string>
+    <string name="mz_watch_cannot_connect_camera">Камера используется на втором экране. Повторите попытку позже.</string>
+    <string name="mz_watch_cta_permission_msg">Сначала откройте камеру главного экрана</string>
+    <string name="mz_watch_main_camera_occupied">Используется камера. Повторите попытку позже.</string>
+    <string name="mz_watch_mapping_operate_hint">Пожалуйста, оперируйте на основном экране</string>
+    <string name="mz_watch_mode_auto">Оригинал</string>
+    <string name="mz_watch_mode_facebeauty">Красота</string>
+    <string name="mz_watch_mode_stereo">Размытие</string>
+    <string name="mz_watch_not_support_mapping">"Не поддерживается
+ в этом режиме"</string>
+    <string name="mz_watch_slide_hint">Сдвиньте вверх или вниз для выхода</string>
+    <string name="mz_watch_spaceIsLow_content">Не удаётся запустить камеру из-за недостаточного свободного места в памяти устройства</string>
+    <string name="mz_watch_system_temperature_close_camera">Температура телефона достигла предельного уровня. Камера будет закрыта.</string>
+    <string name="mz_watch_turn_off">Второй экран выключен</string>
+    <string name="mz_watch_turn_on">Второй экран включён</string>
+    <string name="mz_watch_waiting_settings">"Подождите, пока
+камера основного экрана
+ будет готова"</string>
+    <string name="mz_watch_waiting_take_photo">Обработка фото</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
-    <string name="mz_wif_setting_dialog_set">Установить</string>
+    <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mz_wifi">Точка доступа Wi-Fi</string>
     <string name="mz_wifi_changing_network">Запрос сетевого подключения …</string>
     <string name="mz_wifi_connet">Подключить</string>
@@ -441,13 +484,18 @@
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="no_storage">Чтобы использовать камеру, вставьте SD-карту</string>
+    <string name="pref_camera_flashmode_entry_after_capture">После</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
+    <string name="pref_camera_flashmode_entry_before_capture">До</string>
+    <string name="pref_camera_flashmode_entry_manual">Вручную</string>
     <string name="pref_camera_flashmode_entry_off">Выкл.</string>
     <string name="pref_camera_flashmode_entry_on">Вкл.</string>
     <string name="pref_camera_flashmode_label">Режим вспышки</string>
     <string name="pref_camera_flashmode_title">Режим вспышки</string>
     <string name="pref_camera_hdr_entry_off">Выкл.</string>
     <string name="pref_camera_hdr_entry_on">Вкл.</string>
+    <string name="pref_camera_toggle_off">Выкл.</string>
+    <string name="pref_camera_toggle_on">Вкл.</string>
     <string name="preparing_sd">Подготовка SD-карты…</string>
     <string name="saving_tiny_planet">Сохранение круговой панорамы…</string>
     <string name="setting_wallpaper">Установка обоев</string>
@@ -478,5 +526,4 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
-    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
 </resources>

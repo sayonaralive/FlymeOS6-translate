@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridLayout android:orientation="horizontal" android:id="@id/gridlayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/category_card_padding_left" android:layout_marginTop="@dimen/category_card_padding_top" android:layout_marginRight="@dimen/category_card_padding_right" android:layout_marginBottom="@dimen/category_card_padding_bottom" android:splitMotionEvents="false" android:columnCount="2" />
+    <View android:id="@id/divider" android:background="@color/common_list_item_bar" android:layout_width="fill_parent" android:layout_height="@dimen/category_divider_bar_height" android:layout_below="@id/gridlayout" />
+</RelativeLayout>

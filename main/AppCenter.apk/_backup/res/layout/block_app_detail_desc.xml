@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.meizu.common.widget.FoldableTextView android:textSize="12.0sp" android:textColor="@color/app_info_desc_text_color" android:id="@id/app_info_abridge_desc" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="23.0dip" android:layout_marginRight="23.0dip" android:layout_marginBottom="21.329987dip" android:lineSpacingExtra="@dimen/app_info_recom_des_linespace" app:mzTextUnfold=" " app:mzMaxFoldLine="3" />
+    <View android:id="@id/block_title_divider" android:background="@color/transparent10" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" android:layout_marginLeft="23.0dip" android:layout_marginRight="23.0dip" />
+</LinearLayout>

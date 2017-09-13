@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <flyme.support.v4.view.ViewPager android:id="@id/viewPager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" />
+        <HorizontalScrollView android:id="@id/scrollView" android:background="@color/tab_layout_bg" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/scroll_tab_container" android:paddingLeft="@dimen/pager_title_container_margin_left" android:paddingRight="@dimen/pager_title_container_margin_right" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.meizu.cloud.base.widget.TabScrollLayout android:id="@id/tabScrollLayout" android:layout_width="wrap_content" android:layout_height="@dimen/scroll_tab_height" />
+                <com.meizu.cloud.base.widget.TabScrollIndicator android:id="@id/indicator" android:layout_width="fill_parent" android:layout_height="@dimen/scroll_tab_bottom_line_height" />
+            </LinearLayout>
+        </HorizontalScrollView>
+    </FrameLayout>
+    <com.meizu.cloud.app.widget.LoadDataView android:id="@id/load_data_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

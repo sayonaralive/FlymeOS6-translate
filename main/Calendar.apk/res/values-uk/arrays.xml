@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="availability">
+        <item>Не турбувати</item>
+        <item>Доступно</item>
+        <item>Попередній</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Тільки ця подія</item>
+        <item>Усі повторні події</item>
+        <item>Скасувати</item>
+    </string-array>
+    <string-array name="chinese_number">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="delay_labels">
+        <item>Не нагадувати</item>
+        <item>Попередження за 10 хвилин</item>
+        <item>Попередження за 30 хвилин</item>
+        <item>Попередження за 1 годину</item>
+        <item>Попередження за 3 години</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Тільки ця подія</item>
+        <item>Ця і майбутні події</item>
+        <item>Усі події</item>
+        <item>Скасувати</item>
+    </string-array>
+    <string-array name="gre_festival">
+        <item>Новий рік</item>
+        <item>День Святого Валентина</item>
+        <item>Міжнародний жіночий день</item>
+        <item></item>
+        <item>Міжнародний день захисту прав споживачів</item>
+        <item></item>
+        <item>День дурнів</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>День міжнародної солідарності трудящих</item>
+        <item>Міжнародний день молоді</item>
+        <item></item>
+        <item>День дітей</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>День вчителя</item>
+        <item></item>
+        <item>День усіх святих</item>
+        <item>Святвечір</item>
+        <item>Різдво</item>
+    </string-array>
+    <string-array name="horoscope_array">
+        <item>Овен</item>
+        <item>Телець</item>
+        <item>Близнюки</item>
+        <item>Рак</item>
+        <item>Лев</item>
+        <item>Діва</item>
+        <item>Терези</item>
+        <item>Скорпіон</item>
+        <item>Стрілець</item>
+        <item>Козеріг</item>
+        <item>Водолій</item>
+        <item>Риби</item>
+    </string-array>
+    <string-array name="lunar_month">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Квi</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="pref_default_all_day_reminder_labels">
+        <item>Жодного</item>
+        <item>У день події (о 9:00 ранку)</item>
+        <item>За 1 день до початку (9:00)</item>
+        <item>За 2 дні до початку (9:00)</item>
+    </string-array>
+    <string-array name="pref_default_reminder_labels">
+        <item>Жодного</item>
+        <item>Під час події</item>
+        <item>За 10 хвилин до початку</item>
+        <item>За 30 хвилин до початку</item>
+        <item>За 1 годину до початку</item>
+        <item>За 1 день</item>
+    </string-array>
+    <string-array name="pref_week_start_labels">
+        <item>Регіональні настройки за замовчуванням</item>
+        <item>Неділя</item>
+        <item>Понеділок</item>
+    </string-array>
+    <string-array name="principle_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Я запізнюся на декілька хвилин</item>
+        <item>Буду за 10 хвилин.</item>
+        <item>Не чекайте і починайте без мене.</item>
+        <item>На жаль, я не можу це зробити. Доведеться перенести.</item>
+        <item>Напишіть власну...</item>
+    </string-array>
+    <string-array name="reminder_day_labels">
+        <item>Немає</item>
+        <item>У день події</item>
+        <item>За 1 день до початку</item>
+        <item>За 2 дні</item>
+        <item>За 3 дні</item>
+        <item>За тиждень</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Сповіщення</item>
+        <item>Ел. пошта</item>
+        <item>SMS</item>
+        <item>Сигнал</item>
+    </string-array>
+    <string-array name="repeats_end_labels">
+        <item>Назавжди</item>
+        <item>До дати</item>
+        <item>Вказану кількість разів</item>
+    </string-array>
+    <string-array name="sectional_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tool_types">
+        <item>Калькулятор дати</item>
+        <item>Інтервал часу</item>
+        <item>Перетв. з григор. на місячний календар</item>
+    </string-array>
+    <string-array name="weekSpeakArr">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вiвторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>"П'ятниця"</item>
+        <item>Субота</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>В</item>
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
+    </string-array>
+</resources>

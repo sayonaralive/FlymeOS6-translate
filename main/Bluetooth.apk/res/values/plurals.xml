@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">Failed to transfer %1$d file(s)</item>
+        <item quantity="one">Failed to transfer %1$d file(s)</item>
+    </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">Transferred %1$d file(s), %2$s</item>
+        <item quantity="one">Transferred %1$d file(s), %2$s</item>
+    </plurals>
+</resources>

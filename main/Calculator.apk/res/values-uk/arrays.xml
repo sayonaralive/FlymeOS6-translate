@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="always_using_country_cn">
+        <item>CNY</item>
+        <item>USD</item>
+        <item>HKD</item>
+        <item>MOP</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>JPY</item>
+        <item>SGD</item>
+        <item>MYR</item>
+        <item>THB</item>
+        <item>VND</item>
+    </string-array>
+    <string-array name="area_cn">
+        <item>квадратний метр</item>
+        <item>квадратний кілометр</item>
+        <item>mu</item>
+        <item>квадратний фут</item>
+        <item>квадратний сантиметр</item>
+        <item>квадратний сантиметр</item>
+        <item>квадратний міліметр</item>
+        <item>квадратна миля</item>
+        <item>акр</item>
+        <item>квадратний ярд</item>
+        <item>квадратний дюйм</item>
+        <item>гектар</item>
+    </string-array>
+    <string-array name="cnnumber_list">
+        <item>ling</item>
+        <item>yi</item>
+        <item>er</item>
+        <item>san</item>
+        <item>si</item>
+        <item>wu</item>
+        <item>liu</item>
+        <item>qi</item>
+        <item>ba</item>
+        <item>jiu</item>
+    </string-array>
+    <string-array name="count_cn">
+        <item>DZD</item>
+        <item>AFN</item>
+        <item>ARS</item>
+        <item>AED</item>
+        <item>AWG</item>
+        <item>OMR</item>
+        <item>AZN</item>
+        <item>EGP</item>
+        <item>ETB</item>
+        <item>IEP</item>
+        <item>AOA</item>
+        <item>AUD</item>
+        <item>MOP</item>
+        <item>BSD</item>
+        <item>BBD</item>
+        <item>Папуа-Нова Гвінея</item>
+        <item>PKR</item>
+        <item>PYG</item>
+        <item>BHD</item>
+        <item>PAB</item>
+        <item>BRL</item>
+        <item>BYR</item>
+        <item>BMD</item>
+        <item>BGN</item>
+        <item>ISK</item>
+        <item>PLN</item>
+        <item>Боснія і Герцеговина</item>
+        <item>BOB</item>
+        <item>BZD</item>
+        <item>BWP</item>
+        <item>BTN</item>
+        <item>BIF</item>
+        <item>KPW</item>
+        <item>DKK</item>
+        <item>Драхма</item>
+        <item>XCD</item>
+        <item>DOP</item>
+        <item>RUB</item>
+        <item>ERN</item>
+        <item>XPF</item>
+        <item>PHP</item>
+        <item>FJD</item>
+        <item>CVE</item>
+        <item>FKP</item>
+        <item>GMD</item>
+        <item>XAF</item>
+        <item>HKD</item>
+        <item>COP</item>
+        <item>CRC</item>
+        <item>GEL</item>
+        <item>CUP</item>
+        <item>GYD</item>
+        <item>Спеціальні права запозичення</item>
+        <item>KZT</item>
+        <item>HTG</item>
+        <item>KRW</item>
+        <item>NLG</item>
+        <item>HNL</item>
+        <item>DJF</item>
+        <item>KGS</item>
+        <item>GNF</item>
+        <item>GHC</item>
+        <item>CAD</item>
+        <item>KHR</item>
+        <item>CZK</item>
+        <item>ZWD</item>
+        <item>QAR</item>
+        <item>KYD</item>
+        <item>KMF</item>
+        <item>KWD</item>
+        <item>HRK</item>
+        <item>KES</item>
+        <item>LVL</item>
+        <item>LSL</item>
+        <item>LAK</item>
+        <item>CNH</item>
+        <item>LBP</item>
+        <item>LTL</item>
+        <item>LRD</item>
+        <item>LYD</item>
+        <item>RWF</item>
+        <item>RON</item>
+        <item>MVR</item>
+        <item>MGA</item>
+        <item>MWK</item>
+        <item>MYR</item>
+        <item>MKD</item>
+        <item>Маврикій</item>
+        <item>MRO</item>
+        <item>USD</item>
+        <item>MNT</item>
+        <item>BDT</item>
+        <item>PEN</item>
+        <item>BUK</item>
+        <item>MDL</item>
+        <item>MAD</item>
+        <item>MZN</item>
+        <item>Мексика</item>
+        <item>MXN</item>
+        <item>NAD</item>
+        <item>ZAR</item>
+        <item>NIO</item>
+        <item>NPR</item>
+        <item>NGN</item>
+        <item>NOK</item>
+        <item>EUR</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>SVC</item>
+        <item>WST</item>
+        <item>RSD</item>
+        <item>SLL</item>
+        <item>SCR</item>
+        <item>SAR</item>
+        <item>STD</item>
+        <item>SHP</item>
+        <item>LKR</item>
+        <item>SZL</item>
+        <item>SDP</item>
+        <item>SRD</item>
+        <item>UZS</item>
+        <item>SBD</item>
+        <item>SOS</item>
+        <item>TJS</item>
+        <item>THB</item>
+        <item>TZS</item>
+        <item>Тонга</item>
+        <item>Тринідад і Тобаго</item>
+        <item>TND</item>
+        <item>TRY</item>
+        <item>TMT</item>
+        <item>VUV</item>
+        <item>GTQ</item>
+        <item>VEF</item>
+        <item>BND</item>
+        <item>UGS</item>
+        <item>UHR</item>
+        <item>UYU</item>
+        <item>Західна Африка</item>
+        <item>SGD</item>
+        <item>TWD</item>
+        <item>NZD</item>
+        <item>HUF</item>
+        <item>SYP</item>
+        <item>Ямайка</item>
+        <item>YER</item>
+        <item>IQD</item>
+        <item>IRR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>IDR</item>
+        <item>GBP</item>
+        <item>JOD</item>
+        <item>VND</item>
+        <item>ZMK</item>
+        <item>GIP</item>
+        <item>CLP</item>
+        <item>XAF</item>
+    </string-array>
+    <string-array name="country_name">
+        <item>ОАЕ</item>
+        <item>Афганістан</item>
+        <item>Вірменія</item>
+        <item>Нідерландські Антильські о-ви</item>
+        <item>Ангола</item>
+        <item>Аргентина</item>
+        <item>Австралія</item>
+        <item>Аруба</item>
+        <item>Азербайджан</item>
+        <item>Боснія</item>
+        <item>Барбадос</item>
+        <item>Бангладеш</item>
+        <item>Болгарія</item>
+        <item>Бахрейн</item>
+        <item>Бурунді</item>
+        <item>Бермудські острови</item>
+        <item>Бруней</item>
+        <item>Болівія</item>
+        <item>Бразилія</item>
+        <item>Багами</item>
+        <item>Бутан</item>
+        <item>Ботсвана</item>
+        <item>Білорусь</item>
+        <item>Беліз</item>
+        <item>Канада</item>
+        <item>Конго</item>
+        <item>Швейцарія</item>
+        <item>Чилі</item>
+        <item>Китай</item>
+        <item>Китай</item>
+        <item>Колумбiя</item>
+        <item>Коста-Ріка</item>
+        <item>Куба</item>
+        <item>Кабо-Верде</item>
+        <item>Чехія та Словакія</item>
+        <item>Джібуті</item>
+        <item>Данія</item>
+        <item>Домініка</item>
+        <item>Алжир</item>
+        <item>Єгипет</item>
+        <item>Еритрея</item>
+        <item>Ефіопія</item>
+        <item>ЄС</item>
+        <item>Фіджі</item>
+        <item>Фолклендські о-ви</item>
+        <item>Сполучене Королівство</item>
+        <item>Грузія</item>
+        <item>Гана</item>
+        <item>Гібралтар</item>
+        <item>Гамбія</item>
+        <item>Гвінея</item>
+        <item>Гватемала</item>
+        <item>Гайана</item>
+        <item>Гонконг</item>
+        <item>Гондурас</item>
+        <item>Хорватія</item>
+        <item>Гаїті</item>
+        <item>Угорщина</item>
+        <item>Індонезія</item>
+        <item>Ірландія</item>
+        <item>Ізраїль</item>
+        <item>Індія</item>
+        <item>Ірак</item>
+        <item>Іран</item>
+        <item>Ісландія</item>
+        <item>Ямайка</item>
+        <item>Йорданія</item>
+        <item>Японія</item>
+        <item>Кенія</item>
+        <item>Киргизстан</item>
+        <item>Камбоджа</item>
+        <item>Коморін</item>
+        <item>Північна Корея</item>
+        <item>Південна Корея</item>
+        <item>Кувейт</item>
+        <item>Кайманськi острови</item>
+        <item>Казахстан</item>
+        <item>Лаос</item>
+        <item>Ліван</item>
+        <item>Шрі Ланка</item>
+        <item>Ліберія</item>
+        <item>Лесото</item>
+        <item>Литва</item>
+        <item>Латвія</item>
+        <item>Лівія</item>
+        <item>Марокко</item>
+        <item>Молдова</item>
+        <item>Мадагаскар</item>
+        <item>Македонія</item>
+        <item>"М'янма"</item>
+        <item>Монголія</item>
+        <item>Макао</item>
+        <item>Мавританія</item>
+        <item>Маврикій</item>
+        <item>Мальдиви</item>
+        <item>Малаві</item>
+        <item>Мексика</item>
+        <item>MXV</item>
+        <item>Малайзія</item>
+        <item>Мозамбік</item>
+        <item>Намібія</item>
+        <item>Нігерія</item>
+        <item>Нікарагуа</item>
+        <item>Норвегія</item>
+        <item>Непал</item>
+        <item>Нова Зеландія</item>
+        <item>Оман</item>
+        <item>Панама</item>
+        <item>Перу</item>
+        <item>Папуа-Нова Гвінея</item>
+        <item>Філіппіни</item>
+        <item>Пакистан</item>
+        <item>Польща</item>
+        <item>Парагвай</item>
+        <item>Катар</item>
+        <item>Румунія</item>
+        <item>Сербія</item>
+        <item>Росія</item>
+        <item>Руанда</item>
+        <item>Саудівська Аравія</item>
+        <item>Соломонові Острови</item>
+        <item>Сейшельські острови</item>
+        <item>Республiка Судан</item>
+        <item>Швеція</item>
+        <item>Сингапур</item>
+        <item>Острів Святої Єлени</item>
+        <item>Сьєрра-Леоне</item>
+        <item>Сомалі</item>
+        <item>Суринам</item>
+        <item>Сан-Томе і Прінсіпі</item>
+        <item>Сальвадор</item>
+        <item>Сирія</item>
+        <item>Свазіленд</item>
+        <item>Таїланд</item>
+        <item>Таджикистан</item>
+        <item>Туркменістан</item>
+        <item>Туніс</item>
+        <item>Тонга</item>
+        <item>Туреччина</item>
+        <item>Тринідад і Тобаго</item>
+        <item>Тайвань</item>
+        <item>Танзанія</item>
+        <item>Україна</item>
+        <item>Уганда</item>
+        <item>US</item>
+        <item>Уругвай</item>
+        <item>Узбекистан</item>
+        <item>Боліваріанська Республіка Венесуела</item>
+        <item>"В'єтнам"</item>
+        <item>Республіка Вануату</item>
+        <item>Самоа</item>
+        <item>ECCAS</item>
+        <item>Карибський</item>
+        <item>МВФ</item>
+        <item>UEMOA</item>
+        <item>Французька Полінезія, Нова Каледонія, і Волліс і Футуна</item>
+        <item>Єменська Арабська</item>
+        <item>Південна Африка</item>
+        <item>Замбія</item>
+        <item>Зімбабве</item>
+    </string-array>
+    <string-array name="country_name_cn">
+        <item>Алжир</item>
+        <item>Афганістан</item>
+        <item>Аргентина</item>
+        <item>ОАЕ</item>
+        <item>Острів Аруба</item>
+        <item>Оман</item>
+        <item>Азербайджан</item>
+        <item>Єгипет</item>
+        <item>Ефіопія</item>
+        <item>Ірландія</item>
+        <item>Ангола</item>
+        <item>Австралія</item>
+        <item>Макао</item>
+        <item>Багами</item>
+        <item>Барбадос</item>
+        <item>Папуа-Нова Гвінея</item>
+        <item>Пакистан</item>
+        <item>Парагвай</item>
+        <item>Бахрейн</item>
+        <item>Панама</item>
+        <item>Бразилія</item>
+        <item>Білорусь</item>
+        <item>Бермудські острови</item>
+        <item>Болгарія</item>
+        <item>Ісландія</item>
+        <item>Польща</item>
+        <item>Боснія</item>
+        <item>Болівія</item>
+        <item>Беліз</item>
+        <item>Ботсвана</item>
+        <item>Бутан</item>
+        <item>Бурунді</item>
+        <item>Північна Корея</item>
+        <item>Данія</item>
+        <item>Вірменія</item>
+        <item>Карибський</item>
+        <item>Домініка</item>
+        <item>Росія</item>
+        <item>Еритрея</item>
+        <item>Французька Полінезія, Нова Каледонія, і Волліс і Футуна</item>
+        <item>Філіппіни</item>
+        <item>Фіджі</item>
+        <item>Кабо-Верде</item>
+        <item>Фолклендські о-ви</item>
+        <item>Гамбія</item>
+        <item>Конго</item>
+        <item>Гонконг</item>
+        <item>Колумбiя</item>
+        <item>Коста-Ріка</item>
+        <item>Грузія</item>
+        <item>Куба</item>
+        <item>Гайана</item>
+        <item>МВФ</item>
+        <item>Казахстан</item>
+        <item>Гаїті</item>
+        <item>Південна Корея</item>
+        <item>Нідерландські Антильські о-ви</item>
+        <item>Гондурас</item>
+        <item>Джібуті</item>
+        <item>Киргизстан</item>
+        <item>Гвінея</item>
+        <item>Гана</item>
+        <item>Канада</item>
+        <item>Камбоджа</item>
+        <item>Чехія та Словакія</item>
+        <item>Зімбабве</item>
+        <item>Катар</item>
+        <item>Кайманськi острови</item>
+        <item>Коморін</item>
+        <item>Кувейт</item>
+        <item>Хорватія</item>
+        <item>Кенія</item>
+        <item>Латвія</item>
+        <item>Лесото</item>
+        <item>Лаос</item>
+        <item>Китай</item>
+        <item>Ліван</item>
+        <item>Литва</item>
+        <item>Ліберія</item>
+        <item>Лівія</item>
+        <item>Руанда</item>
+        <item>Румунія</item>
+        <item>Мальдиви</item>
+        <item>Мадагаскар</item>
+        <item>Малаві</item>
+        <item>Малайзія</item>
+        <item>Македонія</item>
+        <item>Маврикій</item>
+        <item>Мавританія</item>
+        <item>US</item>
+        <item>Монголія</item>
+        <item>Бангладеш</item>
+        <item>Перу</item>
+        <item>Мьянма</item>
+        <item>Молдова</item>
+        <item>Марокко</item>
+        <item>Мозамбік</item>
+        <item>MXV</item>
+        <item>Мексика</item>
+        <item>NAD</item>
+        <item>Південна Африка</item>
+        <item>Нікарагуа</item>
+        <item>Непал</item>
+        <item>Нігерія</item>
+        <item>Норвегія</item>
+        <item>ЄС</item>
+        <item>Китай</item>
+        <item>Японія</item>
+        <item>Швеція</item>
+        <item>Швейцарія</item>
+        <item>Сальвадор</item>
+        <item>Самоа</item>
+        <item>Сербія</item>
+        <item>SLL</item>
+        <item>Сейшельські острови</item>
+        <item>Саудівська Аравія</item>
+        <item>Сан-Томе і Прінсіпі</item>
+        <item>Острів Святої Єлени</item>
+        <item>Шрі Ланка</item>
+        <item>Свазіленд</item>
+        <item>Судан</item>
+        <item>Суринам</item>
+        <item>Узбекистан</item>
+        <item>Соломонові Острови</item>
+        <item>Сомалі</item>
+        <item>Таджикистан</item>
+        <item>Таїланд</item>
+        <item>Танзанія</item>
+        <item>Тонга</item>
+        <item>Тринідад і Тобаго</item>
+        <item>Туніс</item>
+        <item>Туреччина</item>
+        <item>Туркменістан</item>
+        <item>Вануату</item>
+        <item>Гватемала</item>
+        <item>Боліваріанська Республіка Венесуела</item>
+        <item>Бруней</item>
+        <item>Уганда</item>
+        <item>Україна</item>
+        <item>Уругвай</item>
+        <item>UEMOA</item>
+        <item>Сингапур</item>
+        <item>Тайвань</item>
+        <item>Нова Зеландія</item>
+        <item>Угорщина</item>
+        <item>Сирія</item>
+        <item>Ямайка</item>
+        <item>Єменська Арабська</item>
+        <item>Ірак</item>
+        <item>Іран</item>
+        <item>Ізраїль</item>
+        <item>Індія</item>
+        <item>Індонезія</item>
+        <item>Сполучене Королівство</item>
+        <item>Йорданія</item>
+        <item>"В'єтнам"</item>
+        <item>Замбія</item>
+        <item>Гібралтар</item>
+        <item>Чилі</item>
+        <item>ECCAS</item>
+    </string-array>
+    <string-array name="dot_series_list">
+        <item>jiao</item>
+        <item>fen</item>
+    </string-array>
+    <string-array name="length_cn">
+        <item>метр</item>
+        <item>кілометр</item>
+        <item>chi</item>
+        <item>фут</item>
+        <item>Дециметр</item>
+        <item>сантиметр</item>
+        <item>li</item>
+        <item>zhang</item>
+        <item>cun</item>
+        <item>fen</item>
+        <item>li</item>
+        <item>морська миля</item>
+        <item>миля</item>
+        <item>дюйм</item>
+        <item>міліметр</item>
+        <item>мікрон</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Квi</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="series_list">
+        <item></item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>wan</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>yi</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>wan</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+    </string-array>
+    <string-array name="tab_name_list">
+        <item>Обмін</item>
+        <item>Довжина</item>
+        <item>Площа</item>
+        <item>Вага</item>
+        <item>Гучність</item>
+    </string-array>
+    <string-array name="volume_cn">
+        <item>кубічний метр</item>
+        <item>лiтр</item>
+        <item>галон</item>
+        <item>кубічний фут</item>
+        <item>гектолітрів</item>
+        <item>кубiчний дециметр</item>
+        <item>кубічний сантиметр</item>
+        <item>мілілітр</item>
+        <item>кубічний міліметр</item>
+        <item>барель</item>
+        <item>унція</item>
+        <item>Кубічний ярд</item>
+        <item>кубічний дюйм</item>
+    </string-array>
+    <string-array name="wight_cn">
+        <item>кілограм</item>
+        <item>тонна</item>
+        <item>фунт</item>
+        <item>унція</item>
+        <item>грам</item>
+        <item>міліграм</item>
+        <item>jin</item>
+        <item>dan</item>
+        <item>liang</item>
+        <item>qian</item>
+    </string-array>
+</resources>

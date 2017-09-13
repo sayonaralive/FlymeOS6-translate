@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/add_comment_flowview" android:background="@color/white" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/app_info_bottom_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/transparent10" android:layout_width="fill_parent" android:layout_height="0.6700001dip" />
+    <Button android:textSize="16.0sp" android:textColor="@color/white" android:id="@id/add_comment_flow_btn" android:layout_width="240.0dip" android:layout_height="38.0dip" android:text="@string/write_comment_flow" android:layout_centerInParent="true" style="@style/Widget.DeviceDefault.Light.Button.Color.Blue" />
+</RelativeLayout>

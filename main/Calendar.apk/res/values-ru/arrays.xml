@@ -42,14 +42,14 @@
         <item>День Валентина</item>
         <item>Женский день</item>
         <item></item>
-        <item></item>
+        <item>Международный день прав потребителей</item>
         <item></item>
         <item>День дурака</item>
         <item></item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
+        <item>Международный рабочий день</item>
+        <item>Международный День молодёжи</item>
         <item></item>
         <item>День детей</item>
         <item></item>
@@ -152,7 +152,7 @@
     </string-array>
     <string-array name="pref_default_reminder_labels">
         <item>Нет</item>
-        <item>В момент события</item>
+        <item>Во время события</item>
         <item>За 10 минут</item>
         <item>За 30 минут</item>
         <item>За 1 час</item>
@@ -184,6 +184,14 @@
         <item>К сожалению, у меня не получается. Мы должны перенести.</item>
         <item>Написать своё…</item>
     </string-array>
+    <string-array name="reminder_day_labels">
+        <item>Нет</item>
+        <item>В день события</item>
+        <item>За 1 день</item>
+        <item>За 2 дня</item>
+        <item>За 3 дня</item>
+        <item>За 1 неделю</item>
+    </string-array>
     <string-array name="reminder_methods_labels">
         <item>Уведомления</item>
         <item>Эл. почта</item>
@@ -193,7 +201,7 @@
     <string-array name="repeats_end_labels">
         <item>Всегда</item>
         <item>На дату</item>
-        <item>На количество событий</item>
+        <item>Определённое количество раз</item>
     </string-array>
     <string-array name="sectional_array">
         <item></item>

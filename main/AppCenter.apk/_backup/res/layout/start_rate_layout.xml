@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/app_star_layout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.meizu.common.widget.MzRatingBar android:layout_gravity="center_vertical" android:id="@id/ratingbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:numStars="5" android:isIndicator="true" style="@style/Widget.MeizuCommon.MzRatingBar.Small" />
+    <TextView android:textSize="@dimen/rank_commenttimes_textsize" android:textColor="@color/desc_color" android:layout_gravity="center_vertical" android:id="@id/num" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" />
+</LinearLayout>

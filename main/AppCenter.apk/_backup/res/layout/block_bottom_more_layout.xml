@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/mz_list_selector_background" android:layout_width="fill_parent" android:layout_height="54.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/stroke_left" android:background="@color/cir_progress_button_blue" android:layout_width="@dimen/common_list_stroke_width" android:layout_height="@dimen/rank_item_view_height" android:layout_alignParentLeft="true" />
+    <View android:id="@id/stroke_right" android:background="@color/cir_progress_button_blue" android:layout_width="@dimen/common_list_stroke_width" android:layout_height="@dimen/rank_item_view_height" android:layout_alignParentRight="true" />
+    <TextView android:textSize="18.0sp" android:textColor="@color/common_block_title_text_color" android:id="@id/txtTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/goto_special" android:layout_centerInParent="true" android:fontFamily="sans-serif-medium" />
+</RelativeLayout>

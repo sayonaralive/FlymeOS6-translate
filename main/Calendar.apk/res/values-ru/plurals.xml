@@ -13,7 +13,7 @@
         <item quantity="one">За 1 минуту</item>
     </plurals>
     <plurals name="fmt_in_num_days">
-        <item quantity="other">через %d дн.</item>
+        <item quantity="other">Через %d дн.</item>
         <item quantity="one">Завтра</item>
     </plurals>
     <plurals name="fmt_num_days_ago">

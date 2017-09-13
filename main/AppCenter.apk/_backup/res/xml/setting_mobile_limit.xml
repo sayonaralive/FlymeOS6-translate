@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.meizu.common.preference.SwitchPreference android:title="@string/use_mobile_network_download" android:key="mobile_limit" android:defaultValue="false" />
+    <PreferenceCategory android:title="@string/per_app_limit_size" android:key="mobile_limit_range" android:defaultValue="false" />
+</PreferenceScreen>

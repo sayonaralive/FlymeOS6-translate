@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/relativeLayout" android:background="@drawable/mz_list_selector_background" android:paddingLeft="@dimen/common_list_margin_left" android:paddingRight="@dimen/common_list_margin_right" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="90.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/icon_layout" android:layout_width="64.0dip" android:layout_height="90.0dip" android:layout_marginRight="@dimen/common_icon_margin_right">
+        <ImageView android:layout_gravity="center" android:id="@id/icon" android:layout_width="64.0dip" android:layout_height="64.0dip" android:scaleType="fitXY" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/middle_layout" android:layout_width="fill_parent" android:layout_height="90.0dip" android:layout_marginRight="@dimen/common_list_item_info_margin_right" android:layout_toRightOf="@id/icon_layout">
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:gravity="left" android:orientation="horizontal" android:id="@id/layout_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="16.0dip">
+                <com.meizu.cloud.app.widget.TagView android:id="@id/tagView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                <TextView android:textSize="@dimen/common_list_item_title_text" android:textColor="@color/title_color" android:ellipsize="end" android:id="@id/txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/tagView" android:layout_centerVertical="true" android:fontFamily="sans-serif-medium" />
+            </RelativeLayout>
+            <com.meizu.cloud.app.widget.BaseStarRateWidget android:id="@id/starRate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" />
+            <TextView android:textSize="@dimen/rank_txt_bottom_textsize" android:textColor="@color/desc_color" android:id="@id/txt_desc1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:singleLine="true" android:includeFontPadding="false" />
+        </LinearLayout>
+    </FrameLayout>
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="90.0dip" android:layout_alignParentRight="true">
+        <include android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/install_btn_layout" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:id="@id/heat_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="38.0dip" android:layout_below="@id/middle_layout">
+        <TextView android:textSize="12.0sp" android:textColor="@android:color/black" android:id="@id/heat_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" android:layout_marginTop="5.0dip" android:includeFontPadding="false" />
+    </LinearLayout>
+    <View android:id="@id/divider" android:background="@color/divider_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_list_divider_height" android:layout_marginLeft="@dimen/rank_divider_margin_left" android:layout_below="@id/heat_layout" />
+    <View android:id="@id/longdivider" android:background="@color/divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/common_list_divider_height" android:layout_below="@id/heat_layout" />
+</RelativeLayout>

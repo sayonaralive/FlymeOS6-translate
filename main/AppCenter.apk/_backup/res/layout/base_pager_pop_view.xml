@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/layout_content" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.meizu.cloud.app.widget.FlowLayout android:id="@id/flow_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/tab_pop_padding_left" android:layout_marginTop="@dimen/tab_pop_flow_padding_top" android:layout_marginRight="@dimen/tab_pop_flow_padding_right" android:layout_marginBottom="@dimen/tab_pop_flow_padding_bottom" />
+    <View android:background="@drawable/add_comment_divider_bg_color" android:layout_width="fill_parent" android:layout_height="@dimen/multi_tab_divider_height" />
+</LinearLayout>

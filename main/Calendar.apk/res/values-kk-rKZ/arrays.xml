@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="availability">
+        <item>Бос емес</item>
+        <item>Қолжетімді</item>
+        <item>Байқау</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Тек осы оқиға</item>
+        <item>Қайталанатын барлық оқиғалар</item>
+        <item>Бас тарту</item>
+    </string-array>
+    <string-array name="delay_labels">
+        <item>Еске салмау</item>
+        <item>10 минуттан кейін дабыл беру</item>
+        <item>30 минуттан кейін дабыл беру</item>
+        <item>1 сағаттан кейін дабыл беру</item>
+        <item>3 сағаттан кейін дабыл беру</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Тек осы оқиға</item>
+        <item>Осы және келешектегі оқиғалар</item>
+        <item>Барлық оқиғалар</item>
+        <item>Бас тарту</item>
+    </string-array>
+    <string-array name="gre_festival">
+        <item>Жаңа жыл</item>
+        <item>Әулие Валентин күні</item>
+        <item>Әйелдер күні</item>
+        <item>Әзіл күні</item>
+        <item>Халықаралық тұтынушы құқықтарын қорғау күні</item>
+        <item>Рождество</item>
+        <item>Әзіл күні</item>
+        <item>Рождество</item>
+        <item>Рождество</item>
+        <item>Рождество</item>
+        <item>Халықаралық еңбекшілер күні</item>
+        <item>Халықаралық жастар күні</item>
+        <item>Рождество</item>
+        <item>Балалар күні</item>
+        <item>Рождество</item>
+        <item></item>
+        <item></item>
+        <item>Мұғалімдер күні</item>
+        <item></item>
+        <item>Хеллоуин</item>
+        <item>Рождество алдындағы кеш</item>
+        <item>Рождество</item>
+    </string-array>
+    <string-array name="horoscope_array">
+        <item>Тоқты</item>
+        <item>Торпақ</item>
+        <item>Егіздер</item>
+        <item>Шаян</item>
+        <item>Арыстан</item>
+        <item>Бикеш</item>
+        <item>Таразы</item>
+        <item>Сарышаян</item>
+        <item>Мерген</item>
+        <item>Ешкімүйіз</item>
+        <item>Суқұйғыш</item>
+        <item>Балық</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Қаң</item>
+        <item>Ақп</item>
+        <item>Нау</item>
+        <item>Сәу</item>
+        <item>Мам</item>
+        <item>Мау</item>
+        <item>Шіл</item>
+        <item>Там</item>
+        <item>Қыр</item>
+        <item>Қаз</item>
+        <item>Қар</item>
+        <item>Жел</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Жек</item>
+        <item>Дүй</item>
+        <item>Сей</item>
+        <item>Сәр</item>
+        <item>Бей</item>
+        <item>Жұм</item>
+        <item>Сен</item>
+    </string-array>
+    <string-array name="pref_default_all_day_reminder_labels">
+        <item>Жоқ</item>
+        <item>Оқиға болар күні (9:00)</item>
+        <item>1 күн бұрын (9:00)</item>
+        <item>2 күн бұрын (9:00)</item>
+    </string-array>
+    <string-array name="pref_default_reminder_labels">
+        <item>Жоқ</item>
+        <item>Оқиға уақытында</item>
+        <item>10 минут бұрын</item>
+        <item>30 минут бұрын</item>
+        <item>1 сағат бұрын</item>
+        <item>1 күннен бұрын</item>
+    </string-array>
+    <string-array name="pref_week_start_labels">
+        <item>Аймақтық әдепкі параметр</item>
+        <item>Жексенбі</item>
+        <item>Дүйсенбі</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Бірнеше минутқа кешігемін</item>
+        <item>10 минутта барамын.</item>
+        <item>Менсіз бастай беріңіз.</item>
+        <item>Кешіріңіз, мүмкіндігім болмайтын болды. Қайтадан жоспарлауымыз керек.</item>
+        <item>Өзіңіздікін жазу...</item>
+    </string-array>
+    <string-array name="reminder_day_labels">
+        <item>Жоқ</item>
+        <item>Оқиға болар күні</item>
+        <item>1 күн бұрын</item>
+        <item>2 күннен бұрын</item>
+        <item>3 күннен бұрын</item>
+        <item>Бір аптадан бұрын</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Хабарландырулар</item>
+        <item>Электрондық пошта</item>
+        <item>SMS</item>
+        <item>Оятқыш</item>
+    </string-array>
+    <string-array name="repeats_end_labels">
+        <item>Біржола</item>
+        <item>Бір күнге дейін</item>
+        <item>Белгілі бір мәрте саны</item>
+    </string-array>
+    <string-array name="tool_types">
+        <item>Күн есептеу</item>
+        <item>Уақыт аралығы</item>
+        <item>Грегориан және ай күнтізбелерінің арасында ауысу</item>
+    </string-array>
+    <string-array name="weekSpeakArr">
+        <item>Жексенбі</item>
+        <item>Дүйсенбі</item>
+        <item>Сейсенбі</item>
+        <item>Сәрсенбі</item>
+        <item>Бейсенбі</item>
+        <item>Жұма</item>
+        <item>Сенбі</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>Ж</item>
+        <item>Д</item>
+        <item>С</item>
+        <item>С</item>
+        <item>Б</item>
+        <item>Ж</item>
+        <item>С</item>
+    </string-array>
+</resources>

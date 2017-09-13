@@ -4,4 +4,16 @@
         <item quantity="other">Отложить на %d мин</item>
         <item quantity="one">Отложить на 1 минуту</item>
     </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дн.</item>
+        <item quantity="one">1 день</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s час.</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
 </resources>

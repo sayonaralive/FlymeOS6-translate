@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: AppCenter.apk
+compressionType: false
+doNotCompress:
+- arsc
+- so
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '21'
+sharedLibrary: false
+unknownFiles:
+  readme.txt: '8'
+  org/apache/http/entity/mime/version.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.3_0508
+versionInfo:
+  versionCode: '6010005'
+  versionName: 6.10.5

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/app_detail_error_divider" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/details_dialog_padding_top" />
+    <ImageButton android:layout_gravity="center|left" android:id="@id/app_detail_error_icon_back" android:background="@drawable/mz_mstore_ripple_background_borderless" android:padding="9.0dip" android:layout_width="wrap_content" android:layout_height="@dimen/details_dialog_title_height" android:src="@drawable/mz_com_titlebar_ic_close" android:layout_marginStart="13.0dip" />
+</LinearLayout>

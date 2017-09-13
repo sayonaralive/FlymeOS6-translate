@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d людина</item>
+        <item quantity="one">%1$d людина</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено 1</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контактів з номерами телефону</item>
+        <item quantity="one">1 контакт із номером телефону</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">"об'єднано з %0$d джерелами"</item>
+        <item quantity="one">"не об'єднано"</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d повід. голос. пошти</item>
+        <item quantity="one">Голосова пошта</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d людей з %2$s</item>
+        <item quantity="one">%1$d людина з %2$s</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d груп</item>
+        <item quantity="one">1 група</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено 1</item>
+    </plurals>
+    <plurals name="mzc_contacts_delete_confirm">
+        <item quantity="other">Видалити контакти: %s</item>
+        <item quantity="one">Видалити контакти: %s</item>
+    </plurals>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/linearLayout01" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/history_version_content_margin_left" android:layout_marginTop="@dimen/history_version_item_margin_top" android:layout_marginRight="@dimen/history_version_content_margin_right" android:layout_marginBottom="16.0dip">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/layoutTitle" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/title_text_size" android:textColor="@color/title_color" android:ellipsize="end" android:id="@id/txtVersion" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/Widget.Flyme.Light.TextView.Normal.Medium" />
+            <TextView android:textSize="@dimen/tag_text_size" android:gravity="center" android:id="@id/txtTag" android:padding="@dimen/tag_text_padding" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/tag_height" android:layout_marginLeft="@dimen/tag_text_margin_left" android:singleLine="true" android:includeFontPadding="false" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/common_list_item_desc_text" android:textColor="@color/transparent40" android:ellipsize="end" android:id="@id/txtSize" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:singleLine="true" android:layout_below="@id/layoutTitle" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/txtSize" android:layout_alignLeft="@id/txtSize">
+            <TextView android:textSize="@dimen/common_list_item_desc_text" android:textColor="@color/transparent40" android:ellipsize="end" android:id="@id/txtRelease" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:src="@drawable/arrow_down" />
+        </LinearLayout>
+        <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" layout="@layout/install_btn_layout" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/layout_desc" android:paddingLeft="@dimen/history_version_content_margin_left" android:paddingRight="@dimen/history_version_content_margin_right" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="14.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/version_details_title" style="@style/Widget.Flyme.Light.TextView.Normal.Medium" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/transparent40" android:id="@id/txt_desc" android:paddingBottom="@dimen/history_version_item_margin_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="9.0dip" android:lineSpacingExtra="@dimen/history_version_line_spacing_extra" />
+    </LinearLayout>
+    <View android:id="@id/divider" android:background="@color/common_list_item_divider" android:layout_width="fill_parent" android:layout_height="@dimen/common_list_divider_height" android:layout_marginLeft="@dimen/common_list_margin_left" android:layout_marginRight="@dimen/common_list_margin_right" />
+</LinearLayout>

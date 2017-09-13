@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="consumption_detail_result_tip">
+        <item>"哇!真棒!完成了一次学习
+每天进步一点点~"</item>
+        <item>作业问题解决了吗?还有难题再来问吧~</item>
+        <item>太棒了!创造了最高历史辅导时长记录!</item>
+        <item>"不到1分钟呢
+别怕,大胆向老师提问,问懂为止哦!"</item>
+    </string-array>
+    <string-array name="default_descriptions_of_tags">
+        <item>长得好看就是任性！</item>
+        <item>大家快来看看，这是森么？！</item>
+        <item>天天写作业真无聊，开小差来吐槽~</item>
+        <item>哈哈，我们教室黑板是酱紫的！</item>
+        <item>看！这里是二次元的世界~</item>
+        <item>如果睁眼便是十年后，你希望自己变成怎样的人？</item>
+    </string-array>
+    <string-array name="default_hints_of_tags">
+        <item>天生丽质难自弃，说几句，更涨粉哦</item>
+        <item>猜不到啊，提示一下吧</item>
+        <item>作业写烦了，吐几句喽</item>
+        <item>教室黑板啥都有，这是什么呢</item>
+        <item>二次元的世界好难懂，说说这是什么？</item>
+        <item>四叶草在未来唯美盛开，此时此刻你想说些什么？</item>
+    </string-array>
+    <string-array name="five_star_value">
+        <item>思路清晰</item>
+        <item>讲解详细</item>
+        <item>风趣幽默</item>
+        <item>简洁明了</item>
+        <item>热情耐心</item>
+        <item>温柔认真</item>
+    </string-array>
+    <string-array name="four_star_value">
+        <item>思路清晰</item>
+        <item>讲解详细</item>
+        <item>风趣幽默</item>
+        <item>简洁明了</item>
+        <item>热情耐心</item>
+        <item>温柔认真</item>
+    </string-array>
+    <string-array name="new_favorite_list_filter_handle_array">
+        <item>全部</item>
+        <item>会</item>
+        <item>不会</item>
+    </string-array>
+    <string-array name="new_favorite_list_filter_subject_array">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+        <item>化学</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="one_star_value">
+        <item>没审题先计时</item>
+        <item>讲解有误</item>
+        <item>声音嘈杂</item>
+        <item>讲解不细致</item>
+        <item>拖延时间</item>
+        <item>说话有口音</item>
+    </string-array>
+    <string-array name="personality_grades_array">
+        <item>小学</item>
+        <item>七年级</item>
+        <item>八年级</item>
+        <item>九年级</item>
+        <item>高一</item>
+        <item>高二</item>
+        <item>高三</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="primary_grade_array">
+        <item>全部</item>
+        <item>一年级</item>
+        <item>二年级</item>
+        <item>三年级</item>
+        <item>四年级</item>
+        <item>五年级</item>
+        <item>六年级</item>
+    </string-array>
+    <string-array name="question_detail_grade_array">
+        <item>小学</item>
+        <item>七年级</item>
+        <item>八年级</item>
+        <item>九年级</item>
+        <item>高一</item>
+        <item>高二</item>
+        <item>高三</item>
+    </string-array>
+    <string-array name="question_detail_subject_array">
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+        <item>化学</item>
+    </string-array>
+    <string-array name="question_square_grade_array">
+        <item>全部</item>
+        <item>小学</item>
+        <item>七年级</item>
+        <item>八年级</item>
+        <item>九年级</item>
+        <item>高一</item>
+        <item>高二</item>
+        <item>高三</item>
+    </string-array>
+    <string-array name="question_square_subject_array">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+        <item>化学</item>
+    </string-array>
+    <string-array name="question_square_subject_array_0">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+    </string-array>
+    <string-array name="question_square_subject_array_10">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+        <item>化学</item>
+    </string-array>
+    <string-array name="question_square_subject_array_11">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+        <item>化学</item>
+    </string-array>
+    <string-array name="question_square_subject_array_12">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+        <item>化学</item>
+    </string-array>
+    <string-array name="question_square_subject_array_7">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+    </string-array>
+    <string-array name="question_square_subject_array_8">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+    </string-array>
+    <string-array name="question_square_tag_array">
+        <item>秀自拍</item>
+        <item>你猜猜</item>
+        <item>吐槽贴</item>
+        <item>晒黑板</item>
+        <item>爱动漫</item>
+        <item>四叶草</item>
+    </string-array>
+    <string-array name="teachers_pop_grade_array">
+        <item>全部</item>
+        <item>小学</item>
+        <item>初中</item>
+        <item>高中</item>
+    </string-array>
+    <string-array name="teachers_pop_grade_detail_array">
+        <item>小学</item>
+        <item>七年级</item>
+        <item>八年级</item>
+        <item>九年级</item>
+        <item>高一</item>
+        <item>高二</item>
+        <item>高三</item>
+    </string-array>
+    <string-array name="teachers_pop_sex_array">
+        <item>全部</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="teachers_pop_sort_array">
+        <item>默认排序</item>
+        <item>价格最高</item>
+        <item>价格最低</item>
+        <item>星级</item>
+        <item>教龄</item>
+        <item>辅导次数</item>
+    </string-array>
+    <string-array name="teachers_pop_subject_array">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+        <item>化学</item>
+        <item>心理</item>
+    </string-array>
+    <string-array name="teachers_pop_subject_paidan_array">
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>物理</item>
+        <item>化学</item>
+        <item>心理</item>
+    </string-array>
+    <string-array name="teachers_pop_subject_primary_array">
+        <item>全部</item>
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>心理</item>
+    </string-array>
+    <string-array name="teachers_pop_subject_primary_paidan_array">
+        <item>数学</item>
+        <item>语文</item>
+        <item>英语</item>
+        <item>心理</item>
+    </string-array>
+    <string-array name="teachers_pop_type_array">
+        <item>全部</item>
+        <item>辅导过</item>
+        <item>关注的</item>
+    </string-array>
+    <string-array name="three_star_value">
+        <item>讲解不细致</item>
+        <item>板书不工整</item>
+        <item>拖延时间</item>
+        <item>声音太小</item>
+        <item>缺少互动</item>
+        <item>态度一般</item>
+    </string-array>
+    <string-array name="two_star_value">
+        <item>没审题先计时</item>
+        <item>讲解有误</item>
+        <item>声音嘈杂</item>
+        <item>讲解不细致</item>
+        <item>拖延时间</item>
+        <item>说话有口音</item>
+    </string-array>
+    <string-array name="update_new_favorite_error_msg_if_pics_too_many">
+        <item>题目图片不能超过三张</item>
+        <item>答案图片不能超过三张</item>
+        <item>总结图片不能超过三张</item>
+    </string-array>
+</resources>

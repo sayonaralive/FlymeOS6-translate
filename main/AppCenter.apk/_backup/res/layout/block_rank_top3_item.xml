@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="111.0dip" android:layout_height="198.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/rank_top3_item_bg" android:layout_width="106.0dip" android:layout_height="156.0dip" android:layout_marginBottom="14.0dip" android:src="@color/colorGrey" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="11.659973dip">
+        <com.meizu.cloud.base.widget.IconShadowLayout android:id="@id/icon_shadow" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/icon" android:layout_width="64.0dip" android:layout_height="64.0dip" android:layout_margin="0.33000004dip" android:src="@drawable/ic_launcher" />
+        </com.meizu.cloud.base.widget.IconShadowLayout>
+        <TextView android:gravity="center" android:id="@id/text_index" android:background="@drawable/mstore_rank_number_bg" android:paddingTop="2.669983dip" android:layout_width="20.0dip" android:layout_height="14.0dip" android:layout_marginTop="10.659973dip" />
+        <TextView android:textSize="@dimen/mz_text_size_normal" android:ellipsize="end" android:id="@id/app_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="12.0dip" android:singleLine="true" android:includeFontPadding="false" android:fontFamily="DINPro-medium" />
+        <TextView android:textSize="@dimen/mz_text_size_little" android:textColor="@color/transparent30" android:id="@id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.6599731dip" android:layout_marginBottom="7.0dip" android:maxLines="1" android:includeFontPadding="false" />
+        <include layout="@layout/install_btn_layout" />
+    </LinearLayout>
+</FrameLayout>

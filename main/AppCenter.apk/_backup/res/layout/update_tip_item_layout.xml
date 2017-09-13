@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/mz_list_selector_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="64.0dip" android:paddingStart="@dimen/fuction_manage_padding" android:paddingEnd="@dimen/fuction_manage_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/mine_text_size" android:textColor="@color/title_color" android:gravity="center_vertical" android:id="@id/update_tip" android:layout_width="wrap_content" android:layout_height="@dimen/fuction_manage_layout_height" android:fontFamily="sans-serif-medium" android:layout_marginStart="10.0dip" android:layout_marginEnd="8.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:textSize="10.0sp" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/update_count" android:background="@drawable/red_oval" android:layout_width="wrap_content" android:layout_height="16.0dip" android:maxLines="1" android:fontFamily="sans-serif-medium" android:paddingStart="5.0dip" android:paddingEnd="5.0dip" />
+        </LinearLayout>
+        <TextView android:textSize="14.0sp" android:textColor="@color/transparent40" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/update_record" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.meizu.cloud.app.widget.AutoChangeImageView android:layout_gravity="center_vertical" android:id="@id/icon" android:layout_width="21.299988dip" android:layout_height="21.299988dip" android:scaleType="centerInside" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mz_arrow_next_right" android:scaleType="centerInside" android:paddingStart="7.0dip" android:layout_marginEnd="8.0dip" />
+    </LinearLayout>
+    <View android:background="@color/divider_color" android:layout_width="fill_parent" android:layout_height="0.6700001dip" />
+</LinearLayout>

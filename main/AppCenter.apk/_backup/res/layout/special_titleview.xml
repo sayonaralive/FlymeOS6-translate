@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="bottom" android:orientation="vertical" android:id="@id/title_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.widget.Space android:id="@id/topsapce" android:layout_width="fill_parent" android:layout_height="20.0dip" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/title_content_layout" android:paddingLeft="@dimen/mz_list_category_1_title_content_padding_left" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/img_cursor" android:background="?mzThemeColor" android:layout_width="@dimen/mz_list_category_identity_width" android:layout_height="fill_parent" android:layout_marginTop="13.0dip" android:layout_marginBottom="@dimen/mz_list_category_1_text_padding_bottom" android:minHeight="@dimen/mz_list_category_identity_height" />
+        <TextView android:id="@android:id/text1" android:paddingLeft="@dimen/mz_list_category_1_text_pic_padding" android:paddingRight="?android:listPreferredItemPaddingRight" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.299988dip" android:layout_marginBottom="@dimen/mz_list_category_1_text_padding_bottom" android:includeFontPadding="false" style="@style/Widget.Flyme.Light.TextView.List.Title" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="bottom" android:id="@id/install_view_layout" android:background="@color/white" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/app_info_bottom_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/button_divivder" android:background="@color/transparent10" android:layout_width="fill_parent" android:layout_height="0.6700001dip" />
+    <com.meizu.cloud.app.widget.AnimDownloadProgressButton android:id="@id/round_corner_button" android:layout_width="@dimen/app_info_round_corner_button_width" android:layout_height="38.0dip" android:layout_centerInParent="true" />
+    <FrameLayout android:orientation="horizontal" android:id="@id/try_install_layout" android:visibility="gone" android:layout_width="286.0dip" android:layout_height="38.0dip" android:layout_centerInParent="true">
+        <TextView android:textSize="18.0sp" android:textColor="@color/rcpb_normal_text_color" android:gravity="center" android:layout_gravity="left" android:id="@id/try_install_btn" android:background="@drawable/rcpb_try_bg_normal" android:clickable="true" android:layout_width="@dimen/app_info_try_install_btn_width" android:layout_height="38.0dip" android:text="试用" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/rcpb_normal_text_color" android:gravity="center" android:layout_gravity="right" android:id="@id/price_install_btn" android:background="@drawable/rcpb_try_bg_normal" android:clickable="true" android:layout_width="@dimen/app_info_price_install_btn_width" android:layout_height="38.0dip" android:text="￥3.89" />
+    </FrameLayout>
+</RelativeLayout>

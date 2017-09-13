@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="font_updates">
+        <item quantity="other">%d қаріпті жаңартуға болады</item>
+    </plurals>
+    <plurals name="font_updates_complete">
+        <item quantity="other">%1$d қаріп жаңартылды</item>
+    </plurals>
+    <plurals name="local_delete_badge">
+        <item quantity="other">%d қосымша тұсқағазды жою</item>
+        <item quantity="one">%d қосымша тұсқағазды жою</item>
+    </plurals>
+    <plurals name="local_delete_font">
+        <item quantity="other">%d қаріпті жою</item>
+        <item quantity="one">%d қаріпті жою</item>
+    </plurals>
+    <plurals name="local_delete_pap">
+        <item quantity="other">%d тұсқағазды жою</item>
+        <item quantity="one">%d тұсқағазды жою</item>
+    </plurals>
+    <plurals name="local_delete_ringtone">
+        <item quantity="other">%d рингтонды жою</item>
+        <item quantity="one">%d рингтонды жою</item>
+    </plurals>
+    <plurals name="local_delete_theme">
+        <item quantity="other">%d тақырыпты жою</item>
+        <item quantity="one">%d тақырыпты жою</item>
+    </plurals>
+    <plurals name="theme_updates">
+        <item quantity="other">%d тақырыпты жаңартуға болады</item>
+    </plurals>
+    <plurals name="theme_updates_complete">
+        <item quantity="other">%1$d тақырып жаңартылды</item>
+    </plurals>
+    <plurals name="update_incremental_complete_title">
+        <item quantity="other">%d тақырып жаңартылды</item>
+        <item quantity="one">%d тақырып жаңартылды</item>
+    </plurals>
+</resources>

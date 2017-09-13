@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/comments_view_more" android:background="@drawable/mz_item_image_background" android:paddingLeft="23.0dip" android:paddingRight="23.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="48.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/star_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true">
+        <com.meizu.common.widget.MzRatingBar android:layout_gravity="center_vertical" android:id="@id/ratingbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:numStars="5" android:rating="3.0" android:isIndicator="true" style="@style/Widget.MeizuCommon.MzRatingBar.Small" />
+        <TextView android:textSize="14.0sp" android:textColor="#ffff9700" android:layout_gravity="center_vertical" android:id="@id/txt_star" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4.5" android:fontFamily="DINPro-medium" android:paddingStart="@dimen/app_info_app_star_paddingleft" />
+    </LinearLayout>
+    <TextView android:textSize="14.0sp" android:textColor="@color/theme_color" android:id="@id/comments_viewmore_tx" android:paddingRight="@dimen/mz_list_category_1_right_label_text_pic_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="120.0dip" android:singleLine="true" android:layout_centerVertical="true" android:fontFamily="sans-serif-medium" android:layout_toStartOf="@id/comment_arrow_next_right" />
+    <ImageView android:id="@id/comment_arrow_next_right" android:background="@drawable/mz_list_category_1_right_triangle" android:layout_width="@dimen/mz_list_category_1_right_label_pic_weight" android:layout_height="@dimen/mz_list_category_1_right_label_pic_height" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:scaleY="0.95" />
+</RelativeLayout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_tab_array">
+        <item>Теми</item>
+        <item>Шрифти</item>
+        <item>Мелодії дзвінків</item>
+        <item>Фонові рисунки</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Квi</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
+    <string-array name="switch_wallpaper_category_array">
+        <item>Кожну годину</item>
+        <item>Кожнi 3 годин</item>
+        <item>Кожнi 6 годин</item>
+        <item>Кожнi 12 годин</item>
+    </string-array>
+    <string-array name="time_acceleration_entry">
+        <item>Прискорення 1х</item>
+        <item>Прискорення 10х</item>
+        <item>Прискорення 100х</item>
+        <item>Прискорення 1000х</item>
+    </string-array>
+    <string-array name="update_wallpaper_frequency">
+        <item>Щоразу при вимиканні екрана</item>
+        <item>Кожні 15 хвилин</item>
+        <item>Кожні 30 хвилин</item>
+        <item>Щогодини</item>
+        <item>Кожні 3 години</item>
+        <item>Кожні 24 години</item>
+    </string-array>
+    <string-array name="webview_tel_dialog_title">
+        <item>Зателефонувати</item>
+        <item>Надіслати повідомлення</item>
+        <item>Копіювати</item>
+        <item>Додати до контактів</item>
+    </string-array>
+</resources>

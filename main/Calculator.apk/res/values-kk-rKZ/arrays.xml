@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="always_using_country_cn">
+        <item>CNY</item>
+        <item>USD</item>
+        <item>HKD</item>
+        <item>MOP</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>JPY</item>
+        <item>SGD</item>
+        <item>MYR</item>
+        <item>THB</item>
+        <item>VND</item>
+    </string-array>
+    <string-array name="area_cn">
+        <item>шаршы метр</item>
+        <item>шаршы километр</item>
+        <item>mu</item>
+        <item>шаршы фут</item>
+        <item>шаршы сантиметр</item>
+        <item>шаршы сантиметр</item>
+        <item>шаршы миллиметр</item>
+        <item>шаршы миль</item>
+        <item>акр</item>
+        <item>шаршы ярд</item>
+        <item>шаршы дюйм</item>
+        <item>гектар</item>
+    </string-array>
+    <string-array name="cnnumber_list">
+        <item>ling</item>
+        <item>yi</item>
+        <item>er</item>
+        <item>san</item>
+        <item>si</item>
+        <item>wu</item>
+        <item>liu</item>
+        <item>qi</item>
+        <item>ba</item>
+        <item>jiu</item>
+    </string-array>
+    <string-array name="count_cn">
+        <item>DZD</item>
+        <item>AFN</item>
+        <item>ARS</item>
+        <item>AED</item>
+        <item>AWG</item>
+        <item>OMR</item>
+        <item>AZN</item>
+        <item>EGP</item>
+        <item>ETB</item>
+        <item>IEP</item>
+        <item>AOA</item>
+        <item>AUD</item>
+        <item>MOP</item>
+        <item>BSD</item>
+        <item>BBD</item>
+        <item>Папуа - Жаңа Гвинея</item>
+        <item>PKR</item>
+        <item>PYG</item>
+        <item>BHD</item>
+        <item>PAB</item>
+        <item>BRL</item>
+        <item>BYR</item>
+        <item>BMD</item>
+        <item>BGN</item>
+        <item>ISK</item>
+        <item>PLN</item>
+        <item>Босния және Герцеговина</item>
+        <item>BOB</item>
+        <item>BZD</item>
+        <item>BWP</item>
+        <item>BTN</item>
+        <item>BIF</item>
+        <item>KPW</item>
+        <item>DKK</item>
+        <item>Драхма</item>
+        <item>XCD</item>
+        <item>DOP</item>
+        <item>RUB</item>
+        <item>ERN</item>
+        <item>XPF</item>
+        <item>PHP</item>
+        <item>FJD</item>
+        <item>CVE</item>
+        <item>FKP</item>
+        <item>GMD</item>
+        <item>XAF</item>
+        <item>HKD</item>
+        <item>COP</item>
+        <item>CRC</item>
+        <item>GEL</item>
+        <item>CUP</item>
+        <item>GYD</item>
+        <item>Арнайы қарыз алу құқығы</item>
+        <item>KZT</item>
+        <item>HTG</item>
+        <item>KRW</item>
+        <item>NLG</item>
+        <item>HNL</item>
+        <item>DJF</item>
+        <item>KGS</item>
+        <item>GNF</item>
+        <item>GHC</item>
+        <item>CAD</item>
+        <item>KHR</item>
+        <item>CZK</item>
+        <item>ZWD</item>
+        <item>QAR</item>
+        <item>KYD</item>
+        <item>KMF</item>
+        <item>KWD</item>
+        <item>HRK</item>
+        <item>KES</item>
+        <item>LVL</item>
+        <item>LSL</item>
+        <item>LAK</item>
+        <item>CNH</item>
+        <item>LBP</item>
+        <item>LTL</item>
+        <item>LRD</item>
+        <item>LYD</item>
+        <item>RWF</item>
+        <item>RON</item>
+        <item>MVR</item>
+        <item>MGA</item>
+        <item>MWK</item>
+        <item>MYR</item>
+        <item>MKD</item>
+        <item>Маврикий</item>
+        <item>MRO</item>
+        <item>USD</item>
+        <item>MNT</item>
+        <item>BDT</item>
+        <item>PEN</item>
+        <item>BUK</item>
+        <item>MDL</item>
+        <item>MAD</item>
+        <item>MZN</item>
+        <item>Мексика</item>
+        <item>MXN</item>
+        <item>NAD</item>
+        <item>ZAR</item>
+        <item>NIO</item>
+        <item>NPR</item>
+        <item>NGN</item>
+        <item>NOK</item>
+        <item>EUR</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>SVC</item>
+        <item>WST</item>
+        <item>RSD</item>
+        <item>SLL</item>
+        <item>SCR</item>
+        <item>SAR</item>
+        <item>STD</item>
+        <item>SHP</item>
+        <item>LKR</item>
+        <item>SZL</item>
+        <item>SDP</item>
+        <item>SRD</item>
+        <item>UZS</item>
+        <item>SBD</item>
+        <item>SOS</item>
+        <item>TJS</item>
+        <item>THB</item>
+        <item>TZS</item>
+        <item>Тонга</item>
+        <item>Тринидад және Тобаго</item>
+        <item>TND</item>
+        <item>TRY</item>
+        <item>TMT</item>
+        <item>VUV</item>
+        <item>GTQ</item>
+        <item>VEF</item>
+        <item>BND</item>
+        <item>UGS</item>
+        <item>UHR</item>
+        <item>UYU</item>
+        <item>Батыс Африка</item>
+        <item>SGD</item>
+        <item>TWD</item>
+        <item>NZD</item>
+        <item>HUF</item>
+        <item>SYP</item>
+        <item>Ямайка</item>
+        <item>YER</item>
+        <item>IQD</item>
+        <item>IRR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>IDR</item>
+        <item>GBP</item>
+        <item>JOD</item>
+        <item>VND</item>
+        <item>ZMK</item>
+        <item>GIP</item>
+        <item>CLP</item>
+        <item>XAF</item>
+    </string-array>
+    <string-array name="country_name">
+        <item>UAE</item>
+        <item>Ауғанстан</item>
+        <item>Армения</item>
+        <item>Нидерланд Антиль аралдары</item>
+        <item>Ангола</item>
+        <item>Аргентина</item>
+        <item>Австралия</item>
+        <item>Аруба</item>
+        <item>Әзірбайжан</item>
+        <item>Босния</item>
+        <item>Барбадос</item>
+        <item>Бангладеш</item>
+        <item>Болгария</item>
+        <item>Бахрейн</item>
+        <item>Бурунди</item>
+        <item>Бермуд аралдары</item>
+        <item>Бруней</item>
+        <item>Боливия</item>
+        <item>Бразилия</item>
+        <item>Багам аралдары</item>
+        <item>Бутан</item>
+        <item>Ботсвана</item>
+        <item>Беларусь</item>
+        <item>Белиз</item>
+        <item>Канада</item>
+        <item>Конго</item>
+        <item>Швейцария</item>
+        <item>Чили</item>
+        <item>Қытай</item>
+        <item>Қытай</item>
+        <item>Колумбия</item>
+        <item>Коста-Рика</item>
+        <item>Куба</item>
+        <item>Кабо-Верде</item>
+        <item>Чехия және Словакия</item>
+        <item>Джибути</item>
+        <item>Дания</item>
+        <item>Доминика</item>
+        <item>Алжир</item>
+        <item>Мысыр</item>
+        <item>Эритрея</item>
+        <item>Эфиопия</item>
+        <item>ЕО</item>
+        <item>Фиджи</item>
+        <item>Фолкленд</item>
+        <item>Ұлыбритания</item>
+        <item>Грузия</item>
+        <item>Гана</item>
+        <item>Гибралтар</item>
+        <item>Гамбия</item>
+        <item>Гвинея</item>
+        <item>Гватемала</item>
+        <item>Гайана</item>
+        <item>Гонконг</item>
+        <item>Гондурас</item>
+        <item>Хорватия</item>
+        <item>Гаити</item>
+        <item>Венгрия</item>
+        <item>Индонезия</item>
+        <item>Ирландия</item>
+        <item>Израиль</item>
+        <item>Үндістан</item>
+        <item>Ирак</item>
+        <item>Иран</item>
+        <item>Исландия</item>
+        <item>Ямайка</item>
+        <item>Иордания</item>
+        <item>Жапония</item>
+        <item>Кения</item>
+        <item>Қырғызстан</item>
+        <item>Камбоджа</item>
+        <item>Коморин</item>
+        <item>Солтүстік Корея</item>
+        <item>Оңтүстік Корея</item>
+        <item>Кувейт</item>
+        <item>Кайман аралдары</item>
+        <item>Қазақстан</item>
+        <item>Лаос</item>
+        <item>Ливан</item>
+        <item>Шри-Ланка</item>
+        <item>Либерия</item>
+        <item>Лесото</item>
+        <item>Литва</item>
+        <item>Латвия</item>
+        <item>Ливия</item>
+        <item>Марокко</item>
+        <item>Молдова</item>
+        <item>Мадагаскар</item>
+        <item>Македония</item>
+        <item>Мьянма</item>
+        <item>Монғолия</item>
+        <item>Макау</item>
+        <item>Мавритания</item>
+        <item>Маврикий</item>
+        <item>Мальдив аралдары</item>
+        <item>Малави</item>
+        <item>Мексика</item>
+        <item>MXV</item>
+        <item>Малайзия</item>
+        <item>Мозамбик</item>
+        <item>Намибия</item>
+        <item>Нигерия</item>
+        <item>Никарагуа</item>
+        <item>Норвегия</item>
+        <item>Непал</item>
+        <item>Жаңа Зеландия</item>
+        <item>Оман</item>
+        <item>Панама</item>
+        <item>Перу</item>
+        <item>Папуа - Жаңа Гвинея</item>
+        <item>Филиппин</item>
+        <item>Пәкістан</item>
+        <item>Польша</item>
+        <item>Парагвай</item>
+        <item>Катар</item>
+        <item>Румыния</item>
+        <item>Сербия</item>
+        <item>Ресей</item>
+        <item>Руанда</item>
+        <item>Сауд Арабиясы</item>
+        <item>Соломон аралдары</item>
+        <item>Сейшель аралдары</item>
+        <item>Судан Республикасы</item>
+        <item>Швеция</item>
+        <item>Сингапур</item>
+        <item>Әулие Елена аралы</item>
+        <item>Сьерра-Леоне</item>
+        <item>Сомали</item>
+        <item>Суринам</item>
+        <item>Сан-Томе және Принсипи</item>
+        <item>Сальвадор</item>
+        <item>Сирия</item>
+        <item>Свазиленд</item>
+        <item>Таиланд</item>
+        <item>Тәжікстан</item>
+        <item>Түркіменстан</item>
+        <item>Тунис</item>
+        <item>Тонга</item>
+        <item>Түркия</item>
+        <item>Тринидад және Тобаго</item>
+        <item>Тайвань</item>
+        <item>Танзания</item>
+        <item>Украина</item>
+        <item>Уганда</item>
+        <item>АҚШ</item>
+        <item>Уругвай</item>
+        <item>Өзбекстан</item>
+        <item>Венесуэла Боливар Республикасы</item>
+        <item>Вьетнам</item>
+        <item>Вануату Республикасы</item>
+        <item>Самоа</item>
+        <item>ECCAS</item>
+        <item>Кариб аралдары</item>
+        <item>ХВҚ</item>
+        <item>UEMOA</item>
+        <item>Француз Полинезиясы, Жаңа Каледония, Валлис және Футуна</item>
+        <item>Йемен Араб Республикасы</item>
+        <item>Оңтүстік Африка</item>
+        <item>Замбия</item>
+        <item>Зимбабве</item>
+    </string-array>
+    <string-array name="country_name_cn">
+        <item>Алжир</item>
+        <item>Ауғанстан</item>
+        <item>Аргентина</item>
+        <item>UAE</item>
+        <item>Аруба аралы</item>
+        <item>Оман</item>
+        <item>Әзірбайжан</item>
+        <item>Мысыр</item>
+        <item>Эфиопия</item>
+        <item>Ирландия</item>
+        <item>Ангола</item>
+        <item>Австралия</item>
+        <item>Макау</item>
+        <item>Багам аралдары</item>
+        <item>Барбадос</item>
+        <item>Папуа - Жаңа Гвинея</item>
+        <item>Пәкістан</item>
+        <item>Парагвай</item>
+        <item>Бахрейн</item>
+        <item>Панама</item>
+        <item>Бразилия</item>
+        <item>Беларусь</item>
+        <item>Бермуд аралдары</item>
+        <item>Болгария</item>
+        <item>Исландия</item>
+        <item>Польша</item>
+        <item>Босния</item>
+        <item>Боливия</item>
+        <item>Белиз</item>
+        <item>Ботсвана</item>
+        <item>Бутан</item>
+        <item>Бурунди</item>
+        <item>Солтүстік Корея</item>
+        <item>Дания</item>
+        <item>Армения</item>
+        <item>Кариб аралдары</item>
+        <item>Доминика</item>
+        <item>Ресей</item>
+        <item>Эритрея</item>
+        <item>Француз Полинезиясы, Жаңа Каледония, Валлис және Футуна</item>
+        <item>Филиппин</item>
+        <item>Фиджи</item>
+        <item>Кабо-Верде</item>
+        <item>Фолкленд</item>
+        <item>Гамбия</item>
+        <item>Конго</item>
+        <item>Гонконг</item>
+        <item>Колумбия</item>
+        <item>Коста-Рика</item>
+        <item>Грузия</item>
+        <item>Куба</item>
+        <item>Гайана</item>
+        <item>ХВҚ</item>
+        <item>Қазақстан</item>
+        <item>Гаити</item>
+        <item>Оңтүстік Корея</item>
+        <item>Нидерланд Антиль аралдары</item>
+        <item>Гондурас</item>
+        <item>Джибути</item>
+        <item>Қырғызстан</item>
+        <item>Гвинея</item>
+        <item>Гана</item>
+        <item>Канада</item>
+        <item>Камбоджа</item>
+        <item>Чехия және Словакия</item>
+        <item>Зимбабве</item>
+        <item>Катар</item>
+        <item>Кайман аралдары</item>
+        <item>Коморин</item>
+        <item>Кувейт</item>
+        <item>Хорватия</item>
+        <item>Кения</item>
+        <item>Латвия</item>
+        <item>Лесото</item>
+        <item>Лаос</item>
+        <item>Қытай</item>
+        <item>Ливан</item>
+        <item>Литва</item>
+        <item>Либерия</item>
+        <item>Ливия</item>
+        <item>Руанда</item>
+        <item>Румыния</item>
+        <item>Мальдив аралдары</item>
+        <item>Мадагаскар</item>
+        <item>Малави</item>
+        <item>Малайзия</item>
+        <item>Македония</item>
+        <item>Маврикий</item>
+        <item>Мавритания</item>
+        <item>АҚШ</item>
+        <item>Монғолия</item>
+        <item>Бангладеш</item>
+        <item>Перу</item>
+        <item>Мьянма</item>
+        <item>Молдова</item>
+        <item>Марокко</item>
+        <item>Мозамбик</item>
+        <item>MXV</item>
+        <item>Мексика</item>
+        <item>NAD</item>
+        <item>Оңтүстік Африка</item>
+        <item>Никарагуа</item>
+        <item>Непал</item>
+        <item>Нигерия</item>
+        <item>Норвегия</item>
+        <item>ЕО</item>
+        <item>Қытай</item>
+        <item>Жапония</item>
+        <item>Швеция</item>
+        <item>Швейцария</item>
+        <item>Сальвадор</item>
+        <item>Самоа</item>
+        <item>Сербия</item>
+        <item>SLL</item>
+        <item>Сейшель аралдары</item>
+        <item>Сауд Арабиясы</item>
+        <item>Сан-Томе және Принсипи</item>
+        <item>Әулие Елена аралы</item>
+        <item>Шри-Ланка</item>
+        <item>Свазиленд</item>
+        <item>Судан</item>
+        <item>Суринам</item>
+        <item>Өзбекстан</item>
+        <item>Соломон аралдары</item>
+        <item>Сомали</item>
+        <item>Тәжікстан</item>
+        <item>Таиланд</item>
+        <item>Танзания</item>
+        <item>Тонга</item>
+        <item>Тринидад және Тобаго</item>
+        <item>Тунис</item>
+        <item>Түркия</item>
+        <item>Түркіменстан</item>
+        <item>Вануату</item>
+        <item>Гватемала</item>
+        <item>Венесуэла Боливар Республикасы</item>
+        <item>Бруней</item>
+        <item>Уганда</item>
+        <item>Украина</item>
+        <item>Уругвай</item>
+        <item>UEMOA</item>
+        <item>Сингапур</item>
+        <item>Тайвань</item>
+        <item>Жаңа Зеландия</item>
+        <item>Венгрия</item>
+        <item>Сирия</item>
+        <item>Ямайка</item>
+        <item>Йемен Араб Республикасы</item>
+        <item>Ирак</item>
+        <item>Иран</item>
+        <item>Израиль</item>
+        <item>Үндістан</item>
+        <item>Индонезия</item>
+        <item>Ұлыбритания</item>
+        <item>Иордания</item>
+        <item>Вьетнам</item>
+        <item>Замбия</item>
+        <item>Гибралтар</item>
+        <item>Чили</item>
+        <item>ECCAS</item>
+    </string-array>
+    <string-array name="dot_series_list">
+        <item>jiao</item>
+        <item>fen</item>
+    </string-array>
+    <string-array name="length_cn">
+        <item>метр</item>
+        <item>километр</item>
+        <item>chi</item>
+        <item>аяқ</item>
+        <item>дециметр</item>
+        <item>сантиметр</item>
+        <item>li</item>
+        <item>zhang</item>
+        <item>cun</item>
+        <item>fen</item>
+        <item>li</item>
+        <item>теңіз милі</item>
+        <item>миль</item>
+        <item>дюйм</item>
+        <item>миллиметр</item>
+        <item>микрон</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Қаң</item>
+        <item>Ақп</item>
+        <item>Нау</item>
+        <item>Сәу</item>
+        <item>Мам</item>
+        <item>Мау</item>
+        <item>Шіл</item>
+        <item>Там</item>
+        <item>Қыр</item>
+        <item>Қаз</item>
+        <item>Қар</item>
+        <item>Жел</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Жек</item>
+        <item>Дүй</item>
+        <item>Сей</item>
+        <item>Сәр</item>
+        <item>Бей</item>
+        <item>Жұм</item>
+        <item>Сен</item>
+    </string-array>
+    <string-array name="series_list">
+        <item></item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>wan</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>yi</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>wan</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+    </string-array>
+    <string-array name="tab_name_list">
+        <item>Валюта</item>
+        <item>Ұзындық</item>
+        <item>Аймақ</item>
+        <item>Салмақ</item>
+        <item>Көлемі</item>
+    </string-array>
+    <string-array name="volume_cn">
+        <item>текше метр</item>
+        <item>литр</item>
+        <item>галлон</item>
+        <item>текше фут</item>
+        <item>гектолитр</item>
+        <item>текше дециметр</item>
+        <item>текше сантиметр</item>
+        <item>миллилитр</item>
+        <item>текше миллиметр</item>
+        <item>баррель</item>
+        <item>унция</item>
+        <item>Текше ярд</item>
+        <item>текше дюйм</item>
+    </string-array>
+    <string-array name="wight_cn">
+        <item>килограмм</item>
+        <item>тонна</item>
+        <item>фунт</item>
+        <item>унция</item>
+        <item>грамм</item>
+        <item>миллиграмм</item>
+        <item>jin</item>
+        <item>dan</item>
+        <item>liang</item>
+        <item>qian</item>
+    </string-array>
+</resources>

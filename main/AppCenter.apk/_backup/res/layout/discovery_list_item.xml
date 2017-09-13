@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="@drawable/mz_list_selector_background" android:paddingLeft="@dimen/common_list_margin_left" android:paddingRight="@dimen/common_list_margin_right" android:layout_width="fill_parent" android:layout_height="@dimen/discovery_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/discovery_icon" android:layout_width="@dimen/discovery_icon_imageview_width" android:layout_height="@dimen/discovery_icon_imageview_height" android:layout_centerVertical="true" />
+    <TextView android:textSize="18.0sp" android:textColor="@color/title_color" android:ellipsize="end" android:id="@id/txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/discovery_title_textview_marginleft" android:maxLines="1" android:includeFontPadding="false" android:layout_toRightOf="@id/discovery_icon" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mz_arrow_next_right" android:scaleType="fitXY" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>

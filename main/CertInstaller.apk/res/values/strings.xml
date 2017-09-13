@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mc_allow">Allow</string>
+    <string name="mc_alway_allow">Always allow</string>
+    <string name="mc_cancel">Cancel</string>
+    <string name="mc_cancel_button_text">Cancel</string>
+    <string name="mc_cancel_collected_message">Canceled from Favorite</string>
+    <string name="mc_cancel_praised_message">Cancel like</string>
+    <string name="mc_change_num">Update</string>
+    <string name="mc_collected_message">Favorite status</string>
+    <string name="mc_custom_date_time_gregorian">Gregorian</string>
+    <string name="mc_custom_date_time_lunar">Lunar</string>
+    <string name="mc_date_time_day">d</string>
+    <string name="mc_date_time_month">m</string>
+    <string name="mc_date_time_sec">s</string>
+    <string name="mc_date_time_set">Set</string>
+    <string name="mc_date_time_year">y</string>
+    <string name="mc_description_target_answer">Answer</string>
+    <string name="mc_description_target_decline">Reject</string>
+    <string name="mc_disable">Disable</string>
+    <string name="mc_every_day">Everyday</string>
+    <string name="mc_friday">FR</string>
+    <string name="mc_go_Refreshing">Go refresh</string>
+    <string name="mc_hour">h</string>
+    <string name="mc_is_Refreshing">Refreshing</string>
+    <string name="mc_last_refresh">last refresh</string>
+    <string name="mc_last_refresh_hour">hour(s) ago</string>
+    <string name="mc_last_refresh_just_now">just now</string>
+    <string name="mc_last_refresh_minute">minutes ago</string>
+    <string name="mc_last_refresh_second">s ago</string>
+    <string name="mc_loading_animation_alert">Saving image</string>
+    <string name="mc_loading_view_text">Loading</string>
+    <string name="mc_minute">m</string>
+    <string name="mc_monday">MO</string>
+    <string name="mc_never">Once</string>
+    <string name="mc_permission_apply">Request for permission</string>
+    <string name="mc_permission_message_content">%1$s requests %3$d permission(s) including %2$s</string>
+    <string name="mc_pm_allow_check_app">Allow</string>
+    <string name="mc_pm_allow_dialog_push">Allow push</string>
+    <string name="mc_pm_bluetooth">Bluetooth</string>
+    <string name="mc_pm_call">Call</string>
+    <string name="mc_pm_call_log">Read CallLog</string>
+    <string name="mc_pm_camera">Camera (Photo/Video)</string>
+    <string name="mc_pm_close">Close</string>
+    <string name="mc_pm_contacts">Read Contacts</string>
+    <string name="mc_pm_dialog_push">Pop-up push</string>
+    <string name="mc_pm_dlg_cancel">Cancel</string>
+    <string name="mc_pm_dlg_ok">OK</string>
+    <string name="mc_pm_location">Locate</string>
+    <string name="mc_pm_network">Mobile data</string>
+    <string name="mc_pm_nfc">NFC</string>
+    <string name="mc_pm_not_allow_check_app">Forbid</string>
+    <string name="mc_pm_not_allow_dialog_push">Disable</string>
+    <string name="mc_pm_online_intenert">Internet</string>
+    <string name="mc_pm_open">Open</string>
+    <string name="mc_pm_r_mms">Read MMS</string>
+    <string name="mc_pm_r_sms">Read SMS</string>
+    <string name="mc_pm_recordaudio_local">Local/Calling Record</string>
+    <string name="mc_pm_recordaudio_phone">Calling Record</string>
+    <string name="mc_pm_s_mms">Send MMS</string>
+    <string name="mc_pm_s_sms">Send SMS</string>
+    <string name="mc_pm_set_bluetooth_on">Open bluetooth</string>
+    <string name="mc_pm_set_gprs_on">Open Mobile data</string>
+    <string name="mc_pm_set_wifi_on">Open WLAN</string>
+    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_praised_message">Like</string>
+    <string name="mc_pull_refresh">Pull down to refresh</string>
+    <string name="mc_reject">Reject</string>
+    <string name="mc_saturday">SA</string>
+    <string name="mc_search">Search</string>
+    <string name="mc_search_button_text">Search</string>
+    <string name="mc_search_icon">Search</string>
+    <string name="mc_search_icon_input_clear">Clear</string>
+    <string name="mc_search_text">Search</string>
+    <string name="mc_second">s</string>
+    <string name="mc_selectionbutton_all">All</string>
+    <string name="mc_sunday">SU</string>
+    <string name="mc_thursday">TH</string>
+    <string name="mc_time_picker_leap">Leap month</string>
+    <string name="mc_tuesday">TU</string>
+    <string name="mc_value_checked">Selected</string>
+    <string name="mc_value_not_checked">Not selected</string>
+    <string name="mc_voice_icon">Voice Search</string>
+    <string name="mc_wednesday">WE</string>
+    <string name="mc_weekend">Weekend</string>
+    <string name="mc_working_day">Weekdays</string>
+    <string name="mc_yes">OK</string>
+    <string name="more_item_label">More</string>
+    <string name="mc_date_time_hour">h</string>
+    <string name="mc_date_time_min">m</string>
+    <string name="mc_pattern_a_hour_before">1 hour ago</string>
+    <string name="mc_pattern_a_minute_before">1 minute ago</string>
+    <string name="mc_pattern_hour_before">, hours ago</string>
+    <string name="mc_pattern_minute_before">, minutes ago</string>
+    <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_today">Today</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_yesterday">Yesterday</string>
+    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
+    <string name="alwaysUse">Use this option as default</string>
+    <string name="date_time_set">Set</string>
+    <string name="mz_date_time_day">d</string>
+    <string name="mz_date_time_hour">h</string>
+    <string name="mz_date_time_min">m</string>
+    <string name="mz_date_time_month">m</string>
+    <string name="mz_date_time_sec">s</string>
+    <string name="mz_date_time_year">y</string>
+    <string name="mz_network_unavailable_hint">Network unavailable, please check network settings.</string>
+    <string name="mz_wif_setting_dialog_message">No network, please check your settings.</string>
+    <string name="mz_wif_setting_dialog_set">Set</string>
+    <string name="app_name">Certificate Installer</string>
+    <string name="pick_file_title">Choose a certificate</string>
+    <string name="pkcs12_password_dialog_title">Extract certificate</string>
+    <string name="extracting_pkcs12">Extracting...</string>
+    <string name="pkcs12_file_password_dialog_title">Extract from %s</string>
+    <string name="name_credential_dialog_title">Name the certificate</string>
+    <string name="credential_name">Certificate name:</string>
+    <string name="credential_password">Type the password to extract the certificates.</string>
+    <string name="credential_info">Contains:</string>
+    <string name="p12_description">Certificates in PKCS12 keystore.</string>
+    <string name="one_userkey">1 user key</string>
+    <string name="one_usercrt">1 user certificate</string>
+    <string name="one_cacrt">one CA certificate</string>
+    <string name="n_cacrts">%d CA certificates</string>
+    <string name="password_error">Type the correct password.</string>
+    <string name="password_empty_error">Type the password.</string>
+    <string name="name_empty_error">Type a name.</string>
+    <string name="name_char_error">Type a name that contains only letters and numbers.</string>
+    <string name="storage_error">"Couldn't save the certificate. Touch OK to retry."</string>
+    <string name="unable_to_save_cert">"Couldn't save the certificate. The credential storage isn't enabled or properly initialized."</string>
+    <string name="cert_not_saved">The certificate is not installed.</string>
+    <string name="no_cert_to_saved">No certificate to install.</string>
+    <string name="invalid_cert">The certificate is invalid.</string>
+    <string name="cert_is_added">%s is installed.</string>
+    <string name="cert_too_large_error">"Couldn't install because the certificate size is too large."</string>
+    <string name="cert_missing_error">"Couldn't install because the certificate file couldn't be located."</string>
+    <string name="cert_read_error">"Couldn't install because the certificate file couldn't be read."</string>
+    <string name="no_cert_file_found">No certificate file found in phone storage.</string>
+    <string name="sdcard_not_present">"SD card isn't present."</string>
+    <string name="only_primary_user_allowed">Only the owner of this device may install certificates.</string>
+    <string name="credential_usage_label">Credential use:</string>
+</resources>

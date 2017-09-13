@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/recycler_outside_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.meizu.cloud.base.widget.PullDownRecyclerView android:id="@id/recyclerView" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" app:listSelectors="@drawable/mz_list_selector_background" />
+    <com.meizu.cloud.app.widget.LoadDataView android:id="@id/load_data_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="center" android:layout_gravity="bottom" android:background="@drawable/mz_smartbar_background" android:layout_width="fill_parent" android:layout_height="@dimen/mz_action_bar_default_height_appcompat_split">
+        <Button android:textSize="16.0sp" android:id="@id/update_all" android:layout_width="240.0dip" android:layout_height="38.0dip" android:text="@string/all_update" style="@style/Widget.DeviceDefault.Light.Button.Color.Blue" />
+    </LinearLayout>
+</FrameLayout>

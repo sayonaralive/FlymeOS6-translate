@@ -654,6 +654,7 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_downloading_patch_prefix">Скачать файл обновления</string>
     <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
@@ -671,7 +672,7 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
-    <string name="mc_pm_allow_check_app">Разрешить</string>
+    <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -685,7 +686,7 @@
     <string name="mc_pm_location">Найти</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">Запретить</string>
+    <string name="mc_pm_not_allow_check_app">Выход</string>
     <string name="mc_pm_not_allow_dialog_push">Отключить</string>
     <string name="mc_pm_online_intenert">Интернет</string>
     <string name="mc_pm_open">Открыть</string>
@@ -709,7 +710,6 @@
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с</string>
-    <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -730,6 +730,8 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_allow">ОК</string>
+    <string name="mz_alway_allow">Разрешать всегда</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
@@ -737,6 +739,37 @@
     <string name="mz_date_time_sec">с</string>
     <string name="mz_date_time_year">г</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_pm_allow_check_app">ОК</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_call">телефонные вызовы</string>
+    <string name="mz_pm_call_log">чтение журнала вызовов</string>
+    <string name="mz_pm_camera">использование камеры</string>
+    <string name="mz_pm_close">Выкл.</string>
+    <string name="mz_pm_contacts">чтение контактов</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dlg_cancel">Отмена</string>
+    <string name="mz_pm_dlg_ok">ОК</string>
+    <string name="mz_pm_location">доступ к местоположению</string>
+    <string name="mz_pm_network">использование передачи данных</string>
+    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_not_allow_check_app">Выход</string>
+    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_online_intenert">доступ в интернет</string>
+    <string name="mz_pm_open">Вкл.</string>
+    <string name="mz_pm_r_mms">чтение MMS</string>
+    <string name="mz_pm_r_sms">чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">запись вызовов</string>
+    <string name="mz_pm_s_mms">отправка MMS</string>
+    <string name="mz_pm_s_sms">отправка SMS</string>
+    <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
+    <string name="mz_pm_wlan">доступ к Wi-Fi</string>
+    <string name="mz_reject">Выход</string>
     <string name="mz_share_view_title">Передать</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
@@ -751,7 +784,7 @@
     <string name="mzc_action_bar_finish">Сохранить</string>
     <string name="mzc_add_contact">Добавить в контакты</string>
     <string name="mzc_add_contacts_success">Добавление завершено</string>
-    <string name="mzc_add_field">Добавить поле</string>
+    <string name="mzc_add_field">Добавить информацию</string>
     <string name="mzc_add_group_members">Добавить в группу</string>
     <string name="mzc_add_mark">Добавить метку</string>
     <string name="mzc_add_spam">В чёрный список</string>
@@ -781,11 +814,13 @@
     <string name="mzc_call_log_deleting">Удаление</string>
     <string name="mzc_call_log_no_choiced_title">Выбрать журнал вызовов</string>
     <string name="mzc_call_missed_ring_one_time">Один гудок</string>
+    <string name="mzc_cancel_confirmation_dialog_message">Отменить изменения?</string>
     <string name="mzc_cancel_copy_confirmation_message">Отменить копирование контактов?</string>
     <string name="mzc_change_label">Изменить ярлык</string>
     <string name="mzc_clear_call_log">Очистить журнал вызовов</string>
     <string name="mzc_contactSavedErrorToast">Ошибка сохранения</string>
-    <string name="mzc_contact_count">Контактов: %s</string>
+    <string name="mzc_contact_count">%s контакт(ов)</string>
+    <string name="mzc_contact_edit_discard">Отмена</string>
     <string name="mzc_contact_edit_filter_info">Введён неподдерживаемый символ</string>
     <string name="mzc_contact_editor_title_editor_contact">Изменить контакт</string>
     <string name="mzc_contact_editor_title_new_contact">Новый контакт</string>
@@ -799,7 +834,7 @@
     <string name="mzc_contacts_from_other_bluetooth_one_first">• Android-устройства, как правило, содержат опцию включения \"Bluetooth\" в Настройки > Беспроводные сети</string>
     <string name="mzc_contacts_from_other_bluetooth_one_second">• В iOS-устройствах старой версии \"Bluetooth\" находится в разделе Настроек > Общее</string>
     <string name="mzc_contacts_from_other_bluetooth_tibs">Пожалуйста, держите как можно ближе устройства во время передачи файлов во избежание разрыва соединения.</string>
-    <string name="mzc_contacts_from_other_bluetooth_two">2. Включите в настройках Bluetooth опцию обнаружения</string>
+    <string name="mzc_contacts_from_other_bluetooth_two">2. Разрешить другим устройствам обнаруживать телефон</string>
     <string name="mzc_contacts_from_other_bluetooth_two_first">• На разных устройствах это может называться \"Видимость\" или \"Обнаружение\"</string>
     <string name="mzc_contacts_from_other_bluetooth_two_second">• На iOS-устройствах можно пропустить этот шаг</string>
     <string name="mzc_contacts_from_other_fail_no_sim">Вставьте SIM-карту</string>
@@ -825,6 +860,7 @@
     <string name="mzc_copying_contacts_notifier_title">Контакты скопированы в %s</string>
     <string name="mzc_copying_request_rejected_message">Система занята. Повторите попытку позже.</string>
     <string name="mzc_copying_target_flyme_account">Аккаунт Flyme</string>
+    <string name="mzc_cta_dialog_message">Приложение должно иметь доступ к сети и местоположению, чтобы идентифицировать неизвестные номера и обеспечивать локальные услуги</string>
     <string name="mzc_custom_ringtone">Рингтон</string>
     <string name="mzc_debug_dump_database_message">Вы должны скопировать свою базу данных, содержащую все контакты и журналы вызовов, во внутреннюю память устройства и отправить её по электронной почте. Не забудьте удалить копию после того, как она будет перенесена с устройства или получена по электронной почте.</string>
     <string name="mzc_debug_dump_delete_button">Удалить сейчас</string>
@@ -869,6 +905,7 @@
     <string name="mzc_error_success_missing_count" formatted="false">Детали: %s успешно, %s неудачно</string>
     <string name="mzc_eventLabelsGroup">Дата</string>
     <string name="mzc_eventTypeAnniversary">Юбилей</string>
+    <string name="mzc_export_to_item_bluetooth">Bluetooth</string>
     <string name="mzc_export_to_prepare_vcard">Подготовка vCard</string>
     <string name="mzc_export_vcard_activity_title">Экспорт контактов</string>
     <string name="mzc_exporting_contact_finished_title">Экспорт завершён</string>
@@ -937,8 +974,10 @@
     <string name="mzc_loading">Загрузка</string>
     <string name="mzc_local_profile_title">Мой профиль</string>
     <string name="mzc_max_limit">Максимум записей: %1$s</string>
+    <string name="mzc_menu_call_recording">История записи вызовов</string>
     <string name="mzc_menu_delete">Удалить</string>
     <string name="mzc_menu_delete_text">Удалить</string>
+    <string name="mzc_menu_export_to">Экспорт в %s</string>
     <string name="mzc_menu_export_to_disk">Экспорт на диск для хранения</string>
     <string name="mzc_menu_import">Импорт</string>
     <string name="mzc_menu_share">Передать</string>
@@ -947,12 +986,17 @@
     <string name="mzc_missing_name_index">Нет</string>
     <string name="mzc_modify_mark">Изменить тег</string>
     <string name="mzc_more">Больше данных</string>
-    <string name="mzc_mspace_add_privacy">Установить как личный</string>
+    <string name="mzc_mspace_add_message">Добавление</string>
+    <string name="mzc_mspace_add_privacy">В личное</string>
     <string name="mzc_mspace_add_privacy_contacts">Добавить личные контакты</string>
     <string name="mzc_mspace_add_privacy_error">Вы можете добавить не более 100 личных контактов</string>
     <string name="mzc_mspace_cancel">Убрать из личного</string>
+    <string name="mzc_mspace_cancel_message">Отмена</string>
+    <string name="mzc_mspace_change_message">Загрузка</string>
     <string name="mzc_mspace_delete_contacts_message">         Возврат %s к основным контактам и восстановление журнала вызовов и сообщений     </string>
     <string name="mzc_mspace_delete_contacts_message_more_than_tree" formatted="false">         Возврат %s контактов, включая %s к основным контактам и восстановление журнала вызовов и сообщений     </string>
+    <string name="mzc_mspace_delete_message">Удаление</string>
+    <string name="mzc_mspace_no_privacy_contacts">Нет личных контактов</string>
     <string name="mzc_mspace_title">Личные контакты</string>
     <string name="mzc_net_contact_app_label">Желтые страницы</string>
     <string name="mzc_network_communications">Веб-связь</string>
@@ -977,6 +1021,7 @@
     <string name="mzc_phone_slot_call">Использовать SIM %s для вызова</string>
     <string name="mzc_phone_video_call">Видеовызов</string>
     <string name="mzc_phone_video_call_slot_call">SIM %s - Видеовызов</string>
+    <string name="mzc_photo_restore_message">Восстановить аватар по умолчанию?</string>
     <string name="mzc_pick_contacts_title">Выбрать контакты</string>
     <string name="mzc_pick_menu_add">Добавить</string>
     <string name="mzc_pick_share_contact">Передать контакт</string>
@@ -986,7 +1031,7 @@
     <string name="mzc_preference_aggregation">Объединение дубликатов</string>
     <string name="mzc_preference_export_contacts_title">Экспорт контактов</string>
     <string name="mzc_preference_import_contacts_from_otherphone_title">Импорт с другого телефона</string>
-    <string name="mzc_preference_import_contacts_from_sim_title">Импорт контактов с SIM-карты</string>
+    <string name="mzc_preference_import_contacts_from_sim_title">Импорт с SIM-карты</string>
     <string name="mzc_preference_import_contacts_from_storagedisk_title">Импорт из внутренней памяти</string>
     <string name="mzc_preference_sim_contacts_title">Контакты SIM-карты</string>
     <string name="mzc_preference_title">Управление контактами</string>
@@ -994,6 +1039,7 @@
     <string name="mzc_preset_head_finish">Готово</string>
     <string name="mzc_preset_head_replace">Сменить аватар</string>
     <string name="mzc_preset_head_select">Выбрать</string>
+    <string name="mzc_preset_select_empty">Опция не доступна, обновите прошивку</string>
     <string name="mzc_progress_copying_notifier_message">Копирование контактов</string>
     <string name="mzc_progress_notifier_message">Импортирование %1$s/%2$s: %3$s</string>
     <string name="mzc_progress_number">%1$s/%2$s %3$s%%</string>
@@ -1091,6 +1137,8 @@
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="preset_head_label">Предуст. аватар</string>
     <string name="prl_version">Версия PRL</string>
+    <string name="restore_contacts">Восстановление контактов</string>
+    <string name="restore_contacts_dialog_msg">Вы хотите восстановить контакты до даты %1$s ?</string>
     <string name="socialProfileTypeCustom">Настройка пользователя</string>
     <string name="socialProfileTypeOther">Другое</string>
     <string name="socialProfileTypeSinaWeibo">Sina Weibo</string>
@@ -1121,9 +1169,4 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
-    <string name="mzc_cta_dialog_message">Приложение должно иметь доступ к сети и местоположению, чтобы идентифицировать неизвестные номера и обеспечивать локальные услуги</string>
-    <string name="mzc_account_type_lable_flyme">Аккаунт Meizu</string>
-    <string name="mzc_mspace_no_privacy_contacts">Нет личных контактов</string>
-    <string name="mzc_photo_restore_message">Восстановить умолчания?</string>
-    <string name="mzc_preset_select_empty">Опция не доступна, обновите прошивку</string>
 </resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="font_updates">
+        <item quantity="other">Можно обновить шрифтов: %d</item>
+    </plurals>
+    <plurals name="font_updates_complete">
+        <item quantity="other">Шрифтов обновлено: %1$d</item>
+    </plurals>
+    <plurals name="local_delete_badge">
+        <item quantity="other">Удалить обои: %d</item>
+        <item quantity="one">Удалить обои: %d</item>
+    </plurals>
+    <plurals name="local_delete_font">
+        <item quantity="other">Удаление шрифтов: %d</item>
+        <item quantity="one">Удаление шрифтов: %d</item>
+    </plurals>
+    <plurals name="local_delete_pap">
+        <item quantity="other">Удаление обоев: %d</item>
+        <item quantity="one">Удаление обоев: %d</item>
+    </plurals>
+    <plurals name="local_delete_ringtone">
+        <item quantity="other">Удаление рингтонов: %d</item>
+        <item quantity="one">Удаление рингтонов: %d</item>
+    </plurals>
+    <plurals name="local_delete_theme">
+        <item quantity="other">Удаление тем: %d</item>
+        <item quantity="one">Удаление тем: %d</item>
+    </plurals>
+    <plurals name="theme_updates">
+        <item quantity="other">Можно обновить тем: %d</item>
+    </plurals>
+    <plurals name="theme_updates_complete">
+        <item quantity="other">Обновлено тем: %1$d</item>
+    </plurals>
+    <plurals name="update_incremental_complete_title">
+        <item quantity="other">Обновлено тем: %d</item>
+        <item quantity="one">Обновлено тем: %d</item>
+    </plurals>
+</resources>
