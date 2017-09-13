@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="alarm_getup_word">
+        <item>叫醒</item>
+        <item>闹醒</item>
+        <item>起床</item>
+        <item>喊醒</item>
+    </string-array>
+    <string-array name="answer_string_array">
+        <item>人家听不懂你在说什么。</item>
+        <item>别说这个了，我还会讲笑话哦！</item>
+        <item>你应该说得具体一点，比如明天天气怎么样？</item>
+        <item>你这么说，我的内心几乎是崩溃的...</item>
+        <item>一百块都不给我，这个话题我不接。</item>
+    </string-array>
+    <string-array name="call_hungup">
+        <item>官方</item>
+        <item>果断</item>
+        <item>挂断</item>
+        <item>拒绝</item>
+        <item>挂</item>
+        <item>挂电话</item>
+        <item>挂单</item>
+        <item>瓜但</item>
+        <item>挂但</item>
+    </string-array>
+    <string-array name="call_mute">
+        <item>忽略</item>
+        <item>忽裂</item>
+        <item>呼累</item>
+        <item>胡累</item>
+        <item>扑灭</item>
+    </string-array>
+    <string-array name="call_receive">
+        <item>接听</item>
+        <item>接电话</item>
+        <item>接</item>
+        <item>接天</item>
+    </string-array>
+    <string-array name="close_alarm_tip">
+        <item>这下清净了</item>
+        <item>你被解放了</item>
+        <item>恭喜你获得了自由</item>
+    </string-array>
+    <string-array name="cmd_first_card">
+        <item>卡1</item>
+        <item>卡一</item>
+        <item>第一张卡</item>
+        <item>第1张卡</item>
+        <item>一号卡</item>
+        <item>1号卡</item>
+    </string-array>
+    <string-array name="cmd_receive_sms_later">
+        <item>稍后</item>
+        <item>稍后处理</item>
+        <item>取消</item>
+        <item>不需要</item>
+        <item>NO</item>
+        <item>不用</item>
+        <item>忽略</item>
+    </string-array>
+    <string-array name="cmd_receive_sms_play">
+        <item>播报</item>
+        <item>跑跑</item>
+        <item>婆婆</item>
+        <item>火爆</item>
+        <item>播放</item>
+        <item>确定</item>
+        <item>可以</item>
+        <item>是的</item>
+        <item>对</item>
+        <item>没错</item>
+        <item>好的</item>
+        <item>需要</item>
+        <item>YES</item>
+        <item>恩</item>
+        <item>OK</item>
+        <item>播</item>
+        <item>报</item>
+    </string-array>
+    <string-array name="cmd_second_card">
+        <item>卡2</item>
+        <item>卡二</item>
+        <item>第二张卡</item>
+        <item>第2张卡</item>
+        <item>二号卡</item>
+        <item>2号卡</item>
+    </string-array>
+    <string-array name="cmd_send_sms">
+        <item>发送</item>
+        <item>取消</item>
+        <item>重录内容</item>
+        <item>重新录入</item>
+        <item>重新输入</item>
+        <item>输入</item>
+        <item>重新</item>
+        <item>录入</item>
+        <item>重录</item>
+        <item>内容</item>
+    </string-array>
+    <string-array name="cmd_send_weibo">
+        <item>发送</item>
+        <item>取消</item>
+        <item>重录内容</item>
+        <item>重新录入</item>
+        <item>重新输入</item>
+    </string-array>
+    <string-array name="cmd_shutstart_cancel">
+        <item>取消</item>
+        <item>不需要</item>
+        <item>NO</item>
+        <item>否</item>
+        <item>不行</item>
+        <item>不好</item>
+        <item>不要</item>
+        <item>不用</item>
+        <item>别</item>
+        <item>不确认</item>
+        <item>不确定</item>
+        <item>不可以</item>
+        <item>不是</item>
+        <item>不对</item>
+    </string-array>
+    <string-array name="cmd_shutstart_ok">
+        <item>确认</item>
+        <item>确定</item>
+        <item>可以</item>
+        <item>是</item>
+        <item>对</item>
+        <item>没错</item>
+        <item>好的</item>
+        <item>需要</item>
+        <item>YES</item>
+        <item>恩</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="create_timer_tips">
+        <item>%s的计时器已经设置好了</item>
+        <item>已帮你设置了%s的计时器</item>
+    </string-array>
+    <string-array name="dialog_cmd_collection">
+        <item>你是谁</item>
+    </string-array>
+    <string-array name="eighteen_to_tweenty">
+        <item>"晚上好，
+需要什么帮助吗"</item>
+    </string-array>
+    <string-array name="eleven_thirty_to_tweleve_thirty">
+        <item>"中午好，
+有什么可以帮你"</item>
+    </string-array>
+    <string-array name="entries_meizu_app_font_size">
+        <item>小号</item>
+        <item>默认</item>
+        <item>中号</item>
+        <item>大号</item>
+        <item>超大</item>
+    </string-array>
+    <string-array name="error_answer">
+        <item>好像出了一点状况，请重试</item>
+        <item>出了一点小问题，请重试</item>
+    </string-array>
+    <string-array name="help_expand">
+        <item>"“打电话给妈妈”
+“回电话给诗派克”
+“拨打船长的电话”
+“拨打114”
+“用卡二给小杨打电话”"</item>
+        <item>"“给老爸发短信”
+“发短信给10086”
+“给诗派克回短信”
+“发短信告诉妈妈多运动”
+“用卡二发短信给小杨”"</item>
+        <item>"“下午两点钟叫醒我”
+“添加每天早晨7点的闹钟”
+“周一到周五早上7点半叫我起床”
+“取消下午两点的闹钟”
+ “查看我的闹钟”
+“关闭全部闹钟”
+“设置3分钟的倒计时”"</item>
+        <item>"“安排7点钟的会议”
+“添加3点钟的提醒”
+“新建明天8点钟和志明的会议”"</item>
+        <item>"“随机播放一首歌”
+“来一首王菲的歌”
+“听张学友的歌”
+“我想听《泡沫》”"</item>
+        <item>"“最近几天的天气情况”
+“明天有雨吗？”
+“北京的天气”
+“深圳温度如何？”
+“星期三的天气怎么样？”
+“昨天几度？”"</item>
+        <item>"“我的位置”
+“导航去深圳世界之窗”
+“去澳门怎么走？”
+“怎么去北京国家体育中心？”"</item>
+        <item>"“今天收到工资5000人民币”
+“流量费花了50元”
+“买鞋子用了1000”"</item>
+        <item>"“最近有什么好电影？”
+“搜索热门电影”
+“推荐几部电影”"</item>
+        <item>"“下载《愤怒的小鸟》”
+“启动画板”"</item>
+        <item>"“打开魅族官网”
+“上网查找招聘信息”
+“搜索魅族科技”
+“查一下楼市”"</item>
+        <item>"“打开无线网络”
+“关闭蓝牙”
+“开启GPS”"</item>
+        <item>"“我想听新闻”
+“听热点新闻”
+“播报新闻”"</item>
+        <item>"“离我最近的宾馆/酒店”
+“查找附近的KTV/酒吧”
+“查找附近的超市”"</item>
+        <item>"“你来自哪个国家的英文怎么说？”
+“欢迎来到北京怎么翻译？”
+“用英语怎么说：你的头发真好看”"</item>
+        <item>"“中国银行的股票涨了吗？”
+“查看今天腾讯的走势”"</item>
+        <item>"“珠穆朗玛峰有多高？”
+“更好用的大屏手机”
+“中国有多少人？”"</item>
+        <item>"“魅族最新款手机怎么样？”
+“怎么自动备份软件？”
+“手机通话有噪音”
+“为什么无法连接无线网络？”
+“手机相机拍照模糊怎么办？”
+“最近有什么促销活动？”"</item>
+    </string-array>
+    <string-array name="help_title">
+        <item>“给小溪打电话”</item>
+        <item>“发短信给小溪”</item>
+        <item>“明天早上8点叫我起床”</item>
+        <item>“提醒我早上记得带伞”</item>
+        <item>“播放王菲的红豆”</item>
+        <item>“今天天气怎么样？”</item>
+        <item>“从珠海到广州怎么走？”</item>
+        <item>“买猫粮用了200块钱”</item>
+        <item>“查询最新上映的电影”</item>
+        <item>“打开相机”</item>
+        <item>“怎么打好篮球”</item>
+        <item>“打开手电筒”</item>
+        <item>“最近有什么新闻？”</item>
+        <item>“北京王府井附近的银行”</item>
+        <item>“翻译我爱你”</item>
+        <item>“中石油的股票”</item>
+        <item>“你是谁？”</item>
+        <item>“MX6怎么样？”</item>
+    </string-array>
+    <string-array name="help_type">
+        <item>电话</item>
+        <item>短信</item>
+        <item>闹钟</item>
+        <item>提醒</item>
+        <item>音乐</item>
+        <item>查询天气</item>
+        <item>地图导航</item>
+        <item>记账</item>
+        <item>电影查询</item>
+        <item>找应用</item>
+        <item>网页搜索</item>
+        <item>系统设置</item>
+        <item>听新闻</item>
+        <item>生活周边</item>
+        <item>在线翻译</item>
+        <item>股票查询</item>
+        <item>随便聊聊</item>
+        <item>智能客服</item>
+    </string-array>
+    <string-array name="negative_cmd_collection">
+        <item>取消</item>
+        <item>不需要</item>
+        <item>NO</item>
+        <item>不用</item>
+        <item>别</item>
+        <item>不可以</item>
+    </string-array>
+    <string-array name="negative_element_collection">
+        <item>不</item>
+        <item>别</item>
+        <item>不要</item>
+        <item>不是</item>
+    </string-array>
+    <string-array name="nine_to_eleven_thirty">
+        <item>"上午好！
+需要什么帮助吗"</item>
+    </string-array>
+    <string-array name="positive_cmd_collection">
+        <item>发送</item>
+        <item>保存</item>
+        <item>创建</item>
+        <item>确定</item>
+        <item>可以</item>
+        <item>是</item>
+        <item>对</item>
+        <item>没错</item>
+        <item>好的</item>
+        <item>需要</item>
+        <item>YES</item>
+        <item>恩</item>
+        <item>OK</item>
+        <item>谢谢</item>
+    </string-array>
+    <string-array name="punctuations">
+        <item>。</item>
+        <item>，</item>
+        <item>？</item>
+        <item>！</item>
+    </string-array>
+    <string-array name="random">
+        <item>请说，我在听</item>
+        <item>有何贵干</item>
+        <item>请问需要什么帮助吗</item>
+    </string-array>
+    <string-array name="six_to_nine">
+        <item>"早上好，
+需要什么帮助吗"</item>
+    </string-array>
+    <string-array name="sweet_type_hotel">
+        <item>酒店</item>
+        <item>旅店</item>
+        <item>宾馆</item>
+        <item>旅舍</item>
+        <item>旅社</item>
+        <item>客栈</item>
+    </string-array>
+    <string-array name="sweet_type_music">
+        <item>音乐</item>
+        <item>歌</item>
+    </string-array>
+    <string-array name="sweet_type_restaurant_adj">
+        <item>好吃的</item>
+    </string-array>
+    <string-array name="sweet_type_restaurant_obj">
+        <item>餐厅</item>
+        <item>美食</item>
+        <item>餐饮</item>
+    </string-array>
+    <string-array name="tweenty_to_tweenty_four">
+        <item>"晚上好，
+有什么可以帮你"</item>
+    </string-array>
+    <string-array name="tweleve_thirty_to_eighteen">
+        <item>"下午好！
+有什么可以帮你"</item>
+        <item>"下午好！
+需要什么帮助吗"</item>
+    </string-array>
+    <string-array name="weather_iflytek">
+        <item>黔东南苗族侗族自治州锦屏县</item>
+        <item>兴安盟乌兰浩特市</item>
+    </string-array>
+    <string-array name="weather_meizu">
+        <item>锦屏</item>
+        <item>乌兰浩特</item>
+    </string-array>
+    <string-array name="weather_types">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>阵雨</item>
+        <item>雷阵雨</item>
+        <item>雷阵雨伴有冰雹</item>
+        <item>雨夹雪</item>
+        <item>小雨</item>
+        <item>中雨</item>
+        <item>大雨</item>
+        <item>暴雨</item>
+        <item>大暴雨</item>
+        <item>特大暴雨</item>
+        <item>阵雪</item>
+        <item>小雪</item>
+        <item>中雪</item>
+        <item>大雪</item>
+        <item>暴雪</item>
+        <item>雾</item>
+        <item>冻雨</item>
+        <item>沙尘暴</item>
+        <item>小到中雨</item>
+        <item>中到大雨</item>
+        <item>大到暴雨</item>
+        <item>暴雨到大暴雨</item>
+        <item>大暴雨到特大暴雨</item>
+        <item>小到中雪</item>
+        <item>中到大雪</item>
+        <item>大到暴雪</item>
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>强沙尘暴</item>
+        <item>霾</item>
+    </string-array>
+</resources>

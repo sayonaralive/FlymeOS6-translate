@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="decodemode">
+        <item>Hardware decoding (less power usage)</item>
+        <item>Soft decoding (more fluent)</item>
+    </string-array>
+    <string-array name="experience_list">
+        <item>Product intro</item>
+        <item>Flyme intro</item>
+        <item>Tips</item>
+        <item>Play video</item>
+    </string-array>
+    <string-array name="labeltype">
+        <item>Ratings</item>
+        <item>Director</item>
+        <item>Actor</item>
+        <item>Type</item>
+        <item>Region</item>
+        <item>Duration</item>
+        <item>Update</item>
+        <item>Episodes</item>
+        <item>Artist</item>
+        <item>Genre</item>
+        <item>School</item>
+        <item>Subject</item>
+        <item>Program type</item>
+        <item>Album type</item>
+        <item>Organization</item>
+        <item>Number of episodes</item>
+        <item>Lecturer</item>
+        <item>Athlete</item>
+        <item>Profession</item>
+        <item>Birthday</item>
+        <item>Location</item>
+        <item>Name</item>
+        <item>Release date</item>
+        <item>Voice-over artist</item>
+        <item>Host</item>
+        <item>Watch all</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="popupmenu_info">
+        <item>Play one video</item>
+        <item>Loop playback</item>
+        <item>Auto-play next video in folder</item>
+    </string-array>
+    <string-array name="windowsize_info">
+        <item>Adapt to screen</item>
+        <item>Full screen</item>
+        <item>Original size</item>
+    </string-array>
+</resources>

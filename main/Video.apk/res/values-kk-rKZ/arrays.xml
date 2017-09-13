@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="decodemode">
+        <item>Жабдықпен кодты ашу (азырақ қуат қолданады)</item>
+        <item>Бағдарламалық құралмен код ашу (тегісірек)</item>
+    </string-array>
+    <string-array name="experience_list">
+        <item>Өнім кіріспесі</item>
+        <item>Flyme кіріспесі</item>
+        <item>Ақыл-кеңес</item>
+        <item>Бейнені ойнату</item>
+    </string-array>
+    <string-array name="labeltype">
+        <item>Бағалар</item>
+        <item>Директор</item>
+        <item>Актер</item>
+        <item>Түрі</item>
+        <item>Өңір</item>
+        <item>Ұзақтық</item>
+        <item>Жаңарту</item>
+        <item>Сериялар</item>
+        <item>Орындаушы</item>
+        <item>Жанр</item>
+        <item>Мектеп</item>
+        <item>Тақырып</item>
+        <item>Бағдарлама түрі</item>
+        <item>Альбом түрі</item>
+        <item>Ұйым</item>
+        <item>Сериялар саны</item>
+        <item>Дәріс оқушы</item>
+        <item>Атлет</item>
+        <item>Кәсіп</item>
+        <item>Туған күн</item>
+        <item>Орынды анықтау</item>
+        <item>Аты</item>
+        <item>Шығарылған күні</item>
+        <item>Дубляж актері</item>
+        <item>Хост</item>
+        <item>Барлығын көру</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Қаң</item>
+        <item>Ақп</item>
+        <item>Нау</item>
+        <item>Сәу</item>
+        <item>Мам</item>
+        <item>Мау</item>
+        <item>Шіл</item>
+        <item>Там</item>
+        <item>Қыр</item>
+        <item>Қаз</item>
+        <item>Қар</item>
+        <item>Жел</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Жек</item>
+        <item>Дүй</item>
+        <item>Сей</item>
+        <item>Сәр</item>
+        <item>Бей</item>
+        <item>Жұм</item>
+        <item>Сен</item>
+    </string-array>
+    <string-array name="popupmenu_info">
+        <item>Бір бейнені ойнату</item>
+        <item>Қайталап ойнату</item>
+        <item>Тоқтаусыз ойнату</item>
+    </string-array>
+    <string-array name="windowsize_info">
+        <item>Экранға бейімдеу</item>
+        <item>Толық экран</item>
+        <item>Түпнұсқалы өлшем</item>
+    </string-array>
+</resources>

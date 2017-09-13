@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="decodemode">
+        <item>Аппаратное декодирование</item>
+        <item>Программное декодирование</item>
+    </string-array>
+    <string-array name="experience_list">
+        <item>О продукте</item>
+        <item>О Flyme</item>
+        <item>Советы</item>
+        <item>Воспроизвести видео</item>
+    </string-array>
+    <string-array name="labeltype">
+        <item>Рейтинг</item>
+        <item>Режиссёр</item>
+        <item>Актёр</item>
+        <item>Тип</item>
+        <item>Регион</item>
+        <item>Длительность</item>
+        <item>Обновить</item>
+        <item>Эпизоды</item>
+        <item>Исполнитель</item>
+        <item>Жанр</item>
+        <item>Школа</item>
+        <item>Тема</item>
+        <item>Тип программы</item>
+        <item>Тип альбома</item>
+        <item>Организация</item>
+        <item>Всего эпизодов</item>
+        <item>Преподаватель</item>
+        <item>Спортсмен</item>
+        <item>Профессия</item>
+        <item>День рождения</item>
+        <item>Местоположение</item>
+        <item>Имя</item>
+        <item>Дата выхода</item>
+        <item>Голос за кадром</item>
+        <item>Хост</item>
+        <item>Смотреть все</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="popupmenu_info">
+        <item>Однократно</item>
+        <item>Циклически</item>
+        <item>Непрерывно</item>
+    </string-array>
+    <string-array name="windowsize_info">
+        <item>Адаптация экрана</item>
+        <item>Полный экран</item>
+        <item>Оригинальный размер</item>
+    </string-array>
+</resources>

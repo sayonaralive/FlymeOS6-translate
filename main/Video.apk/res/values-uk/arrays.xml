@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="decodemode">
+        <item>Апаратне декодування (зменшене енергоспоживання)</item>
+        <item>Програмне декодування (більш гнучке)</item>
+    </string-array>
+    <string-array name="experience_list">
+        <item>Відомості про виріб</item>
+        <item>Відомості про Flyme</item>
+        <item>Поради</item>
+        <item>Відтворити відео</item>
+    </string-array>
+    <string-array name="labeltype">
+        <item>Оцінки</item>
+        <item>Режисер</item>
+        <item>Актор</item>
+        <item>Тип</item>
+        <item>Регіон</item>
+        <item>Тривалість</item>
+        <item>Оновити</item>
+        <item>Серії</item>
+        <item>Виконавець</item>
+        <item>Жанр</item>
+        <item>Школа</item>
+        <item>Тема</item>
+        <item>Тип програми</item>
+        <item>Тип альбому</item>
+        <item>Організація</item>
+        <item>Кількість серій</item>
+        <item>Лектор</item>
+        <item>Спортсмен</item>
+        <item>Професія</item>
+        <item>День народження</item>
+        <item>Місцезнаходження</item>
+        <item>"Ім'я"</item>
+        <item>Дата випуску</item>
+        <item>Актор дубляжу</item>
+        <item>Хост</item>
+        <item>Переглянути всі</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Квi</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="popupmenu_info">
+        <item>Відтворити одне відео</item>
+        <item>Відрізок пісні</item>
+        <item>Відтворювати безперервно</item>
+    </string-array>
+    <string-array name="windowsize_info">
+        <item>За розміром екрана</item>
+        <item>Повний екран</item>
+        <item>Оригінальний розмір</item>
+    </string-array>
+</resources>
